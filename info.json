@@ -1,0 +1,16 @@
+{
+    "arguments": [],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
+    "commit_autosave_message": "Test of WindowsSpyBlocker spy.txt",
+    "currently_under_test": "0",
+    "days_until_next_test": "1",
+    "last_test": "1529020392",
+    "list_name": "WindowsSpyBlocker_spy.list",
+    "name": "WindowsSpyBlocker spy.txt",
+    "ping": [
+        "crazy-max"
+    ],
+    "raw_link": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
+    "stable": "0"
+}

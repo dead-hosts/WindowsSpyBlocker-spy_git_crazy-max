@@ -1,0 +1,33 @@
+env:
+  global:
+    - secure: YuAYbwolWN3QhTK3xuV/0b+j5qe5shQVhqzV2pRSR++mr3xtChzC2hwSL+8EVw9FPjteZx/otxaXAXaQZ4xu/tzjqjhy1Lu+hM/ulsW3fcjlytnnCYHqfVqcq3Yx9o9ZM6ww5r4jl4UjeRgS+87OxYhumI4VLTZmyVvVaYSheCEvpO+pkys2mPRKbOm+JO548hSJLMyTlC2eP+Texa9gsmDELe6mbi+X/Cr9je3865AmLg1vj0m0K5ROzFpeXJSxLUtWh9JbPXlpW+8EVUBYINHtH2KROXLyOxgVifKMUM/ABcQo+usyk4RY9DUNm7E7P58sOKmJ2r5vNAkPp+qXdcOEO0dGIgK//ObSMzvosy+8gpi9TW0lCqmnUJTyfKhJlNCXZefczL2I3h7P6TmTf+dlxOu7Lxe6RgsMFRBTcPsWZfDh9xdtidfZAUafgzYtm+EvbzqkQB37Q90Pc6DqG4UXMjzkbSgv2e5HYleCtHf0cOpKXK6wCZIUscGL0ioU1pRzuHzmsv0tur8tLZJ/X9M/nwXipnEYqSlytgPIblnrJRRVNmue/FvMYPeDN07z6aLXvwolvomB2lTm2HJTgdD/IxAg9BdFvEtINR4/q3UVHroX7bZYCRpgXlQrE5EY1kBwy3ExWEpAE4APnUjCNqGlzBgFciVu1FGQkXzn8RY=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - TRAVIS_REPO_SLUG: dead-hosts/WindowsSpyBlocker-spy_git_crazy-max
+    - GIT_BRANCH: master
+
+language: python
+
+python:
+  - "3.6"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - apt
+  - pip
+
+sudo: required
+
+install:
+  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble
+  - sudo apt-get -y install dos2unix
+  #- pip3 install colorama
+
+script:
+  - python3 ./update_me.py
+
+notifications:
+  on_success:   change
+  on_failure:   always
