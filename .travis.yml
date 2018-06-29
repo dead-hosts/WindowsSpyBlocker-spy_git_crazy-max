@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: YuAYbwolWN3QhTK3xuV/0b+j5qe5shQVhqzV2pRSR++mr3xtChzC2hwSL+8EVw9FPjteZx/otxaXAXaQZ4xu/tzjqjhy1Lu+hM/ulsW3fcjlytnnCYHqfVqcq3Yx9o9ZM6ww5r4jl4UjeRgS+87OxYhumI4VLTZmyVvVaYSheCEvpO+pkys2mPRKbOm+JO548hSJLMyTlC2eP+Texa9gsmDELe6mbi+X/Cr9je3865AmLg1vj0m0K5ROzFpeXJSxLUtWh9JbPXlpW+8EVUBYINHtH2KROXLyOxgVifKMUM/ABcQo+usyk4RY9DUNm7E7P58sOKmJ2r5vNAkPp+qXdcOEO0dGIgK//ObSMzvosy+8gpi9TW0lCqmnUJTyfKhJlNCXZefczL2I3h7P6TmTf+dlxOu7Lxe6RgsMFRBTcPsWZfDh9xdtidfZAUafgzYtm+EvbzqkQB37Q90Pc6DqG4UXMjzkbSgv2e5HYleCtHf0cOpKXK6wCZIUscGL0ioU1pRzuHzmsv0tur8tLZJ/X9M/nwXipnEYqSlytgPIblnrJRRVNmue/FvMYPeDN07z6aLXvwolvomB2lTm2HJTgdD/IxAg9BdFvEtINR4/q3UVHroX7bZYCRpgXlQrE5EY1kBwy3ExWEpAE4APnUjCNqGlzBgFciVu1FGQkXzn8RY=
+    - secure: eofJr6PD3iqVi3CAUrccx+VtsltcfVikzHvi9x9Mz3tZP/JBhH//NtwtwsLlhUdkWMR99xm3/6NUgh70nxQTCkWeRg/2fAWiwbp3ur8nGruCWt3hvTshT/JJHzp+zTCJqD9f4xPYECNQu3JTlofFALNJf+hQQBifwaq7OQtd9BYu4JV2TdmUElwpG2IOhm1CgyivUPi0a2GHpQQ4Eb7BFEuY1nG4LcNIJVpBb00mFkm0ICClaDwXi87sqUs0qRiqPmtbKx0yN3NddA5CW1hf32Z6nqISjAxNR9lP4xDyPygBqjhMcEZz3WS5OrDGvkaeWEEWYF6RBzuKEQqkt4Q1HDtQykSKAaixi4j8y8axakuXMOt0tml6sEkd1eJjv0wyi3lH95bFzFoYzesPbPLRpj3lGZ28WLl+q+2v5tWPH/oV6K6nrH6ufcASY63wrlUxR0+sw9oSAg81o4VJJQw9rdyHIUyBn6lc8xvnU9m2R+74/6+UWUOFJycYLzPtBkM0m9goY7GGDLsXBZ6NSqRiMHZobzvp/cfRTaVU6i2JCs13VejbTV7cOOtG3s6VJMpGtG659aUlTwqiqnpcbV1LPKLQtnf4DBEyMiYRptQ/A6Om0fEr8zNsvDsJTY4ghuT2BCz9CeBZnFn/Ovgf/x9Z4LP3To1+XRlGkWlD+AZnyYI=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/WindowsSpyBlocker-spy_git_crazy-max
@@ -23,7 +23,6 @@ sudo: required
 install:
   - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble
   - sudo apt-get -y install dos2unix
-  #- pip3 install colorama
 
 script:
   - python3 ./update_me.py
