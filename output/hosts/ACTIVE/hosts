@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Fri 06 Jul 10:07:59 UTC 2018 
+# Date of generation: Sun 08 Jul 10:07:05 UTC 2018 
 
 0.0.0.0 a-0001.a-msedge.net 
 0.0.0.0 a-0001.dc-msedge.net 
@@ -338,31 +338,3 @@
 0.0.0.0 spyneteurope.microsoft.akadns.net 
 0.0.0.0 sqm.df.telemetry.microsoft.com 
 0.0.0.0 sqm.telemetry.microsoft.com 
-0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net 
-0.0.0.0 ssw.live.com 
-0.0.0.0 storecatalogrevocation.storequality.microsoft.com 
-0.0.0.0 survey.watson.microsoft.com 
-0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net 
-0.0.0.0 t0.ssl.ak.tiles.virtualearth.net 
-0.0.0.0 tele.trafficmanager.net 
-0.0.0.0 telecommand.telemetry.microsoft.com 
-0.0.0.0 telemetry.appex.bing.net 
-0.0.0.0 telemetry.microsoft.com 
-0.0.0.0 telemetry.urs.microsoft.com 
-0.0.0.0 test.activity.windows.com 
-0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com 
-0.0.0.0 v10.vortex-win.data.microsoft.com 
-0.0.0.0 version.hybrid.api.here.com 
-0.0.0.0 view.atdmt.com 
-0.0.0.0 vortex-sandbox.data.microsoft.com 
-0.0.0.0 vortex-win.data.microsoft.com 
-0.0.0.0 vortex.data.microsoft.com 
-0.0.0.0 watson.live.com 
-0.0.0.0 watson.microsoft.com 
-0.0.0.0 watson.ppe.telemetry.microsoft.com 
-0.0.0.0 watson.telemetry.microsoft.com 
-0.0.0.0 web.vortex.data.microsoft.com 
-0.0.0.0 wes.df.telemetry.microsoft.com 
-0.0.0.0 win10.ipv6.microsoft.com 
-0.0.0.0 win1710.ipv6.microsoft.com 
-0.0.0.0 www.msedge.net 
