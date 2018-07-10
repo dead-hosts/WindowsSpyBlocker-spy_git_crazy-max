@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 08 Jul 10:07:05 UTC 2018 
+# Date of generation: Tue 10 Jul 10:07:14 UTC 2018 
 
 0.0.0.0 a-0001.a-msedge.net 
 0.0.0.0 a-0001.dc-msedge.net 
@@ -27,6 +27,7 @@
 0.0.0.0 bn3p-cor001.api.p001.1drv.com 
 0.0.0.0 c-0001.dc-msedge.net 
 0.0.0.0 cache.datamart.windows.com 
+0.0.0.0 cds10.stn.llnw.net 
 0.0.0.0 cds1203.lon.llnw.net 
 0.0.0.0 cds1204.lon.llnw.net 
 0.0.0.0 cds1209.lon.llnw.net 
@@ -88,8 +89,10 @@
 0.0.0.0 cds21313.lon.llnw.net 
 0.0.0.0 cds21321.lon.llnw.net 
 0.0.0.0 cds299.lcy.llnw.net 
+0.0.0.0 cds30027.stn.llnw.net 
 0.0.0.0 cds308.lcy.llnw.net 
 0.0.0.0 cds310.lcy.llnw.net 
+0.0.0.0 cds38.ory.llnw.net 
 0.0.0.0 cds405.lcy.llnw.net 
 0.0.0.0 cds406.lcy.llnw.net 
 0.0.0.0 cds407.fra.llnw.net 
@@ -110,6 +113,7 @@
 0.0.0.0 cds489.lcy.llnw.net 
 0.0.0.0 cds493.lcy.llnw.net 
 0.0.0.0 cds494.lcy.llnw.net 
+0.0.0.0 cds54.ory.llnw.net 
 0.0.0.0 cds812.lon.llnw.net 
 0.0.0.0 cds815.lon.llnw.net 
 0.0.0.0 cds818.lon.llnw.net 
@@ -139,8 +143,3 @@
 0.0.0.0 i-sn2-cor002.api.p001.1drv.com 
 0.0.0.0 inference.location.live.net 
 0.0.0.0 redir.metaservices.microsoft.com 
-0.0.0.0 ssw.live.com 
-0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net 
-0.0.0.0 t0.ssl.ak.tiles.virtualearth.net 
-0.0.0.0 telecommand.telemetry.microsoft.com 
-0.0.0.0 view.atdmt.com 
