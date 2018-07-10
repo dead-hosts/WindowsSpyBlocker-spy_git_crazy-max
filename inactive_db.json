@@ -4,13 +4,13 @@
             "b.rad.msn.com",
             "cdn.atdmt.com",
             "rad.live.com",
-            "rad.msn.com"
-        ],
-        "to_test": [
+            "rad.msn.com",
             "settings.data.glbdns2.microsoft.com",
             "teredo.ipv6.microsoft.com",
             "vortex.data.glbdns2.microsoft.com",
-            "win8.ipv6.microsoft.com",
+            "win8.ipv6.microsoft.com"
+        ],
+        "to_test": [
             "a.rad.msn.com"
         ]
     }
