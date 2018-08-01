@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 30 Jul 20:07:30 UTC 2018 
+# Date of generation: Wed 01 Aug 10:08:00 UTC 2018 
 
 0.0.0.0 a-0001.a-msedge.net 
 0.0.0.0 a-0001.dc-msedge.net 
@@ -337,36 +337,3 @@
 0.0.0.0 sn3301-c.1drv.com 
 0.0.0.0 sn3301-e.1drv.com 
 0.0.0.0 sn3301-g.1drv.com 
-0.0.0.0 spynet2.microsoft.com 
-0.0.0.0 spynetalt.microsoft.com 
-0.0.0.0 spyneteurope.microsoft.akadns.net 
-0.0.0.0 sqm.df.telemetry.microsoft.com 
-0.0.0.0 sqm.telemetry.microsoft.com 
-0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net 
-0.0.0.0 ssw.live.com 
-0.0.0.0 storecatalogrevocation.storequality.microsoft.com 
-0.0.0.0 survey.watson.microsoft.com 
-0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net 
-0.0.0.0 t0.ssl.ak.tiles.virtualearth.net 
-0.0.0.0 tele.trafficmanager.net 
-0.0.0.0 telecommand.telemetry.microsoft.com 
-0.0.0.0 telemetry.appex.bing.net 
-0.0.0.0 telemetry.microsoft.com 
-0.0.0.0 telemetry.urs.microsoft.com 
-0.0.0.0 test.activity.windows.com 
-0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com 
-0.0.0.0 v10.vortex-win.data.microsoft.com 
-0.0.0.0 version.hybrid.api.here.com 
-0.0.0.0 view.atdmt.com 
-0.0.0.0 vortex-sandbox.data.microsoft.com 
-0.0.0.0 vortex-win.data.microsoft.com 
-0.0.0.0 vortex.data.microsoft.com 
-0.0.0.0 watson.live.com 
-0.0.0.0 watson.microsoft.com 
-0.0.0.0 watson.ppe.telemetry.microsoft.com 
-0.0.0.0 watson.telemetry.microsoft.com 
-0.0.0.0 web.vortex.data.microsoft.com 
-0.0.0.0 wes.df.telemetry.microsoft.com 
-0.0.0.0 win10.ipv6.microsoft.com 
-0.0.0.0 win1710.ipv6.microsoft.com 
-0.0.0.0 www.msedge.net 
