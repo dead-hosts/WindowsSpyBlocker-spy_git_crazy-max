@@ -1,18 +1,19 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker_spy.list": {
-        "1533293657": [
+        "1533466486": [
             "b.rad.msn.com",
             "cdn.atdmt.com",
             "rad.live.com",
             "rad.msn.com",
             "settings-win-ppe.data.microsoft.com",
-            "settings.data.glbdns2.microsoft.com",
+            "settings.data.glbdns2.microsoft.com"
+        ],
+        "to_test": [
             "spyneteurope.microsoft.akadns.net",
             "teredo.ipv6.microsoft.com",
             "vortex.data.glbdns2.microsoft.com",
             "win8.ipv6.microsoft.com",
             "a.rad.msn.com"
-        ],
-        "to_test": []
+        ]
     }
 }
