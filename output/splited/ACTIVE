@@ -1,22 +1,7 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 13 Aug 11:08:18 UTC 2018 
+# Date of generation: Wed 15 Aug 10:08:26 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
-a-0001.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0001.dc-msedge.net                                                                                 ACTIVE      NSLOOKUP  
-a-0002.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0003.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0003.dc-msedge.net                                                                                 ACTIVE      NSLOOKUP  
-a-0004.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0005.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0006.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0007.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0008.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0009.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0010.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0011.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-0012.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-msedge.net                                                                                         ACTIVE      WHOIS     
 a.ads1.msn.com                                                                                       ACTIVE      NSLOOKUP  
 a.ads2.msads.net                                                                                     ACTIVE      NSLOOKUP  
 a.ads2.msn.com                                                                                       ACTIVE      NSLOOKUP  
@@ -30,22 +15,6 @@ ads1.msads.net                                                                  
 ads1.msn.com                                                                                         ACTIVE      NSLOOKUP  
 aidps.atdmt.com                                                                                      ACTIVE      NSLOOKUP  
 aka-cdn-ns.adtech.de                                                                                 ACTIVE      NSLOOKUP  
-array101-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array102-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array103-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array104-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array201-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array202-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array203-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array204-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array401-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array402-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array403-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array404-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array405-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array406-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array407-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
-array408-prod.do.dsp.mp.microsoft.com                                                                ACTIVE      NSLOOKUP  
 b.ads1.msn.com                                                                                       ACTIVE      NSLOOKUP  
 b.ads2.msads.net                                                                                     ACTIVE      NSLOOKUP  
 bingads.microsoft.com                                                                                ACTIVE      NSLOOKUP  
@@ -99,7 +68,6 @@ bs.serving-sys.com                                                              
 by3301-a.1drv.com                                                                                    ACTIVE      NSLOOKUP  
 by3301-c.1drv.com                                                                                    ACTIVE      NSLOOKUP  
 by3301-e.1drv.com                                                                                    ACTIVE      NSLOOKUP  
-c-0001.dc-msedge.net                                                                                 ACTIVE      NSLOOKUP  
 c.atdmt.com                                                                                          ACTIVE      NSLOOKUP  
 c.msn.com                                                                                            ACTIVE      NSLOOKUP  
 cache.datamart.windows.com                                                                           ACTIVE      NSLOOKUP  
@@ -213,6 +181,7 @@ corp.sts.microsoft.com                                                          
 corpext.msitadfs.glbdns2.microsoft.com                                                               ACTIVE      NSLOOKUP  
 cs1.wpc.v0cdn.net                                                                                    ACTIVE      NSLOOKUP  
 cy2.settings.data.microsoft.com.akadns.net                                                           ACTIVE      NSLOOKUP  
+cy2.vortex.data.microsoft.com.akadns.net                                                             ACTIVE      NSLOOKUP  
 db5.settings.data.microsoft.com.akadns.net                                                           ACTIVE      NSLOOKUP  
 dev.virtualearth.net                                                                                 ACTIVE      NSLOOKUP  
 df.telemetry.microsoft.com                                                                           ACTIVE      NSLOOKUP  
@@ -221,11 +190,8 @@ ec.atdmt.com                                                                    
 ecn.dev.virtualearth.net                                                                             ACTIVE      NSLOOKUP  
 eu.vortex.data.microsoft.com                                                                         ACTIVE      NSLOOKUP  
 flex.msn.com                                                                                         ACTIVE      NSLOOKUP  
-fs.microsoft.com                                                                                     ACTIVE      NSLOOKUP  
 g.msn.com                                                                                            ACTIVE      NSLOOKUP  
-geo-prod.do.dsp.mp.microsoft.com                                                                     ACTIVE      NSLOOKUP  
 geo.settings.data.microsoft.com.akadns.net                                                           ACTIVE      NSLOOKUP  
-geover-prod.do.dsp.mp.microsoft.com                                                                  ACTIVE      NSLOOKUP  
 h1.msn.com                                                                                           ACTIVE      NSLOOKUP  
 h2.msn.com                                                                                           ACTIVE      NSLOOKUP  
 hk2.wns.windows.com                                                                                  ACTIVE      NSLOOKUP  
@@ -312,12 +278,13 @@ i-ch1-cor001.api.p001.1drv.com                                                  
 i-ch1-cor002.api.p001.1drv.com                                                                       ACTIVE      NSLOOKUP  
 i-sn2-cor001.api.p001.1drv.com                                                                       ACTIVE      NSLOOKUP  
 i-sn2-cor002.api.p001.1drv.com                                                                       ACTIVE      NSLOOKUP  
-i1.services.social.microsoft.com                                                                     ACTIVE      NSLOOKUP  
 inference.location.live.net                                                                          ACTIVE      NSLOOKUP  
 lb1.www.ms.akadns.net                                                                                ACTIVE      NSLOOKUP  
 live.rads.msn.com                                                                                    ACTIVE      NSLOOKUP  
+location-inference-westus.cloudapp.net                                                               ACTIVE      NSLOOKUP  
 m.adnxs.com                                                                                          ACTIVE      NSLOOKUP  
 mobile.pipe.aria.microsoft.com                                                                       ACTIVE      NSLOOKUP  
+modern.watson.data.microsoft.com.akadns.net                                                          ACTIVE      NSLOOKUP  
 msedge.net                                                                                           ACTIVE      WHOIS     
 msntest.serving-sys.com                                                                              ACTIVE      NSLOOKUP  
 nexus.officeapps.live.com                                                                            ACTIVE      NSLOOKUP  
@@ -344,7 +311,6 @@ sqm.df.telemetry.microsoft.com                                                  
 sqm.telemetry.microsoft.com                                                                          ACTIVE      NSLOOKUP  
 sqm.telemetry.microsoft.com.nsatc.net                                                                ACTIVE      NSLOOKUP  
 ssw.live.com                                                                                         ACTIVE      NSLOOKUP  
-storecatalogrevocation.storequality.microsoft.com                                                    ACTIVE      NSLOOKUP  
 survey.watson.microsoft.com                                                                          ACTIVE      NSLOOKUP  
 t0.ssl.ak.dynamic.tiles.virtualearth.net                                                             ACTIVE      NSLOOKUP  
 t0.ssl.ak.tiles.virtualearth.net                                                                     ACTIVE      NSLOOKUP  
@@ -354,19 +320,8 @@ telemetry.appex.bing.net                                                        
 telemetry.microsoft.com                                                                              ACTIVE      NSLOOKUP  
 telemetry.urs.microsoft.com                                                                          ACTIVE      NSLOOKUP  
 test.activity.windows.com                                                                            ACTIVE      NSLOOKUP  
-tsfe.trafficshaping.dsp.mp.microsoft.com                                                             ACTIVE      NSLOOKUP  
 v10.vortex-win.data.microsoft.com                                                                    ACTIVE      NSLOOKUP  
 version.hybrid.api.here.com                                                                          ACTIVE      NSLOOKUP  
 view.atdmt.com                                                                                       ACTIVE      NSLOOKUP  
 vortex-sandbox.data.microsoft.com                                                                    ACTIVE      NSLOOKUP  
 vortex-win.data.microsoft.com                                                                        ACTIVE      NSLOOKUP  
-vortex.data.microsoft.com                                                                            ACTIVE      NSLOOKUP  
-watson.live.com                                                                                      ACTIVE      NSLOOKUP  
-watson.microsoft.com                                                                                 ACTIVE      NSLOOKUP  
-watson.ppe.telemetry.microsoft.com                                                                   ACTIVE      NSLOOKUP  
-watson.telemetry.microsoft.com                                                                       ACTIVE      NSLOOKUP  
-web.vortex.data.microsoft.com                                                                        ACTIVE      NSLOOKUP  
-wes.df.telemetry.microsoft.com                                                                       ACTIVE      NSLOOKUP  
-win10.ipv6.microsoft.com                                                                             ACTIVE      NSLOOKUP  
-win1710.ipv6.microsoft.com                                                                           ACTIVE      NSLOOKUP  
-www.msedge.net                                                                                       ACTIVE      NSLOOKUP  
