@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Wed 15 Aug 10:08:26 UTC 2018 
+# Date of generation: Fri 17 Aug 10:08:56 UTC 2018 
 
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
@@ -324,4 +324,7 @@
 0.0.0.0 view.atdmt.com
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 www.msedge.net
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 watson.live.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com

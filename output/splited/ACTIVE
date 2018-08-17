@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Wed 15 Aug 10:08:26 UTC 2018 
+# Date of generation: Fri 17 Aug 10:08:56 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 a.ads1.msn.com                                                                                       ACTIVE      NSLOOKUP  
@@ -325,4 +325,7 @@ version.hybrid.api.here.com                                                     
 view.atdmt.com                                                                                       ACTIVE      NSLOOKUP  
 vortex-sandbox.data.microsoft.com                                                                    ACTIVE      NSLOOKUP  
 vortex-win.data.microsoft.com                                                                        ACTIVE      NSLOOKUP  
-www.msedge.net                                                                                       ACTIVE      NSLOOKUP  
+vortex.data.microsoft.com                                                                            ACTIVE      NSLOOKUP  
+watson.live.com                                                                                      ACTIVE      NSLOOKUP  
+watson.microsoft.com                                                                                 ACTIVE      NSLOOKUP  
+watson.ppe.telemetry.microsoft.com                                                                   ACTIVE      NSLOOKUP  
