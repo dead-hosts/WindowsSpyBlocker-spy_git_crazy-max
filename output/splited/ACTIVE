@@ -325,3 +325,6 @@ version.hybrid.api.here.com                                                     
 view.atdmt.com                                                                                       ACTIVE      NSLOOKUP  
 vortex-sandbox.data.microsoft.com                                                                    ACTIVE      NSLOOKUP  
 vortex-win.data.microsoft.com                                                                        ACTIVE      NSLOOKUP  
+win10.ipv6.microsoft.com                                                                             ACTIVE      NSLOOKUP  
+win1710.ipv6.microsoft.com                                                                           ACTIVE      NSLOOKUP  
+www.msedge.net                                                                                       ACTIVE      NSLOOKUP  
