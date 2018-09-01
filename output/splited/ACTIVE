@@ -323,3 +323,8 @@ test.activity.windows.com                                                       
 v10.vortex-win.data.microsoft.com                                                                    ACTIVE      NSLOOKUP  
 version.hybrid.api.here.com                                                                          ACTIVE      NSLOOKUP  
 view.atdmt.com                                                                                       ACTIVE      NSLOOKUP  
+web.vortex.data.microsoft.com                                                                        ACTIVE      NSLOOKUP  
+wes.df.telemetry.microsoft.com                                                                       ACTIVE      NSLOOKUP  
+win10.ipv6.microsoft.com                                                                             ACTIVE      NSLOOKUP  
+win1710.ipv6.microsoft.com                                                                           ACTIVE      NSLOOKUP  
+www.msedge.net                                                                                       ACTIVE      NSLOOKUP  
