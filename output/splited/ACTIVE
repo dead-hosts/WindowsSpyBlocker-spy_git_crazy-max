@@ -333,3 +333,5 @@ watson.telemetry.microsoft.com                                                  
 web.vortex.data.microsoft.com                                                                        ACTIVE      NSLOOKUP  
 wes.df.telemetry.microsoft.com                                                                       ACTIVE      NSLOOKUP  
 win10.ipv6.microsoft.com                                                                             ACTIVE      NSLOOKUP  
+win1710.ipv6.microsoft.com                                                                           ACTIVE      NSLOOKUP  
+www.msedge.net                                                                                       ACTIVE      NSLOOKUP  
