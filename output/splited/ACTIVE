@@ -327,3 +327,11 @@ vortex-sandbox.data.microsoft.com                                               
 vortex-win.data.microsoft.com                                                                        ACTIVE      NSLOOKUP  
 vortex.data.microsoft.com                                                                            ACTIVE      NSLOOKUP  
 watson.live.com                                                                                      ACTIVE      NSLOOKUP  
+watson.microsoft.com                                                                                 ACTIVE      NSLOOKUP  
+watson.ppe.telemetry.microsoft.com                                                                   ACTIVE      NSLOOKUP  
+watson.telemetry.microsoft.com                                                                       ACTIVE      NSLOOKUP  
+web.vortex.data.microsoft.com                                                                        ACTIVE      NSLOOKUP  
+wes.df.telemetry.microsoft.com                                                                       ACTIVE      NSLOOKUP  
+win10.ipv6.microsoft.com                                                                             ACTIVE      NSLOOKUP  
+win1710.ipv6.microsoft.com                                                                           ACTIVE      NSLOOKUP  
+www.msedge.net                                                                                       ACTIVE      NSLOOKUP  
