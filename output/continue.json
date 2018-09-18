@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker_spy.list": {
-        "down": 6,
+        "down": 0,
         "invalid": 0,
-        "tested": 308,
-        "up": 302
+        "tested": 0,
+        "up": 0
     }
 }

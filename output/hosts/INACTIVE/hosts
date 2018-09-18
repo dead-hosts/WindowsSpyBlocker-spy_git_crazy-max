@@ -7,3 +7,6 @@
 0.0.0.0 rad.live.com
 0.0.0.0 rad.msn.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
+0.0.0.0 teredo.ipv6.microsoft.com
+0.0.0.0 vortex.data.glbdns2.microsoft.com
+0.0.0.0 win8.ipv6.microsoft.com
