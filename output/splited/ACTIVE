@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 18 Sep 11:09:51 UTC 2018 
+# Date of generation: Thu 20 Sep 11:09:42 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 a.ads1.msn.com                                                                                       ACTIVE      NSLOOKUP  
@@ -304,6 +304,11 @@ settings-win.data.microsoft.com                                                 
 settings-win-ppe.data.microsoft.com                                                                  ACTIVE      NSLOOKUP  
 sn3301-c.1drv.com                                                                                    ACTIVE      NSLOOKUP  
 sn3301-e.1drv.com                                                                                    ACTIVE      NSLOOKUP  
+sn3301-g.1drv.com                                                                                    ACTIVE      NSLOOKUP  
+spynet2.microsoft.com                                                                                ACTIVE      NSLOOKUP  
+spynetalt.microsoft.com                                                                              ACTIVE      NSLOOKUP  
+sqm.df.telemetry.microsoft.com                                                                       ACTIVE      NSLOOKUP  
+sqm.telemetry.microsoft.com                                                                          ACTIVE      NSLOOKUP  
 sqm.telemetry.microsoft.com.nsatc.net                                                                ACTIVE      NSLOOKUP  
 ssw.live.com                                                                                         ACTIVE      NSLOOKUP  
 survey.watson.microsoft.com                                                                          ACTIVE      NSLOOKUP  
@@ -325,8 +330,3 @@ watson.live.com                                                                 
 watson.microsoft.com                                                                                 ACTIVE      NSLOOKUP  
 watson.ppe.telemetry.microsoft.com                                                                   ACTIVE      NSLOOKUP  
 watson.telemetry.microsoft.com                                                                       ACTIVE      NSLOOKUP  
-web.vortex.data.microsoft.com                                                                        ACTIVE      NSLOOKUP  
-wes.df.telemetry.microsoft.com                                                                       ACTIVE      NSLOOKUP  
-win10.ipv6.microsoft.com                                                                             ACTIVE      NSLOOKUP  
-win1710.ipv6.microsoft.com                                                                           ACTIVE      NSLOOKUP  
-www.msedge.net                                                                                       ACTIVE      NSLOOKUP  

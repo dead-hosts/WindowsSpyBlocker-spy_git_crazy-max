@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 18 Sep 11:09:51 UTC 2018 
+# Date of generation: Thu 20 Sep 11:09:42 UTC 2018 
 
 a.ads1.msn.com
 a.ads2.msads.net
@@ -303,6 +303,11 @@ settings-win.data.microsoft.com
 settings-win-ppe.data.microsoft.com
 sn3301-c.1drv.com
 sn3301-e.1drv.com
+sn3301-g.1drv.com
+spynet2.microsoft.com
+spynetalt.microsoft.com
+sqm.df.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
 sqm.telemetry.microsoft.com.nsatc.net
 ssw.live.com
 survey.watson.microsoft.com
@@ -324,8 +329,3 @@ watson.live.com
 watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
-web.vortex.data.microsoft.com
-wes.df.telemetry.microsoft.com
-win10.ipv6.microsoft.com
-win1710.ipv6.microsoft.com
-www.msedge.net
