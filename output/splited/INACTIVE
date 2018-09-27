@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 25 Sep 11:09:48 UTC 2018 
+# Date of generation: Thu 27 Sep 11:09:27 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 a.rad.msn.com                                                                                        INACTIVE    NSLOOKUP  
@@ -9,4 +9,4 @@ rad.live.com                                                                    
 rad.msn.com                                                                                          INACTIVE    NSLOOKUP  
 settings.data.glbdns2.microsoft.com                                                                  INACTIVE    NSLOOKUP  
 spyneteurope.microsoft.akadns.net                                                                    INACTIVE    NSLOOKUP  
-win8.ipv6.microsoft.com                                                                              INACTIVE    NSLOOKUP  
+teredo.ipv6.microsoft.com                                                                            INACTIVE    NSLOOKUP  
