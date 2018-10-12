@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Wed 10 Oct 11:10:09 UTC 2018 
+# Date of generation: Fri 12 Oct 11:10:04 UTC 2018 
 
 a.ads2.msads.net
 adl.windows.com
@@ -128,4 +128,6 @@ location-inference-westus.cloudapp.net
 preview.msn.com
 redir.metaservices.microsoft.com
 ssw.live.com
-view.atdmt.com
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+telecommand.telemetry.microsoft.com
