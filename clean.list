@@ -286,7 +286,6 @@ msntest.serving-sys.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 oca.telemetry.microsoft.com
-pre.footprintpredict.com
 preview.msn.com
 redir.metaservices.microsoft.com
 reports.wes.df.telemetry.microsoft.com
@@ -313,9 +312,8 @@ t0.ssl.ak.tiles.virtualearth.net
 telecommand.telemetry.microsoft.com
 telemetry.appex.bing.net
 telemetry.microsoft.com
-vortex-sandbox.data.microsoft.com
+telemetry.urs.microsoft.com
 vortex-win.data.microsoft.com
-vortex.data.microsoft.com
 watson.live.com
 watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
