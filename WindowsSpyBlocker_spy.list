@@ -289,6 +289,7 @@ msntest.serving-sys.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 oca.telemetry.microsoft.com
+onecollector.cloudapp.aria.akadns.net
 pre.footprintpredict.com
 preview.msn.com
 rad.live.com
@@ -324,8 +325,10 @@ telemetry.microsoft.com
 telemetry.urs.microsoft.com
 teredo.ipv6.microsoft.com
 test.activity.windows.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
-version.hybrid.api.here.com
+v20.vortex-win.data.microsoft.com
 view.atdmt.com
 vortex-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
