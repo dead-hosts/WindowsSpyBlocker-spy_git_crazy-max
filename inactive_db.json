@@ -1,15 +1,8 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker_spy.list": {
-        "1550579631": [
-            "wes.df.telemetry.microsoft.com",
-            "win10.ipv6.microsoft.com",
-            "win1710.ipv6.microsoft.com",
-            "win8.ipv6.microsoft.com",
-            "www.msedge.net"
-        ],
-        "to_test": [
-            "a.rad.msn.com",
+        "1550752518": [
             "alpha.telemetry.microsoft.com",
+            "a.rad.msn.com",
             "b.rad.msn.com",
             "cdn.atdmt.com",
             "cds299.lcy.llnw.net",
@@ -23,7 +16,9 @@
             "spyneteurope.microsoft.akadns.net",
             "tele.trafficmanager.net",
             "teredo.ipv6.microsoft.com",
-            "vortex.data.glbdns2.microsoft.com"
-        ]
+            "vortex.data.glbdns2.microsoft.com",
+            "win8.ipv6.microsoft.com"
+        ],
+        "to_test": []
     }
 }
