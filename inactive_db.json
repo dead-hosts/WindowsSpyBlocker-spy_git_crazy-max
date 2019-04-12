@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker_spy.list": {
-        "1554900990": [
+        "1555073842": [
             "a.rad.msn.com",
             "alpha.telemetry.microsoft.com",
             "b.rad.msn.com",
@@ -11,6 +11,7 @@
             "by3301-c.1drv.com",
             "by3301-e.1drv.com",
             "cdn.atdmt.com",
+            "cds20005.stn.llnw.net",
             "cds299.lcy.llnw.net",
             "ch3301-c.1drv.com",
             "ch3301-e.1drv.com",
