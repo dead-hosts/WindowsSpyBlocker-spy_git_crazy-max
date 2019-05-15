@@ -1,16 +1,13 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker_spy.list": {
-        "1557839698": [
-            "a.rad.msn.com",
+        "1557944035": [
             "alpha.telemetry.microsoft.com",
-            "b.rad.msn.com",
             "bl3301-a.1drv.com",
             "bl3301-c.1drv.com",
             "bl3301-g.1drv.com",
             "by3301-a.1drv.com",
             "by3301-c.1drv.com",
             "by3301-e.1drv.com",
-            "cdn.atdmt.com",
             "cds20005.stn.llnw.net",
             "cds299.lcy.llnw.net",
             "cds30027.stn.llnw.net",
@@ -24,9 +21,7 @@
             "db5.settings-win.data.microsoft.com.akadns.net",
             "eu-v10.events.data.microsoft.com",
             "geo.settings-win.data.microsoft.com.akadns.net",
-            "rad.live.com",
             "rad.msn.com",
-            "settings.data.glbdns2.microsoft.com",
             "sn3301-c.1drv.com",
             "sn3301-e.1drv.com",
             "sn3301-g.1drv.com",
@@ -34,9 +29,15 @@
             "tele.trafficmanager.net",
             "telemetry.remoteapp.windowsazure.com",
             "teredo.ipv6.microsoft.com",
-            "vortex.data.glbdns2.microsoft.com",
-            "win8.ipv6.microsoft.com"
+            "vortex.data.glbdns2.microsoft.com"
         ],
-        "to_test": []
+        "to_test": [
+            "a.rad.msn.com",
+            "b.rad.msn.com",
+            "cdn.atdmt.com",
+            "rad.live.com",
+            "settings.data.glbdns2.microsoft.com",
+            "win8.ipv6.microsoft.com"
+        ]
     }
 }

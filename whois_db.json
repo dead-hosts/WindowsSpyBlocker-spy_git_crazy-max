@@ -1,19 +1,17 @@
 {
-    "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker_spy.list": {
-        "adnexus.net": {
-            "epoch": "1588550400",
-            "expiration_date": "04-may-2020",
-            "state": "future"
-        },
-        "adnxs.com": {
-            "epoch": "1590537600",
-            "expiration_date": "27-may-2020",
-            "state": "future"
-        },
-        "msedge.net": {
-            "epoch": "1584316800",
-            "expiration_date": "16-mar-2020",
-            "state": "future"
-        }
+    "adnexus.net": {
+        "epoch": "1588550400",
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "adnxs.com": {
+        "epoch": "1590537600",
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
+    "msedge.net": {
+        "epoch": "1584316800",
+        "expiration_date": "16-mar-2020",
+        "state": "future"
     }
 }
