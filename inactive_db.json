@@ -1,40 +1,58 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker_spy.list": {
-        "1558272147": [
-            "alpha.telemetry.microsoft.com",
-            "bl3301-a.1drv.com",
+        "1558445259": [
             "bl3301-c.1drv.com",
-            "bl3301-g.1drv.com",
-            "by3301-c.1drv.com",
+            "db5.settings-win.data.microsoft.com.akadns.net",
+            "ch3301-c.1drv.com",
+            "cdn.atdmt.com"
+        ],
+        "1558445263": [
+            "b.rad.msn.com",
             "by3301-e.1drv.com",
-            "by3301-a.1drv.com",
+            "sn3301-e.1drv.com",
+            "compatexchange1.trafficmanager.net",
+            "cds299.lcy.llnw.net",
+            "bl3301-a.1drv.com",
+            "a.rad.msn.com",
+            "alpha.telemetry.microsoft.com",
+            "db5-eap.settings-win.data.microsoft.com.akadns.net",
+            "ch3302-e.1drv.com",
+            "vortex.data.glbdns2.microsoft.com"
+        ],
+        "1558445271": [
+            "settings.data.glbdns2.microsoft.com"
+        ],
+        "1558445274": [
+            "telemetry.remoteapp.windowsazure.com",
+            "sn3301-g.1drv.com",
+            "rad.live.com",
+            "by3301-c.1drv.com",
+            "bl3301-g.1drv.com",
+            "geo.settings-win.data.microsoft.com.akadns.net",
+            "tele.trafficmanager.net"
+        ],
+        "1558445275": [
+            "cds30027.stn.llnw.net",
+            "win8.ipv6.microsoft.com",
+            "ch3301-g.1drv.com",
+            "rad.msn.com"
+        ],
+        "1558445280": [
+            "teredo.ipv6.microsoft.com",
+            "eu-v10.events.data.microsoft.com"
+        ],
+        "1558445283": [
+            "ch3302-c.1drv.com",
+            "sn3301-c.1drv.com",
+            "by3301-a.1drv.com"
+        ],
+        "1558445284": [
+            "spyneteurope.microsoft.akadns.net",
+            "ch3301-e.1drv.com",
             "cds20005.stn.llnw.net"
         ],
-        "1558272157": [
-            "cds299.lcy.llnw.net",
-            "cds30027.stn.llnw.net",
-            "ch3301-g.1drv.com",
-            "compatexchange1.trafficmanager.net",
-            "ch3302-c.1drv.com",
-            "db5-eap.settings-win.data.microsoft.com.akadns.net",
-            "eu-v10.events.data.microsoft.com",
-            "db5.settings-win.data.microsoft.com.akadns.net"
-        ],
-        "1558272158": [
-            "ch3301-e.1drv.com",
-            "ch3301-c.1drv.com",
-            "ch3302-e.1drv.com",
-            "geo.settings-win.data.microsoft.com.akadns.net",
-            "rad.msn.com",
-            "sn3301-c.1drv.com",
-            "sn3301-e.1drv.com",
-            "sn3301-g.1drv.com",
-            "spyneteurope.microsoft.akadns.net",
-            "tele.trafficmanager.net",
-            "teredo.ipv6.microsoft.com",
-            "telemetry.remoteapp.windowsazure.com",
-            "win8.ipv6.microsoft.com",
-            "vortex.data.glbdns2.microsoft.com"
+        "1558445289": [
+            "cds20005.stn.llnw.net"
         ],
         "to_test": [
             "a.rad.msn.com",
