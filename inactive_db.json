@@ -2,7 +2,8 @@
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker_spy.list": {
         "1560778403": {},
         "1560864660": {},
-        "1560951320": {
+        "1560951320": {},
+        "1561124300": {
             "a.rad.msn.com": "INACTIVE",
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "b.rad.msn.com": "INACTIVE",
@@ -16,6 +17,10 @@
             "cds20005.stn.llnw.net": "INACTIVE",
             "cds21205.lon.llnw.net": "INACTIVE",
             "cds21207.lon.llnw.net": "INACTIVE",
+            "cds21225.lon.llnw.net": "INACTIVE",
+            "cds21229.lon.llnw.net": "INACTIVE",
+            "cds21233.lon.llnw.net": "INACTIVE",
+            "cds21244.lon.llnw.net": "INACTIVE",
             "cds299.lcy.llnw.net": "INACTIVE",
             "cds30027.stn.llnw.net": "INACTIVE",
             "ch3301-c.1drv.com": "INACTIVE",
