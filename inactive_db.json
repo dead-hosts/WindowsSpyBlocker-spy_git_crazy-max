@@ -5,7 +5,8 @@
         "1560951320": {},
         "1561124300": {},
         "1561298237": {},
-        "1561469949": {
+        "1561469949": {},
+        "1561556555": {
             "a.rad.msn.com": "INACTIVE",
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "b.rad.msn.com": "INACTIVE",
@@ -17,6 +18,9 @@
             "by3301-e.1drv.com": "INACTIVE",
             "cdn.atdmt.com": "INACTIVE",
             "cds20005.stn.llnw.net": "INACTIVE",
+            "cds20404.lcy.llnw.net": "INACTIVE",
+            "cds20411.lcy.llnw.net": "INACTIVE",
+            "cds20416.lcy.llnw.net": "INACTIVE",
             "cds21205.lon.llnw.net": "INACTIVE",
             "cds21207.lon.llnw.net": "INACTIVE",
             "cds21225.lon.llnw.net": "INACTIVE",
@@ -29,6 +33,7 @@
             "cds21258.lon.llnw.net": "INACTIVE",
             "cds21261.lon.llnw.net": "INACTIVE",
             "cds21267.lon.llnw.net": "INACTIVE",
+            "cds21278.lon.llnw.net": "INACTIVE",
             "cds299.lcy.llnw.net": "INACTIVE",
             "cds30027.stn.llnw.net": "INACTIVE",
             "ch3301-c.1drv.com": "INACTIVE",
