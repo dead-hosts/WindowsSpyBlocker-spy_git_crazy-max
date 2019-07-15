@@ -14,7 +14,8 @@
         "1562421130": {},
         "1562594279": {},
         "1562767232": {},
-        "1562939705": {
+        "1562939705": {},
+        "1563199535": {
             "a.rad.msn.com": "INACTIVE",
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "b.rad.msn.com": "INACTIVE",
@@ -63,7 +64,6 @@
             "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "eu-v10.events.data.microsoft.com": "INACTIVE",
             "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "pre.footprintpredict.com": "INACTIVE",
             "rad.live.com": "INACTIVE",
             "rad.msn.com": "INACTIVE",
             "settings.data.glbdns2.microsoft.com": "INACTIVE",
