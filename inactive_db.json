@@ -22,9 +22,7 @@
         "1564062866": {},
         "1564235738": {},
         "1564409026": {},
-        "1564581904": {
-            "win8.ipv6.microsoft.com": "INACTIVE"
-        },
+        "1564581904": {},
         "1564668443": {
             "a.rad.msn.com": "INACTIVE",
             "alpha.telemetry.microsoft.com": "INACTIVE",
@@ -87,7 +85,8 @@
             "tele.trafficmanager.net": "INACTIVE",
             "telemetry.remoteapp.windowsazure.com": "INACTIVE",
             "teredo.ipv6.microsoft.com": "INACTIVE",
-            "vortex.data.glbdns2.microsoft.com": "INACTIVE"
+            "vortex.data.glbdns2.microsoft.com": "INACTIVE",
+            "win8.ipv6.microsoft.com": "INACTIVE"
         }
     }
 }
