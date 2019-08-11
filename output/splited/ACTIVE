@@ -300,3 +300,7 @@ watson.microsoft.com                                                            
 watson.ppe.telemetry.microsoft.com                                                                   ACTIVE      DNSLOOKUP 
 watson.telemetry.microsoft.com                                                                       ACTIVE      DNSLOOKUP 
 web.vortex.data.microsoft.com                                                                        ACTIVE      DNSLOOKUP 
+wes.df.telemetry.microsoft.com                                                                       ACTIVE      DNSLOOKUP 
+win10.ipv6.microsoft.com                                                                             ACTIVE      DNSLOOKUP 
+win1710.ipv6.microsoft.com                                                                           ACTIVE      DNSLOOKUP 
+www.msedge.net                                                                                       ACTIVE      DNSLOOKUP 
