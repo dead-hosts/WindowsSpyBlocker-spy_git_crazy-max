@@ -1,43 +1,40 @@
-env:
-  global:
-    - secure: cuuUBegF6x7pgdknMJZDKokwxsHBOw0IjghG/0jem71GGjeVQB9EnYWG63q/lA8W/SzJdn0hiiqR3FmlgVHTFTLIfhRo1VyteU+ycPMcG13RJECec+NbWftRY7yDVHBkh9AmxAmPn1xc3dqpu1RN1CEuoUXvv8Jw7TZX4F/nSlgTE5o0n7W+tJ8vx+LZHbLEf6TM8iOFNJEa8vKgqr7cruh9Dcep+kg3WsVy1fhFnvWLonDEJEZRO/P9iP+rq137yJ1NBp7zVWrXqVHfS/LBNP+w/Wl7bCInXENnR9SKPoEXEAEG15wecGoPGomobvxEr230Pfc0KcJdq7NMh8nsXZvRbmQ9zRHA5XkxXFxXVS3MQ8Bjyhqz5j4pDG4gD1j8RwQl0Q/tdObK5/3T14nNt7nfAzrgYJvCB+buFf3U9s5pWQHHlGwaEaEPB1wlw/G8x5j/U5dNYHZXTs9EroqVPeKHoJG8ZG3qc3bLjikISlaqCJ6Vg1Imml5qlBunnLrJlIfczebxZkIml2vatuFy19n5TL68viyUiSPgh5x3HiAxxbNDlj9tZv7H6AbA5bU5V31dc3rVxGdEdb8aH2+tOoN+7rDdF3SKKeRgag4TuiE915rYn5C4huSivxicmoPyrV9J3TPR3zkcGdCYVsE7CdOv23yAGrbiKXpiShqyh+w=
-    - GIT_NAME: Travis CI
-    - GIT_EMAIL: dead-hosts@funilrys.com
-    - TRAVIS_REPO_SLUG: dead-hosts/WindowsSpyBlocker-spy_git_crazy-max
-    - GIT_BRANCH: master
-    - UPDATE_ME_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/update_me.py
-    - ADMIN_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/admin.py
-
-dist: xenial
-sudo: required
-
-language: python
-
-python:
-  - "3.7"
-
-matrix:
-  fast_finish: true
-
-cache:
-  - pip
-
 addons:
-  apt:
-    packages:
-      - dos2unix
-
+    apt:
+        packages:
+        - dos2unix
+env:
+    global:
+    -   secure: cuuUBegF6x7pgdknMJZDKokwxsHBOw0IjghG/0jem71GGjeVQB9EnYWG63q/lA8W/SzJdn0hiiqR3FmlgVHTFTLIfhRo1VyteU+ycPMcG13RJECec+NbWftRY7yDVHBkh9AmxAmPn1xc3dqpu1RN1CEuoUXvv8Jw7TZX4F/nSlgTE5o0n7W+tJ8vx+LZHbLEf6TM8iOFNJEa8vKgqr7cruh9Dcep+kg3WsVy1fhFnvWLonDEJEZRO/P9iP+rq137yJ1NBp7zVWrXqVHfS/LBNP+w/Wl7bCInXENnR9SKPoEXEAEG15wecGoPGomobvxEr230Pfc0KcJdq7NMh8nsXZvRbmQ9zRHA5XkxXFxXVS3MQ8Bjyhqz5j4pDG4gD1j8RwQl0Q/tdObK5/3T14nNt7nfAzrgYJvCB+buFf3U9s5pWQHHlGwaEaEPB1wlw/G8x5j/U5dNYHZXTs9EroqVPeKHoJG8ZG3qc3bLjikISlaqCJ6Vg1Imml5qlBunnLrJlIfczebxZkIml2vatuFy19n5TL68viyUiSPgh5x3HiAxxbNDlj9tZv7H6AbA5bU5V31dc3rVxGdEdb8aH2+tOoN+7rDdF3SKKeRgag4TuiE915rYn5C4huSivxicmoPyrV9J3TPR3zkcGdCYVsE7CdOv23yAGrbiKXpiShqyh+w=
+    -   GIT_NAME: Travis CI
+    -   GIT_EMAIL: dead-hosts@funilrys.com
+    -   TRAVIS_REPO_SLUG: dead-hosts/WindowsSpyBlocker-spy_git_crazy-max
+    -   GIT_BRANCH: master
+    -   ADMIN_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/admin.py
+    matrix:
+    - PYTHON_VERSION="3.7.3"
 install:
-  - pip3 install --upgrade pip
-  - pip3 install dead-hosts-launcher
-
-script:
-  - dead_hosts_launcher
-
-
+- export PATH="${HOME}/miniconda/bin:${PATH}"
+- wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
+- bash miniconda.sh -b -p ${HOME}/miniconda
+- hash -r
+- conda config --set always_yes yes --set changeps1 no
+- conda update -q conda
+- conda create -q -n launcher-environment python="${PYTHON_VERSION}"
+- source activate launcher-environment
+- python -VV
+- pip --version
+- pip install dead-hosts-launcher
+- rm miniconda.sh
+language: generic
 notifications:
-  email:
-    recipients:
-      - dead-hosts@funilrys.com
-    on_success: never
-    on_failure: always
+    email:
+        on_failure: always
+        on_success: never
+        recipients:
+        - dead-hosts@funilrys.com
+os:
+- linux
+script:
+- dead_hosts_launcher --version
+- dead_hosts_launcher
+sudo: required
