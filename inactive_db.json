@@ -94,7 +94,8 @@
         "1565614299": {},
         "1565705534": {},
         "1565877946": {},
-        "1566051251": {
+        "1566051251": {},
+        "1566310084": {
             "a.rad.msn.com": "INACTIVE",
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "b.rad.msn.com": "INACTIVE",
@@ -122,6 +123,7 @@
             "cds20452.lcy.llnw.net": "INACTIVE",
             "cds20457.lcy.llnw.net": "INACTIVE",
             "cds20461.lcy.llnw.net": "INACTIVE",
+            "cds20469.lcy.llnw.net": "INACTIVE",
             "cds21205.lon.llnw.net": "INACTIVE",
             "cds21207.lon.llnw.net": "INACTIVE",
             "cds21225.lon.llnw.net": "INACTIVE",
