@@ -98,6 +98,10 @@
         "1566310084": {},
         "1566569389": {},
         "1566742698": {
+            "cds20411.lcy.llnw.net": "INACTIVE",
+            "cds20424.lcy.llnw.net": "INACTIVE"
+        },
+        "1566915129": {
             "a.rad.msn.com": "INACTIVE",
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "b.rad.msn.com": "INACTIVE",
@@ -110,11 +114,9 @@
             "cdn.atdmt.com": "INACTIVE",
             "cds20005.stn.llnw.net": "INACTIVE",
             "cds20404.lcy.llnw.net": "INACTIVE",
-            "cds20411.lcy.llnw.net": "INACTIVE",
             "cds20415.lcy.llnw.net": "INACTIVE",
             "cds20416.lcy.llnw.net": "INACTIVE",
             "cds20417.lcy.llnw.net": "INACTIVE",
-            "cds20424.lcy.llnw.net": "INACTIVE",
             "cds20425.lcy.llnw.net": "INACTIVE",
             "cds20431.lcy.llnw.net": "INACTIVE",
             "cds20435.lcy.llnw.net": "INACTIVE",
@@ -127,6 +129,8 @@
             "cds20461.lcy.llnw.net": "INACTIVE",
             "cds20469.lcy.llnw.net": "INACTIVE",
             "cds20475.lcy.llnw.net": "INACTIVE",
+            "cds20482.lcy.llnw.net": "INACTIVE",
+            "cds20485.lcy.llnw.net": "INACTIVE",
             "cds21205.lon.llnw.net": "INACTIVE",
             "cds21207.lon.llnw.net": "INACTIVE",
             "cds21225.lon.llnw.net": "INACTIVE",
