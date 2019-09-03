@@ -175,6 +175,9 @@
             "teredo.ipv6.microsoft.com": "INACTIVE",
             "vortex.data.glbdns2.microsoft.com": "INACTIVE",
             "win8.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1567520180": {
+            "cds20495.lcy.llnw.net": "INACTIVE"
         }
     }
 }
