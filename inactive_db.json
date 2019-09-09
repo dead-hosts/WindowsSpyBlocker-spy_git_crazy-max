@@ -105,7 +105,9 @@
         "1567520180": {},
         "1567607026": {},
         "1567693492": {},
-        "1567779949": {
+        "1567779949": {},
+        "1567866390": {},
+        "1568039561": {
             "a.rad.msn.com": "INACTIVE",
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "b.rad.msn.com": "INACTIVE",
@@ -137,6 +139,7 @@
             "cds20475.lcy.llnw.net": "INACTIVE",
             "cds20482.lcy.llnw.net": "INACTIVE",
             "cds20485.lcy.llnw.net": "INACTIVE",
+            "cds20495.lcy.llnw.net": "INACTIVE",
             "cds21205.lon.llnw.net": "INACTIVE",
             "cds21207.lon.llnw.net": "INACTIVE",
             "cds21225.lon.llnw.net": "INACTIVE",
@@ -179,9 +182,6 @@
             "teredo.ipv6.microsoft.com": "INACTIVE",
             "vortex.data.glbdns2.microsoft.com": "INACTIVE",
             "win8.ipv6.microsoft.com": "INACTIVE"
-        },
-        "1567866390": {
-            "cds20495.lcy.llnw.net": "INACTIVE"
         }
     }
 }
