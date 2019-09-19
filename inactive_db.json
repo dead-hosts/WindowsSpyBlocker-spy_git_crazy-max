@@ -111,7 +111,8 @@
         "1568212106": {},
         "1568456613": {},
         "1568557354": {},
-        "1568730389": {
+        "1568730389": {},
+        "1568903122": {
             "a.rad.msn.com": "INACTIVE",
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "asimov-win.settings.data.microsoft.com.akadns.net": "INACTIVE",
@@ -176,6 +177,7 @@
             "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "eu-v10.events.data.microsoft.com": "INACTIVE",
             "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
+            "geo.settings.data.microsoft.com.akadns.net": "INACTIVE",
             "rad.msn.com": "INACTIVE",
             "settings.data.glbdns2.microsoft.com": "INACTIVE",
             "sn3301-c.1drv.com": "INACTIVE",
