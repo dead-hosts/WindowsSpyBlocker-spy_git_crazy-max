@@ -120,8 +120,6 @@
         "1569682251": {},
         "1569838822": {},
         "1569940769": {
-            "a.rad.msn.com": "INACTIVE",
-            "alpha.telemetry.microsoft.com": "INACTIVE",
             "b.rad.msn.com": "INACTIVE",
             "bl3301-a.1drv.com": "INACTIVE",
             "bl3301-c.1drv.com": "INACTIVE",
@@ -194,6 +192,10 @@
             "teredo.ipv6.microsoft.com": "INACTIVE",
             "vortex.data.glbdns2.microsoft.com": "INACTIVE",
             "win8.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1570117744": {
+            "a.rad.msn.com": "INACTIVE",
+            "alpha.telemetry.microsoft.com": "INACTIVE"
         }
     }
 }
