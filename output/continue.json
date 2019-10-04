@@ -42,7 +42,9 @@
             "bn3sch020022335.wns.windows.com",
             "bn3sch020022361.wns.windows.com",
             "bn4sch101120814.wns.windows.com",
-            "bn4sch101120818.wns.windows.com"
+            "bn4sch101120818.wns.windows.com",
+            "bn4sch101120911.wns.windows.com",
+            "bn4sch101120913.wns.windows.com"
         ],
         "INACTIVE": [
             "alpha.telemetry.microsoft.com",
