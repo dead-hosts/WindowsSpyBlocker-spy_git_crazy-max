@@ -129,7 +129,9 @@
             "corpext.msitadfs.glbdns2.microsoft.com",
             "corp.sts.microsoft.com",
             "cs1.wpc.v0cdn.net",
-            "cy2.vortex.data.microsoft.com.akadns.net"
+            "cy2.vortex.data.microsoft.com.akadns.net",
+            "db5.settings.data.microsoft.com.akadns.net",
+            "db5.vortex.data.microsoft.com.akadns.net"
         ],
         "INACTIVE": [
             "alpha.telemetry.microsoft.com",
@@ -190,7 +192,9 @@
             "ch3301-g.1drv.com",
             "ch3302-c.1drv.com",
             "ch3302-e.1drv.com",
-            "compatexchange1.trafficmanager.net"
+            "compatexchange1.trafficmanager.net",
+            "db5-eap.settings-win.data.microsoft.com.akadns.net",
+            "db5.settings-win.data.microsoft.com.akadns.net"
         ]
     }
 }
