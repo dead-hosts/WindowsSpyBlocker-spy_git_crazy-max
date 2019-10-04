@@ -120,7 +120,6 @@
         "1569682251": {},
         "1569838822": {},
         "1569940769": {
-            "b.rad.msn.com": "INACTIVE",
             "by3301-a.1drv.com": "INACTIVE",
             "by3301-c.1drv.com": "INACTIVE",
             "by3301-e.1drv.com": "INACTIVE",
@@ -193,6 +192,7 @@
         "1570117744": {
             "a.rad.msn.com": "INACTIVE",
             "alpha.telemetry.microsoft.com": "INACTIVE",
+            "b.rad.msn.com": "INACTIVE",
             "bl3301-a.1drv.com": "INACTIVE",
             "bl3301-c.1drv.com": "INACTIVE",
             "bl3301-g.1drv.com": "INACTIVE"
