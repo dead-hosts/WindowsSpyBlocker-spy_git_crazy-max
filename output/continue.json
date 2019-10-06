@@ -144,7 +144,9 @@
             "g.msn.com",
             "h1.msn.com",
             "h2.msn.com",
-            "hk2sch130020721.wns.windows.com"
+            "hk2sch130020721.wns.windows.com",
+            "hk2sch130020723.wns.windows.com",
+            "hk2sch130020726.wns.windows.com"
         ],
         "INACTIVE": [
             "alpha.telemetry.microsoft.com",
