@@ -132,3 +132,7 @@
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 db5.settings.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
+0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 ec.atdmt.com
+0.0.0.0 eu-v20.events.data.microsoft.com

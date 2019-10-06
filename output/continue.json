@@ -131,7 +131,11 @@
             "cs1.wpc.v0cdn.net",
             "cy2.vortex.data.microsoft.com.akadns.net",
             "db5.settings.data.microsoft.com.akadns.net",
-            "db5.vortex.data.microsoft.com.akadns.net"
+            "db5.vortex.data.microsoft.com.akadns.net",
+            "df.telemetry.microsoft.com",
+            "diagnostics.support.microsoft.com",
+            "ec.atdmt.com",
+            "eu-v20.events.data.microsoft.com"
         ],
         "INACTIVE": [
             "alpha.telemetry.microsoft.com",
@@ -194,7 +198,8 @@
             "ch3302-e.1drv.com",
             "compatexchange1.trafficmanager.net",
             "db5-eap.settings-win.data.microsoft.com.akadns.net",
-            "db5.settings-win.data.microsoft.com.akadns.net"
+            "db5.settings-win.data.microsoft.com.akadns.net",
+            "eu-v10.events.data.microsoft.com"
         ]
     }
 }
