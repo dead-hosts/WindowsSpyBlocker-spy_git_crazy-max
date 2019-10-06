@@ -137,7 +137,9 @@
             "ec.atdmt.com",
             "eu-v20.events.data.microsoft.com",
             "eu.vortex.data.microsoft.com",
-            "eu.vortex-win.data.microsoft.com"
+            "eu.vortex-win.data.microsoft.com",
+            "events.data.microsoft.com",
+            "flex.msn.com"
         ],
         "INACTIVE": [
             "alpha.telemetry.microsoft.com",
@@ -201,7 +203,8 @@
             "compatexchange1.trafficmanager.net",
             "db5-eap.settings-win.data.microsoft.com.akadns.net",
             "db5.settings-win.data.microsoft.com.akadns.net",
-            "eu-v10.events.data.microsoft.com"
+            "eu-v10.events.data.microsoft.com",
+            "geo.settings.data.microsoft.com.akadns.net"
         ]
     }
 }

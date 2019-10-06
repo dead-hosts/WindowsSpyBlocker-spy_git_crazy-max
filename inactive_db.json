@@ -199,7 +199,8 @@
             "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE"
         },
         "1570376005": {
-            "eu-v10.events.data.microsoft.com": "INACTIVE"
+            "eu-v10.events.data.microsoft.com": "INACTIVE",
+            "geo.settings.data.microsoft.com.akadns.net": "INACTIVE"
         }
     }
 }
