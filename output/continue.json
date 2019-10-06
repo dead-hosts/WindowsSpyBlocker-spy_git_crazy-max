@@ -135,7 +135,9 @@
             "df.telemetry.microsoft.com",
             "diagnostics.support.microsoft.com",
             "ec.atdmt.com",
-            "eu-v20.events.data.microsoft.com"
+            "eu-v20.events.data.microsoft.com",
+            "eu.vortex.data.microsoft.com",
+            "eu.vortex-win.data.microsoft.com"
         ],
         "INACTIVE": [
             "alpha.telemetry.microsoft.com",
