@@ -148,7 +148,9 @@
             "hk2sch130020723.wns.windows.com",
             "hk2sch130020726.wns.windows.com",
             "hk2sch130020729.wns.windows.com",
-            "hk2sch130020732.wns.windows.com"
+            "hk2sch130020732.wns.windows.com",
+            "hk2sch130020824.wns.windows.com",
+            "hk2sch130020843.wns.windows.com"
         ],
         "INACTIVE": [
             "alpha.telemetry.microsoft.com",
