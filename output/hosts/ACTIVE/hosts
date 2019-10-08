@@ -242,3 +242,5 @@
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 onecollector.cloudapp.aria.akadns.net

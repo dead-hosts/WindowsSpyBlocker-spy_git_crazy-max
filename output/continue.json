@@ -241,7 +241,9 @@
             "msedge.net",
             "msntest.serving-sys.com",
             "nexus.officeapps.live.com",
-            "nexusrules.officeapps.live.com"
+            "nexusrules.officeapps.live.com",
+            "oca.telemetry.microsoft.com",
+            "onecollector.cloudapp.aria.akadns.net"
         ],
         "INACTIVE": [
             "alpha.telemetry.microsoft.com",
