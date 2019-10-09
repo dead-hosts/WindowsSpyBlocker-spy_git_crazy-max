@@ -91,34 +91,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
-        "1565614299": {},
-        "1565705534": {},
-        "1565877946": {},
-        "1566051251": {},
-        "1566310084": {},
-        "1566569389": {},
-        "1566742698": {},
-        "1566915129": {},
-        "1567088411": {},
-        "1567261294": {},
-        "1567433752": {},
-        "1567520180": {},
-        "1567607026": {},
-        "1567693492": {},
-        "1567779949": {},
-        "1567866390": {},
-        "1568039561": {},
-        "1568212106": {},
-        "1568456613": {},
-        "1568557354": {},
-        "1568730389": {},
-        "1568903122": {},
-        "1568989550": {},
-        "1569162532": {},
-        "1569335321": {},
-        "1569508135": {},
-        "1569682251": {},
-        "1569838822": {},
         "1569940769": {
             "rad.msn.com": "INACTIVE",
             "settings.data.glbdns2.microsoft.com": "INACTIVE",
@@ -201,6 +173,30 @@
             "eu-v10.events.data.microsoft.com": "INACTIVE",
             "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "geo.settings.data.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1570663675": {
+            "preview.msn.com": "INACTIVE",
+            "redir.metaservices.microsoft.com": "INACTIVE",
+            "reports.wes.df.telemetry.microsoft.com": "INACTIVE",
+            "schemas.microsoft.akadns.net": "INACTIVE"
+        },
+        "1570663805": {
+            "self.events.data.microsoft.com": "INACTIVE"
+        },
+        "1570663806": {
+            "services.wes.df.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570663936": {
+            "settings-sandbox.data.microsoft.com": "INACTIVE"
+        },
+        "1570664068": {
+            "settings-win-ppe.data.microsoft.com": "INACTIVE"
+        },
+        "1570664199": {
+            "sg2p.wns.windows.com": "INACTIVE"
+        },
+        "1570664330": {
+            "spynet2.microsoft.com": "INACTIVE"
         }
     }
 }

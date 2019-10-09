@@ -245,3 +245,7 @@ nexus.officeapps.live.com                                                       
 nexusrules.officeapps.live.com                                                                       Unknown           DNSLOOKUP  XXX        Tue 08 Oct 22:10:54 UTC 2019
 oca.telemetry.microsoft.com                                                                          Unknown           DNSLOOKUP  XXX        Tue 08 Oct 22:10:35 UTC 2019
 onecollector.cloudapp.aria.akadns.net                                                                Unknown           DNSLOOKUP  XXX        Tue 08 Oct 22:10:35 UTC 2019
+pre.footprintpredict.com                                                                             Unknown           HTTP Code  200        Wed 09 Oct 23:10:53 UTC 2019
+rad.live.com                                                                                         Unknown           HTTP Code  301        Wed 09 Oct 23:10:53 UTC 2019
+secure.adnxs.com                                                                                     Unknown           HTTP Code  302        Wed 09 Oct 23:10:53 UTC 2019
+secure.flashtalking.com                                                                              Unknown           HTTP Code  200        Wed 09 Oct 23:10:53 UTC 2019
