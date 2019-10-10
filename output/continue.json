@@ -1,11 +1,19 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
+        "ACTIVE": [
+            "adnexus.net",
+            "adnxs.com",
+            "ads1.msads.net",
+            "aidps.atdmt.com",
+            "aka-cdn-ns.adtech.de",
+            "bingads.microsoft.com"
+        ],
         "INACTIVE": [
-            "bn4sch101121118.wns.windows.com",
-            "bn4sch101121223.wns.windows.com",
-            "bn4sch101121407.wns.windows.com",
-            "bn4sch101121618.wns.windows.com",
-            "bn4sch101121704.wns.windows.com"
+            "bn4sch101121709.wns.windows.com",
+            "bn4sch101121714.wns.windows.com",
+            "bn4sch101121908.wns.windows.com",
+            "bn4sch101122117.wns.windows.com",
+            "bn4sch101122310.wns.windows.com"
         ]
     }
 }
