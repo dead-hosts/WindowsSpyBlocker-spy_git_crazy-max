@@ -295,3 +295,10 @@
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 onecollector.cloudapp.aria.akadns.net
+0.0.0.0 spynetalt.microsoft.com
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 ssw.live.com
+0.0.0.0 survey.watson.microsoft.com

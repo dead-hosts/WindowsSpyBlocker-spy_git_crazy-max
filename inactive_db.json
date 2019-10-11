@@ -743,6 +743,23 @@
         },
         "1570771997": {
             "oca.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570775488": {
+            "onecollector.cloudapp.aria.akadns.net": "INACTIVE"
+        },
+        "1570775619": {
+            "spynetalt.microsoft.com": "INACTIVE",
+            "sqm.df.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570775750": {
+            "sqm.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570775881": {
+            "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+            "ssw.live.com": "INACTIVE"
+        },
+        "1570776012": {
+            "survey.watson.microsoft.com": "INACTIVE"
         }
     }
 }
