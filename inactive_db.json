@@ -760,6 +760,22 @@
         },
         "1570776012": {
             "survey.watson.microsoft.com": "INACTIVE"
+        },
+        "1570779538": {
+            "telecommand.telemetry.microsoft.com": "INACTIVE",
+            "telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570779669": {
+            "telemetry.urs.microsoft.com": "INACTIVE"
+        },
+        "1570779800": {
+            "test.activity.windows.com": "INACTIVE"
+        },
+        "1570779931": {
+            "umwatsonc.events.data.microsoft.com": "INACTIVE"
+        },
+        "1570780062": {
+            "us-v10.events.data.microsoft.com": "INACTIVE"
         }
     }
 }
