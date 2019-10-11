@@ -117,7 +117,6 @@
             "cdn.atdmt.com": "INACTIVE",
             "cds20005.stn.llnw.net": "INACTIVE",
             "cds20404.lcy.llnw.net": "INACTIVE",
-            "cds20411.lcy.llnw.net": "INACTIVE",
             "cds20415.lcy.llnw.net": "INACTIVE",
             "cds20416.lcy.llnw.net": "INACTIVE",
             "cds20417.lcy.llnw.net": "INACTIVE",
@@ -150,17 +149,14 @@
             "cds21278.lon.llnw.net": "INACTIVE",
             "cds21281.lon.llnw.net": "INACTIVE",
             "cds21293.lon.llnw.net": "INACTIVE",
-            "cds21309.lon.llnw.net": "INACTIVE",
             "cds21313.lon.llnw.net": "INACTIVE",
             "cds21321.lon.llnw.net": "INACTIVE",
             "cds299.lcy.llnw.net": "INACTIVE",
             "cds30027.stn.llnw.net": "INACTIVE",
             "cds843.lon.llnw.net": "INACTIVE",
             "ch3301-c.1drv.com": "INACTIVE",
-            "ch3301-e.1drv.com": "INACTIVE",
             "ch3301-g.1drv.com": "INACTIVE",
             "ch3302-c.1drv.com": "INACTIVE",
-            "ch3302-e.1drv.com": "INACTIVE",
             "compatexchange1.trafficmanager.net": "INACTIVE"
         },
         "1570206909": {
@@ -174,7 +170,6 @@
         },
         "1570663675": {
             "preview.msn.com": "INACTIVE",
-            "redir.metaservices.microsoft.com": "INACTIVE",
             "reports.wes.df.telemetry.microsoft.com": "INACTIVE",
             "schemas.microsoft.akadns.net": "INACTIVE"
         },
@@ -294,17 +289,11 @@
         "1570690320": {
             "bn4sch101121223.wns.windows.com": "INACTIVE"
         },
-        "1570690582": {
-            "bn4sch101121618.wns.windows.com": "INACTIVE"
-        },
         "1570690713": {
             "bn4sch101121704.wns.windows.com": "INACTIVE"
         },
         "1570694051": {
             "bn4sch101121709.wns.windows.com": "INACTIVE"
-        },
-        "1570694182": {
-            "bn4sch101121714.wns.windows.com": "INACTIVE"
         },
         "1570694313": {
             "bn4sch101121908.wns.windows.com": "INACTIVE"
@@ -339,8 +328,7 @@
         },
         "1570702544": {
             "cds10.stn.llnw.net": "INACTIVE",
-            "cds1203.lon.llnw.net": "INACTIVE",
-            "cds1204.lon.llnw.net": "INACTIVE"
+            "cds1203.lon.llnw.net": "INACTIVE"
         },
         "1570702545": {
             "cds1209.lon.llnw.net": "INACTIVE",
@@ -402,8 +390,7 @@
         },
         "1570702558": {
             "cds469.lcy.llnw.net": "INACTIVE",
-            "cds471.lcy.llnw.net": "INACTIVE",
-            "cds483.lcy.llnw.net": "INACTIVE"
+            "cds471.lcy.llnw.net": "INACTIVE"
         },
         "1570702559": {
             "cds484.lcy.llnw.net": "INACTIVE",
@@ -412,8 +399,7 @@
         },
         "1570702560": {
             "cds494.lcy.llnw.net": "INACTIVE",
-            "cds54.ory.llnw.net": "INACTIVE",
-            "cds812.lon.llnw.net": "INACTIVE"
+            "cds54.ory.llnw.net": "INACTIVE"
         },
         "1570702561": {
             "cds815.lon.llnw.net": "INACTIVE",
@@ -477,9 +463,6 @@
         "1570714431": {
             "hk2sch130020726.wns.windows.com": "INACTIVE"
         },
-        "1570714562": {
-            "hk2sch130020729.wns.windows.com": "INACTIVE"
-        },
         "1570714693": {
             "hk2sch130020732.wns.windows.com": "INACTIVE"
         },
@@ -488,9 +471,6 @@
         },
         "1570714955": {
             "hk2sch130020843.wns.windows.com": "INACTIVE"
-        },
-        "1570718176": {
-            "hk2sch130020851.wns.windows.com": "INACTIVE"
         },
         "1570718307": {
             "hk2sch130020854.wns.windows.com": "INACTIVE"
@@ -840,6 +820,30 @@
         },
         "1570801843": {
             "bn4sch101121019.wns.windows.com": "INACTIVE"
+        },
+        "1570805872": {
+            "cds20411.lcy.llnw.net": "INACTIVE",
+            "ch3301-e.1drv.com": "INACTIVE",
+            "hk2sch130020851.wns.windows.com": "INACTIVE"
+        },
+        "1570805873": {
+            "cds1204.lon.llnw.net": "INACTIVE",
+            "cds21309.lon.llnw.net": "INACTIVE",
+            "ch3302-e.1drv.com": "INACTIVE",
+            "redir.metaservices.microsoft.com": "INACTIVE"
+        },
+        "1570805874": {
+            "cds483.lcy.llnw.net": "INACTIVE"
+        },
+        "1570806003": {
+            "bn4sch101121618.wns.windows.com": "INACTIVE"
+        },
+        "1570806134": {
+            "bn4sch101121714.wns.windows.com": "INACTIVE",
+            "cds812.lon.llnw.net": "INACTIVE"
+        },
+        "1570806265": {
+            "hk2sch130020729.wns.windows.com": "INACTIVE"
         }
     }
 }
