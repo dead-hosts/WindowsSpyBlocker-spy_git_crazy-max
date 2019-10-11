@@ -698,6 +698,39 @@
         },
         "1570764400": {
             "hk2sch130022135.wns.windows.com": "INACTIVE"
+        },
+        "1570767614": {
+            "hk2wns1b.wns.windows.com": "INACTIVE"
+        },
+        "1570767745": {
+            "hk2wns1.wns.windows.com": "INACTIVE"
+        },
+        "1570767876": {
+            "hk2.wns.windows.com": "INACTIVE",
+            "i-bl6p-cor001.api.p001.1drv.com": "INACTIVE"
+        },
+        "1570767877": {
+            "i-bl6p-cor002.api.p001.1drv.com": "INACTIVE",
+            "i-bn3p-cor001.api.p001.1drv.com": "INACTIVE",
+            "i-by3p-cor001.api.p001.1drv.com": "INACTIVE",
+            "i-by3p-cor002.api.p001.1drv.com": "INACTIVE"
+        },
+        "1570767878": {
+            "i-ch1-cor001.api.p001.1drv.com": "INACTIVE",
+            "i-ch1-cor002.api.p001.1drv.com": "INACTIVE",
+            "i-sn2-cor001.api.p001.1drv.com": "INACTIVE",
+            "i-sn2-cor002.api.p001.1drv.com": "INACTIVE",
+            "ieonlinews.microsoft.com": "INACTIVE",
+            "ieonlinews.trafficmanager.net": "INACTIVE"
+        },
+        "1570767879": {
+            "i-sn3p-cor001.api.p001.1drv.com": "INACTIVE"
+        },
+        "1570768009": {
+            "mobile.events.data.microsoft.com": "INACTIVE"
+        },
+        "1570768140": {
+            "mobile.pipe.aria.microsoft.com": "INACTIVE"
         }
     }
 }
