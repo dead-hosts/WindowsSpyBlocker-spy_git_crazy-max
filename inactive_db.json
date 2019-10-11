@@ -804,6 +804,21 @@
         },
         "1570787775": {
             "vortex.data.microsoft.com": "INACTIVE"
+        },
+        "1570791300": {
+            "vortex-sandbox.data.microsoft.com": "INACTIVE"
+        },
+        "1570791431": {
+            "vortex-win.data.microsoft.com": "INACTIVE"
+        },
+        "1570791562": {
+            "vortex-win-sandbox.data.microsoft.com": "INACTIVE"
+        },
+        "1570791693": {
+            "watson.live.com": "INACTIVE"
+        },
+        "1570791824": {
+            "watson.microsoft.com": "INACTIVE"
         }
     }
 }
