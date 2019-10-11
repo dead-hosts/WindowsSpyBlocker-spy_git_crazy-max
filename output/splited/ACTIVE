@@ -433,3 +433,21 @@ hk2.settings.data.microsoft.com.akadns.net                                      
 lb1.www.ms.akadns.net                                                                                Unknown           HTTP Code  503        Fri 11 Oct 04:10:51 UTC 2019
 live.rads.msn.com                                                                                    Unknown           HTTP Code  301        Fri 11 Oct 04:10:51 UTC 2019
 m.adnxs.com                                                                                          Unknown           HTTP Code  302        Fri 11 Oct 04:10:51 UTC 2019
+a.ads2.msn.com                                                                                       Unknown           HTTP Code  200        Fri 11 Oct 05:10:34 UTC 2019
+adnexus.net                                                                                          04-may-2020       WHOIS      XXX        Fri 11 Oct 05:10:34 UTC 2019
+adnxs.com                                                                                            27-may-2020       WHOIS      XXX        Fri 11 Oct 05:10:34 UTC 2019
+ads1.msads.net                                                                                       Unknown           HTTP Code  403        Fri 11 Oct 05:10:34 UTC 2019
+aidps.atdmt.com                                                                                      Unknown           DNSLOOKUP  403        Fri 11 Oct 05:10:34 UTC 2019
+aka-cdn-ns.adtech.de                                                                                 Unknown           HTTP Code  200        Fri 11 Oct 05:10:34 UTC 2019
+bingads.microsoft.com                                                                                Unknown           HTTP Code  301        Fri 11 Oct 05:10:34 UTC 2019
+bs.serving-sys.com                                                                                   Unknown           HTTP Code  200        Fri 11 Oct 05:10:34 UTC 2019
+c.atdmt.com                                                                                          Unknown           HTTP Code  302        Fri 11 Oct 05:10:34 UTC 2019
+c.msn.com                                                                                            Unknown           HTTP Code  302        Fri 11 Oct 05:10:34 UTC 2019
+corpext.msitadfs.glbdns2.microsoft.com                                                               Unknown           HTTP Code  200        Fri 11 Oct 05:10:34 UTC 2019
+corp.sts.microsoft.com                                                                               Unknown           HTTP Code  200        Fri 11 Oct 05:10:34 UTC 2019
+flex.msn.com                                                                                         Unknown           HTTP Code  503        Fri 11 Oct 05:10:34 UTC 2019
+g.msn.com                                                                                            Unknown           HTTP Code  302        Fri 11 Oct 05:10:34 UTC 2019
+h1.msn.com                                                                                           Unknown           HTTP Code  403        Fri 11 Oct 05:10:34 UTC 2019
+h2.msn.com                                                                                           Unknown           HTTP Code  504        Fri 11 Oct 05:10:34 UTC 2019
+msedge.net                                                                                           16-mar-2020       WHOIS      XXX        Fri 11 Oct 05:10:34 UTC 2019
+msntest.serving-sys.com                                                                              Unknown           HTTP Code  200        Fri 11 Oct 05:10:34 UTC 2019

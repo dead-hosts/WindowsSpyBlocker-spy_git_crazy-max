@@ -1,29 +1,29 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
         "ACTIVE": [
-            "hk2.settings.data.microsoft.com.akadns.net",
-            "lb1.www.ms.akadns.net",
-            "live.rads.msn.com",
-            "m.adnxs.com"
+            "adnexus.net",
+            "adnxs.com",
+            "ads1.msads.net",
+            "aidps.atdmt.com",
+            "aka-cdn-ns.adtech.de",
+            "bingads.microsoft.com",
+            "bs.serving-sys.com",
+            "c.atdmt.com",
+            "c.msn.com",
+            "corpext.msitadfs.glbdns2.microsoft.com",
+            "corp.sts.microsoft.com",
+            "flex.msn.com",
+            "g.msn.com",
+            "h1.msn.com",
+            "h2.msn.com",
+            "msedge.net",
+            "msntest.serving-sys.com"
         ],
         "INACTIVE": [
-            "hk2wns1b.wns.windows.com",
-            "hk2wns1.wns.windows.com",
-            "hk2.wns.windows.com",
-            "i-bl6p-cor001.api.p001.1drv.com",
-            "i-bl6p-cor002.api.p001.1drv.com",
-            "i-bn3p-cor001.api.p001.1drv.com",
-            "i-by3p-cor001.api.p001.1drv.com",
-            "i-by3p-cor002.api.p001.1drv.com",
-            "i-ch1-cor001.api.p001.1drv.com",
-            "i-ch1-cor002.api.p001.1drv.com",
-            "ieonlinews.microsoft.com",
-            "ieonlinews.trafficmanager.net",
-            "i-sn2-cor001.api.p001.1drv.com",
-            "i-sn2-cor002.api.p001.1drv.com",
-            "i-sn3p-cor001.api.p001.1drv.com",
-            "mobile.events.data.microsoft.com",
-            "mobile.pipe.aria.microsoft.com"
+            "modern.watson.data.microsoft.com.akadns.net",
+            "nexus.officeapps.live.com",
+            "nexusrules.officeapps.live.com",
+            "oca.telemetry.microsoft.com"
         ]
     }
 }

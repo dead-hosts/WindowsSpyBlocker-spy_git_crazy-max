@@ -731,6 +731,18 @@
         },
         "1570768140": {
             "mobile.pipe.aria.microsoft.com": "INACTIVE"
+        },
+        "1570771473": {
+            "modern.watson.data.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1570771735": {
+            "nexus.officeapps.live.com": "INACTIVE"
+        },
+        "1570771866": {
+            "nexusrules.officeapps.live.com": "INACTIVE"
+        },
+        "1570771997": {
+            "oca.telemetry.microsoft.com": "INACTIVE"
         }
     }
 }
