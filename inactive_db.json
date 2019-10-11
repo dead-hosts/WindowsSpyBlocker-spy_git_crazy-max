@@ -121,7 +121,6 @@
             "cds20415.lcy.llnw.net": "INACTIVE",
             "cds20416.lcy.llnw.net": "INACTIVE",
             "cds20417.lcy.llnw.net": "INACTIVE",
-            "cds20424.lcy.llnw.net": "INACTIVE",
             "cds20425.lcy.llnw.net": "INACTIVE",
             "cds20431.lcy.llnw.net": "INACTIVE",
             "cds20435.lcy.llnw.net": "INACTIVE",
@@ -134,7 +133,6 @@
             "cds20461.lcy.llnw.net": "INACTIVE",
             "cds20469.lcy.llnw.net": "INACTIVE",
             "cds20475.lcy.llnw.net": "INACTIVE",
-            "cds20482.lcy.llnw.net": "INACTIVE",
             "cds20485.lcy.llnw.net": "INACTIVE",
             "cds20495.lcy.llnw.net": "INACTIVE",
             "cds21205.lon.llnw.net": "INACTIVE",
@@ -199,8 +197,7 @@
             "spynet2.microsoft.com": "INACTIVE"
         },
         "1570668717": {
-            "a.ads1.msn.com": "INACTIVE",
-            "a.ads2.msads.net": "INACTIVE"
+            "a.ads1.msn.com": "INACTIVE"
         },
         "1570668857": {
             "ac3.msn.com": "INACTIVE",
@@ -212,8 +209,7 @@
             "ads1.msn.com": "INACTIVE"
         },
         "1570668988": {
-            "apac1.notify.windows.com.akadns.net": "INACTIVE",
-            "api.cortana.ai": "INACTIVE"
+            "apac1.notify.windows.com.akadns.net": "INACTIVE"
         },
         "1570669119": {
             "asimov-win.settings.data.microsoft.com.akadns.net": "INACTIVE",
@@ -289,9 +285,6 @@
         "1570685865": {
             "bn4sch101120913.wns.windows.com": "INACTIVE"
         },
-        "1570685996": {
-            "bn4sch101121019.wns.windows.com": "INACTIVE"
-        },
         "1570686127": {
             "bn4sch101121109.wns.windows.com": "INACTIVE"
         },
@@ -300,9 +293,6 @@
         },
         "1570690320": {
             "bn4sch101121223.wns.windows.com": "INACTIVE"
-        },
-        "1570690451": {
-            "bn4sch101121407.wns.windows.com": "INACTIVE"
         },
         "1570690582": {
             "bn4sch101121618.wns.windows.com": "INACTIVE"
@@ -336,9 +326,6 @@
         },
         "1570698813": {
             "bn4sch101123110.wns.windows.com": "INACTIVE"
-        },
-        "1570698944": {
-            "bn4sch101123202.wns.windows.com": "INACTIVE"
         },
         "1570702281": {
             "bn4sch102110124.wns.windows.com": "INACTIVE"
@@ -407,13 +394,11 @@
         },
         "1570702556": {
             "cds426.lcy.llnw.net": "INACTIVE",
-            "cds447.lcy.llnw.net": "INACTIVE",
             "cds458.lcy.llnw.net": "INACTIVE"
         },
         "1570702557": {
             "cds459.lcy.llnw.net": "INACTIVE",
-            "cds461.lcy.llnw.net": "INACTIVE",
-            "cds468.lcy.llnw.net": "INACTIVE"
+            "cds461.lcy.llnw.net": "INACTIVE"
         },
         "1570702558": {
             "cds469.lcy.llnw.net": "INACTIVE",
@@ -832,6 +817,29 @@
         },
         "1570797322": {
             "win10.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1570801318": {
+            "win1710.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1570801450": {
+            "cds447.lcy.llnw.net": "INACTIVE",
+            "www.msedge.net": "INACTIVE"
+        },
+        "1570801581": {
+            "a.ads2.msads.net": "INACTIVE",
+            "api.cortana.ai": "INACTIVE",
+            "bn4sch101121407.wns.windows.com": "INACTIVE",
+            "cds20424.lcy.llnw.net": "INACTIVE",
+            "cds468.lcy.llnw.net": "INACTIVE"
+        },
+        "1570801582": {
+            "cds20482.lcy.llnw.net": "INACTIVE"
+        },
+        "1570801712": {
+            "bn4sch101123202.wns.windows.com": "INACTIVE"
+        },
+        "1570801843": {
+            "bn4sch101121019.wns.windows.com": "INACTIVE"
         }
     }
 }
