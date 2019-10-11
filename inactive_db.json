@@ -819,6 +819,19 @@
         },
         "1570791824": {
             "watson.microsoft.com": "INACTIVE"
+        },
+        "1570796929": {
+            "watson.ppe.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570797060": {
+            "watson.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570797191": {
+            "web.vortex.data.microsoft.com": "INACTIVE",
+            "wes.df.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570797322": {
+            "win10.ipv6.microsoft.com": "INACTIVE"
         }
     }
 }
