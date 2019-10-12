@@ -154,12 +154,6 @@
         "1570677486": {
             "bn3sch020010636.wns.windows.com": "INACTIVE"
         },
-        "1570677617": {
-            "bn3sch020010650.wns.windows.com": "INACTIVE"
-        },
-        "1570677879": {
-            "bn3sch020012850.wns.windows.com": "INACTIVE"
-        },
         "1570681334": {
             "bn3sch020020749.wns.windows.com": "INACTIVE"
         },
@@ -241,9 +235,6 @@
             "cds857.lon.llnw.net": "INACTIVE",
             "cds868.lon.llnw.net": "INACTIVE"
         },
-        "1570702564": {
-            "ch1-cor001.api.p001.1drv.com": "INACTIVE"
-        },
         "1570702695": {
             "cs1.wpc.v0cdn.net": "INACTIVE"
         },
@@ -295,9 +286,6 @@
         },
         "1570733780": {
             "hk2sch130021334.wns.windows.com": "INACTIVE"
-        },
-        "1570736918": {
-            "hk2sch130021432.wns.windows.com": "INACTIVE"
         },
         "1570737181": {
             "hk2sch130021435.wns.windows.com": "INACTIVE"
@@ -395,9 +383,6 @@
         "1570764400": {
             "hk2sch130022135.wns.windows.com": "INACTIVE"
         },
-        "1570767614": {
-            "hk2wns1b.wns.windows.com": "INACTIVE"
-        },
         "1570767745": {
             "hk2wns1.wns.windows.com": "INACTIVE"
         },
@@ -412,15 +397,11 @@
             "i-by3p-cor002.api.p001.1drv.com": "INACTIVE"
         },
         "1570767878": {
-            "i-ch1-cor001.api.p001.1drv.com": "INACTIVE",
             "i-ch1-cor002.api.p001.1drv.com": "INACTIVE",
             "i-sn2-cor001.api.p001.1drv.com": "INACTIVE",
             "i-sn2-cor002.api.p001.1drv.com": "INACTIVE",
             "ieonlinews.microsoft.com": "INACTIVE",
             "ieonlinews.trafficmanager.net": "INACTIVE"
-        },
-        "1570767879": {
-            "i-sn3p-cor001.api.p001.1drv.com": "INACTIVE"
         },
         "1570768009": {
             "mobile.events.data.microsoft.com": "INACTIVE"
@@ -880,6 +861,21 @@
         },
         "1570860193": {
             "bn3sch020010560.wns.windows.com": "INACTIVE"
+        },
+        "1570862880": {
+            "hk2sch130021432.wns.windows.com": "INACTIVE"
+        },
+        "1570863011": {
+            "hk2wns1b.wns.windows.com": "INACTIVE",
+            "i-ch1-cor001.api.p001.1drv.com": "INACTIVE",
+            "i-sn3p-cor001.api.p001.1drv.com": "INACTIVE"
+        },
+        "1570863142": {
+            "bn3sch020012850.wns.windows.com": "INACTIVE",
+            "ch1-cor001.api.p001.1drv.com": "INACTIVE"
+        },
+        "1570863273": {
+            "bn3sch020010650.wns.windows.com": "INACTIVE"
         }
     }
 }
