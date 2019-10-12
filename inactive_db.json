@@ -175,9 +175,6 @@
         "1570673667": {
             "bn3sch020010629.wns.windows.com": "INACTIVE"
         },
-        "1570673798": {
-            "bn3sch020010631.wns.windows.com": "INACTIVE"
-        },
         "1570677486": {
             "bn3sch020010636.wns.windows.com": "INACTIVE"
         },
@@ -214,9 +211,6 @@
         "1570685865": {
             "bn4sch101120913.wns.windows.com": "INACTIVE"
         },
-        "1570686127": {
-            "bn4sch101121109.wns.windows.com": "INACTIVE"
-        },
         "1570690189": {
             "bn4sch101121118.wns.windows.com": "INACTIVE"
         },
@@ -240,7 +234,6 @@
             "cache.datamart.windows.com": "INACTIVE"
         },
         "1570702544": {
-            "cds10.stn.llnw.net": "INACTIVE",
             "cds1203.lon.llnw.net": "INACTIVE"
         },
         "1570702545": {
@@ -269,7 +262,6 @@
             "cds310.lcy.llnw.net": "INACTIVE"
         },
         "1570702553": {
-            "cds405.lcy.llnw.net": "INACTIVE",
             "cds406.lcy.llnw.net": "INACTIVE"
         },
         "1570702554": {
@@ -279,9 +271,6 @@
         },
         "1570702556": {
             "cds426.lcy.llnw.net": "INACTIVE"
-        },
-        "1570702557": {
-            "cds461.lcy.llnw.net": "INACTIVE"
         },
         "1570702558": {
             "cds469.lcy.llnw.net": "INACTIVE",
@@ -374,9 +363,6 @@
         "1570729553": {
             "hk2sch130021249.wns.windows.com": "INACTIVE"
         },
-        "1570733387": {
-            "hk2sch130021322.wns.windows.com": "INACTIVE"
-        },
         "1570733518": {
             "hk2sch130021323.wns.windows.com": "INACTIVE"
         },
@@ -406,9 +392,6 @@
         },
         "1570740832": {
             "hk2sch130021518.wns.windows.com": "INACTIVE"
-        },
-        "1570740963": {
-            "hk2sch130021523.wns.windows.com": "INACTIVE"
         },
         "1570741094": {
             "hk2sch130021526.wns.windows.com": "INACTIVE"
@@ -878,6 +861,23 @@
         },
         "1570836443": {
             "hk2sch130021433.wns.windows.com": "INACTIVE"
+        },
+        "1570840257": {
+            "hk2sch130021322.wns.windows.com": "INACTIVE"
+        },
+        "1570840388": {
+            "bn3sch020010631.wns.windows.com": "INACTIVE",
+            "cds405.lcy.llnw.net": "INACTIVE"
+        },
+        "1570840389": {
+            "cds461.lcy.llnw.net": "INACTIVE"
+        },
+        "1570840519": {
+            "cds10.stn.llnw.net": "INACTIVE",
+            "hk2sch130021523.wns.windows.com": "INACTIVE"
+        },
+        "1570840650": {
+            "bn4sch101121109.wns.windows.com": "INACTIVE"
         }
     }
 }
