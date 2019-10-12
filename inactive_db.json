@@ -94,7 +94,6 @@
         "1569940769": {
             "settings.data.glbdns2.microsoft.com": "INACTIVE",
             "spyneteurope.microsoft.akadns.net": "INACTIVE",
-            "teredo.ipv6.microsoft.com": "INACTIVE",
             "vortex.data.glbdns2.microsoft.com": "INACTIVE",
             "win8.ipv6.microsoft.com": "INACTIVE"
         },
@@ -202,9 +201,6 @@
             "cds1327.lon.llnw.net": "INACTIVE",
             "cds21238.lon.llnw.net": "INACTIVE"
         },
-        "1570702553": {
-            "cds406.lcy.llnw.net": "INACTIVE"
-        },
         "1570702554": {
             "cds407.fra.llnw.net": "INACTIVE",
             "cds416.lcy.llnw.net": "INACTIVE",
@@ -254,9 +250,6 @@
         "1570714693": {
             "hk2sch130020732.wns.windows.com": "INACTIVE"
         },
-        "1570718307": {
-            "hk2sch130020854.wns.windows.com": "INACTIVE"
-        },
         "1570718569": {
             "hk2sch130020924.wns.windows.com": "INACTIVE"
         },
@@ -283,9 +276,6 @@
         },
         "1570737181": {
             "hk2sch130021435.wns.windows.com": "INACTIVE"
-        },
-        "1570737443": {
-            "hk2sch130021440.wns.windows.com": "INACTIVE"
         },
         "1570740701": {
             "hk2sch130021450.wns.windows.com": "INACTIVE"
@@ -344,9 +334,6 @@
         "1570759952": {
             "hk2sch130021851.wns.windows.com": "INACTIVE"
         },
-        "1570760083": {
-            "hk2sch130021852.wns.windows.com": "INACTIVE"
-        },
         "1570760214": {
             "hk2sch130021927.wns.windows.com": "INACTIVE"
         },
@@ -387,9 +374,6 @@
             "ieonlinews.microsoft.com": "INACTIVE",
             "ieonlinews.trafficmanager.net": "INACTIVE"
         },
-        "1570768009": {
-            "mobile.events.data.microsoft.com": "INACTIVE"
-        },
         "1570768140": {
             "mobile.pipe.aria.microsoft.com": "INACTIVE"
         },
@@ -406,8 +390,7 @@
             "onecollector.cloudapp.aria.akadns.net": "INACTIVE"
         },
         "1570775619": {
-            "spynetalt.microsoft.com": "INACTIVE",
-            "sqm.df.telemetry.microsoft.com": "INACTIVE"
+            "spynetalt.microsoft.com": "INACTIVE"
         },
         "1570775750": {
             "sqm.telemetry.microsoft.com": "INACTIVE"
@@ -878,6 +861,25 @@
         },
         "1570867168": {
             "hk2sch130021731.wns.windows.com": "INACTIVE"
+        },
+        "1570869769": {
+            "sqm.df.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570869900": {
+            "hk2sch130020854.wns.windows.com": "INACTIVE"
+        },
+        "1570870031": {
+            "hk2sch130021440.wns.windows.com": "INACTIVE",
+            "teredo.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1570870162": {
+            "hk2sch130021852.wns.windows.com": "INACTIVE"
+        },
+        "1570870163": {
+            "cds406.lcy.llnw.net": "INACTIVE"
+        },
+        "1570870293": {
+            "mobile.events.data.microsoft.com": "INACTIVE"
         }
     }
 }
