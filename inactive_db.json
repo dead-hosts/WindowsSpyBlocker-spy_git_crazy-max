@@ -136,9 +136,6 @@
             "reports.wes.df.telemetry.microsoft.com": "INACTIVE",
             "schemas.microsoft.akadns.net": "INACTIVE"
         },
-        "1570663805": {
-            "self.events.data.microsoft.com": "INACTIVE"
-        },
         "1570668857": {
             "ac3.msn.com": "INACTIVE"
         },
@@ -150,8 +147,7 @@
             "b.ads2.msads.net": "INACTIVE"
         },
         "1570669120": {
-            "bn2b-cor001.api.p001.1drv.com": "INACTIVE",
-            "bn2b-cor002.api.p001.1drv.com": "INACTIVE"
+            "bn2b-cor001.api.p001.1drv.com": "INACTIVE"
         },
         "1570669121": {
             "bn2b-cor004.api.p001.1drv.com": "INACTIVE"
@@ -198,9 +194,6 @@
         "1570690189": {
             "bn4sch101121118.wns.windows.com": "INACTIVE"
         },
-        "1570690713": {
-            "bn4sch101121704.wns.windows.com": "INACTIVE"
-        },
         "1570694313": {
             "bn4sch101121908.wns.windows.com": "INACTIVE"
         },
@@ -208,8 +201,7 @@
             "browser.events.data.microsoft.com": "INACTIVE"
         },
         "1570702543": {
-            "browser.pipe.aria.microsoft.com": "INACTIVE",
-            "cache.datamart.windows.com": "INACTIVE"
+            "browser.pipe.aria.microsoft.com": "INACTIVE"
         },
         "1570702544": {
             "cds1203.lon.llnw.net": "INACTIVE"
@@ -267,9 +259,6 @@
         },
         "1570702695": {
             "cs1.wpc.v0cdn.net": "INACTIVE"
-        },
-        "1570706859": {
-            "db5.vortex.data.microsoft.com.akadns.net": "INACTIVE"
         },
         "1570706990": {
             "df.telemetry.microsoft.com": "INACTIVE",
@@ -338,9 +327,6 @@
         "1570737181": {
             "hk2sch130021435.wns.windows.com": "INACTIVE"
         },
-        "1570737312": {
-            "hk2sch130021437.wns.windows.com": "INACTIVE"
-        },
         "1570737443": {
             "hk2sch130021440.wns.windows.com": "INACTIVE"
         },
@@ -358,9 +344,6 @@
         },
         "1570744793": {
             "hk2sch130021544.wns.windows.com": "INACTIVE"
-        },
-        "1570744924": {
-            "hk2sch130021554.wns.windows.com": "INACTIVE"
         },
         "1570745055": {
             "hk2sch130021618.wns.windows.com": "INACTIVE"
@@ -880,6 +863,23 @@
         },
         "1570848759": {
             "hk2sch130021654.wns.windows.com": "INACTIVE"
+        },
+        "1570851464": {
+            "hk2sch130021437.wns.windows.com": "INACTIVE"
+        },
+        "1570851595": {
+            "bn2b-cor002.api.p001.1drv.com": "INACTIVE",
+            "cache.datamart.windows.com": "INACTIVE",
+            "db5.vortex.data.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1570851726": {
+            "self.events.data.microsoft.com": "INACTIVE"
+        },
+        "1570851857": {
+            "bn4sch101121704.wns.windows.com": "INACTIVE"
+        },
+        "1570851988": {
+            "hk2sch130021554.wns.windows.com": "INACTIVE"
         }
     }
 }
