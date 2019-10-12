@@ -150,9 +150,6 @@
         "1570702554": {
             "cds407.fra.llnw.net": "INACTIVE"
         },
-        "1570702556": {
-            "cds426.lcy.llnw.net": "INACTIVE"
-        },
         "1570702558": {
             "cds469.lcy.llnw.net": "INACTIVE",
             "cds471.lcy.llnw.net": "INACTIVE"
@@ -188,9 +185,6 @@
         },
         "1570740701": {
             "hk2sch130021450.wns.windows.com": "INACTIVE"
-        },
-        "1570741225": {
-            "hk2sch130021527.wns.windows.com": "INACTIVE"
         },
         "1570744793": {
             "hk2sch130021544.wns.windows.com": "INACTIVE"
@@ -255,9 +249,6 @@
         "1570775488": {
             "onecollector.cloudapp.aria.akadns.net": "INACTIVE"
         },
-        "1570775750": {
-            "sqm.telemetry.microsoft.com": "INACTIVE"
-        },
         "1570776012": {
             "survey.watson.microsoft.com": "INACTIVE"
         },
@@ -302,7 +293,6 @@
             "watson.telemetry.microsoft.com": "INACTIVE"
         },
         "1570797191": {
-            "web.vortex.data.microsoft.com": "INACTIVE",
             "wes.df.telemetry.microsoft.com": "INACTIVE"
         },
         "1570797322": {
@@ -312,8 +302,7 @@
             "win1710.ipv6.microsoft.com": "INACTIVE"
         },
         "1570801450": {
-            "cds447.lcy.llnw.net": "INACTIVE",
-            "www.msedge.net": "INACTIVE"
+            "cds447.lcy.llnw.net": "INACTIVE"
         },
         "1570801581": {
             "bn4sch101121407.wns.windows.com": "INACTIVE",
@@ -361,7 +350,6 @@
             "eu.vortex.data.microsoft.com": "INACTIVE"
         },
         "1570810396": {
-            "cds54.ory.llnw.net": "INACTIVE",
             "hk2sch130020726.wns.windows.com": "INACTIVE"
         },
         "1570810397": {
@@ -896,6 +884,24 @@
         },
         "1570906081": {
             "hk2sch130021833.wns.windows.com": "INACTIVE"
+        },
+        "1570908717": {
+            "web.vortex.data.microsoft.com": "INACTIVE"
+        },
+        "1570908718": {
+            "cds54.ory.llnw.net": "INACTIVE"
+        },
+        "1570908848": {
+            "sqm.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570908849": {
+            "cds426.lcy.llnw.net": "INACTIVE"
+        },
+        "1570908979": {
+            "hk2sch130021527.wns.windows.com": "INACTIVE"
+        },
+        "1570909111": {
+            "www.msedge.net": "INACTIVE"
         }
     }
 }
