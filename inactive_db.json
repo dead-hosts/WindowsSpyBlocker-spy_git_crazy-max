@@ -161,9 +161,6 @@
             "cds484.lcy.llnw.net": "INACTIVE",
             "cds489.lcy.llnw.net": "INACTIVE"
         },
-        "1570702561": {
-            "cds815.lon.llnw.net": "INACTIVE"
-        },
         "1570702562": {
             "cds836.lon.llnw.net": "INACTIVE"
         },
@@ -192,17 +189,11 @@
         "1570740701": {
             "hk2sch130021450.wns.windows.com": "INACTIVE"
         },
-        "1570740832": {
-            "hk2sch130021518.wns.windows.com": "INACTIVE"
-        },
         "1570741225": {
             "hk2sch130021527.wns.windows.com": "INACTIVE"
         },
         "1570744793": {
             "hk2sch130021544.wns.windows.com": "INACTIVE"
-        },
-        "1570745318": {
-            "hk2sch130021638.wns.windows.com": "INACTIVE"
         },
         "1570748662": {
             "hk2sch130021646.wns.windows.com": "INACTIVE"
@@ -218,9 +209,6 @@
         },
         "1570756473": {
             "hk2sch130021830.wns.windows.com": "INACTIVE"
-        },
-        "1570756605": {
-            "hk2sch130021833.wns.windows.com": "INACTIVE"
         },
         "1570756736": {
             "hk2sch130021840.wns.windows.com": "INACTIVE"
@@ -247,15 +235,13 @@
             "hk2wns1.wns.windows.com": "INACTIVE"
         },
         "1570767876": {
-            "hk2.wns.windows.com": "INACTIVE",
             "i-bl6p-cor001.api.p001.1drv.com": "INACTIVE"
         },
         "1570767877": {
             "i-bl6p-cor002.api.p001.1drv.com": "INACTIVE"
         },
         "1570767878": {
-            "i-sn2-cor001.api.p001.1drv.com": "INACTIVE",
-            "ieonlinews.trafficmanager.net": "INACTIVE"
+            "i-sn2-cor001.api.p001.1drv.com": "INACTIVE"
         },
         "1570768140": {
             "mobile.pipe.aria.microsoft.com": "INACTIVE"
@@ -271,9 +257,6 @@
         },
         "1570775750": {
             "sqm.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1570775881": {
-            "ssw.live.com": "INACTIVE"
         },
         "1570776012": {
             "survey.watson.microsoft.com": "INACTIVE"
@@ -305,9 +288,6 @@
         "1570787644": {
             "v20.vortex-win.data.microsoft.com": "INACTIVE",
             "view.atdmt.com": "INACTIVE"
-        },
-        "1570787775": {
-            "vortex.data.microsoft.com": "INACTIVE"
         },
         "1570791300": {
             "vortex-sandbox.data.microsoft.com": "INACTIVE"
@@ -367,9 +347,6 @@
         },
         "1570806265": {
             "hk2sch130020729.wns.windows.com": "INACTIVE"
-        },
-        "1570810133": {
-            "cds38.ory.llnw.net": "INACTIVE"
         },
         "1570810134": {
             "cds20443.lcy.llnw.net": "INACTIVE",
@@ -898,6 +875,27 @@
         },
         "1570901721": {
             "bn3sch020020749.wns.windows.com": "INACTIVE"
+        },
+        "1570905557": {
+            "cds815.lon.llnw.net": "INACTIVE",
+            "hk2.wns.windows.com": "INACTIVE"
+        },
+        "1570905688": {
+            "hk2sch130021638.wns.windows.com": "INACTIVE"
+        },
+        "1570905819": {
+            "hk2sch130021518.wns.windows.com": "INACTIVE",
+            "ieonlinews.trafficmanager.net": "INACTIVE",
+            "ssw.live.com": "INACTIVE"
+        },
+        "1570905950": {
+            "vortex.data.microsoft.com": "INACTIVE"
+        },
+        "1570905951": {
+            "cds38.ory.llnw.net": "INACTIVE"
+        },
+        "1570906081": {
+            "hk2sch130021833.wns.windows.com": "INACTIVE"
         }
     }
 }
