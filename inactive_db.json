@@ -163,9 +163,6 @@
         "1570756736": {
             "hk2sch130021840.wns.windows.com": "INACTIVE"
         },
-        "1570759952": {
-            "hk2sch130021851.wns.windows.com": "INACTIVE"
-        },
         "1570760214": {
             "hk2sch130021927.wns.windows.com": "INACTIVE"
         },
@@ -186,9 +183,6 @@
         },
         "1570775488": {
             "onecollector.cloudapp.aria.akadns.net": "INACTIVE"
-        },
-        "1570776012": {
-            "survey.watson.microsoft.com": "INACTIVE"
         },
         "1570783484": {
             "us.vortex-win.data.microsoft.com": "INACTIVE"
@@ -211,14 +205,10 @@
         "1570797060": {
             "watson.telemetry.microsoft.com": "INACTIVE"
         },
-        "1570797322": {
-            "win10.ipv6.microsoft.com": "INACTIVE"
-        },
         "1570801450": {
             "cds447.lcy.llnw.net": "INACTIVE"
         },
         "1570801581": {
-            "bn4sch101121407.wns.windows.com": "INACTIVE",
             "cds20424.lcy.llnw.net": "INACTIVE"
         },
         "1570801582": {
@@ -346,9 +336,6 @@
             "a.ads1.msn.com": "INACTIVE",
             "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1570836312": {
-            "tele.trafficmanager.net": "INACTIVE"
-        },
         "1570840257": {
             "hk2sch130021322.wns.windows.com": "INACTIVE"
         },
@@ -412,9 +399,6 @@
             "cache.datamart.windows.com": "INACTIVE",
             "db5.vortex.data.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1570851726": {
-            "self.events.data.microsoft.com": "INACTIVE"
-        },
         "1570851988": {
             "hk2sch130021554.wns.windows.com": "INACTIVE"
         },
@@ -448,7 +432,6 @@
         },
         "1570863011": {
             "hk2wns1b.wns.windows.com": "INACTIVE",
-            "i-ch1-cor001.api.p001.1drv.com": "INACTIVE",
             "i-sn3p-cor001.api.p001.1drv.com": "INACTIVE"
         },
         "1570863142": {
@@ -920,6 +903,23 @@
         },
         "1570949627": {
             "hk2sch130021329.wns.windows.com": "INACTIVE"
+        },
+        "1570953016": {
+            "survey.watson.microsoft.com": "INACTIVE"
+        },
+        "1570953147": {
+            "hk2sch130021851.wns.windows.com": "INACTIVE"
+        },
+        "1570953278": {
+            "tele.trafficmanager.net": "INACTIVE",
+            "win10.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1570953409": {
+            "i-ch1-cor001.api.p001.1drv.com": "INACTIVE",
+            "self.events.data.microsoft.com": "INACTIVE"
+        },
+        "1570953540": {
+            "bn4sch101121407.wns.windows.com": "INACTIVE"
         }
     }
 }
