@@ -151,9 +151,6 @@
         "1570767878": {
             "i-sn2-cor001.api.p001.1drv.com": "INACTIVE"
         },
-        "1570771866": {
-            "nexusrules.officeapps.live.com": "INACTIVE"
-        },
         "1570775488": {
             "onecollector.cloudapp.aria.akadns.net": "INACTIVE"
         },
@@ -380,17 +377,11 @@
         "1570866775": {
             "geo.vortex.data.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1570867037": {
-            "hk2sch130021928.wns.windows.com": "INACTIVE"
-        },
         "1570867168": {
             "hk2sch130021731.wns.windows.com": "INACTIVE"
         },
         "1570869900": {
             "hk2sch130020854.wns.windows.com": "INACTIVE"
-        },
-        "1570870162": {
-            "hk2sch130021852.wns.windows.com": "INACTIVE"
         },
         "1570870163": {
             "cds406.lcy.llnw.net": "INACTIVE"
@@ -435,9 +426,6 @@
         },
         "1570882194": {
             "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1570882456": {
-            "hk2sch130021246.wns.windows.com": "INACTIVE"
         },
         "1570882587": {
             "hk2sch130021842.wns.windows.com": "INACTIVE"
@@ -920,6 +908,18 @@
         },
         "1570971245": {
             "hk2sch130021440.wns.windows.com": "INACTIVE"
+        },
+        "1570975347": {
+            "hk2sch130021852.wns.windows.com": "INACTIVE"
+        },
+        "1570975478": {
+            "hk2sch130021928.wns.windows.com": "INACTIVE"
+        },
+        "1570975609": {
+            "nexusrules.officeapps.live.com": "INACTIVE"
+        },
+        "1570975740": {
+            "hk2sch130021246.wns.windows.com": "INACTIVE"
         }
     }
 }
