@@ -103,9 +103,6 @@
             "reports.wes.df.telemetry.microsoft.com": "INACTIVE",
             "schemas.microsoft.akadns.net": "INACTIVE"
         },
-        "1570669119": {
-            "b.ads2.msads.net": "INACTIVE"
-        },
         "1570673667": {
             "bn3sch020010629.wns.windows.com": "INACTIVE"
         },
@@ -126,9 +123,6 @@
         },
         "1570702554": {
             "cds407.fra.llnw.net": "INACTIVE"
-        },
-        "1570702559": {
-            "cds489.lcy.llnw.net": "INACTIVE"
         },
         "1570702562": {
             "cds836.lon.llnw.net": "INACTIVE"
@@ -154,9 +148,6 @@
         "1570748793": {
             "hk2sch130021652.wns.windows.com": "INACTIVE"
         },
-        "1570753341": {
-            "hk2sch130021754.wns.windows.com": "INACTIVE"
-        },
         "1570756473": {
             "hk2sch130021830.wns.windows.com": "INACTIVE"
         },
@@ -165,9 +156,6 @@
         },
         "1570760214": {
             "hk2sch130021927.wns.windows.com": "INACTIVE"
-        },
-        "1570763876": {
-            "hk2sch130021958.wns.windows.com": "INACTIVE"
         },
         "1570764400": {
             "hk2sch130022135.wns.windows.com": "INACTIVE"
@@ -223,9 +211,6 @@
             "cds21309.lon.llnw.net": "INACTIVE",
             "redir.metaservices.microsoft.com": "INACTIVE"
         },
-        "1570805874": {
-            "cds483.lcy.llnw.net": "INACTIVE"
-        },
         "1570806134": {
             "bn4sch101121714.wns.windows.com": "INACTIVE"
         },
@@ -252,7 +237,6 @@
             "telemetry.remoteapp.windowsazure.com": "INACTIVE"
         },
         "1570810530": {
-            "bn3p-cor001.api.p001.1drv.com": "INACTIVE",
             "cds21256.lon.llnw.net": "INACTIVE"
         },
         "1570810660": {
@@ -409,8 +393,7 @@
             "bn3sch020011727.wns.windows.com": "INACTIVE"
         },
         "1570855741": {
-            "cds310.lcy.llnw.net": "INACTIVE",
-            "hk2sch130021730.wns.windows.com": "INACTIVE"
+            "cds310.lcy.llnw.net": "INACTIVE"
         },
         "1570855872": {
             "hk2sch130021017.wns.windows.com": "INACTIVE"
@@ -431,7 +414,6 @@
             "hk2sch130021432.wns.windows.com": "INACTIVE"
         },
         "1570863011": {
-            "hk2wns1b.wns.windows.com": "INACTIVE",
             "i-sn3p-cor001.api.p001.1drv.com": "INACTIVE"
         },
         "1570863142": {
@@ -469,8 +451,7 @@
             "hk2sch130020854.wns.windows.com": "INACTIVE"
         },
         "1570870031": {
-            "hk2sch130021440.wns.windows.com": "INACTIVE",
-            "teredo.ipv6.microsoft.com": "INACTIVE"
+            "hk2sch130021440.wns.windows.com": "INACTIVE"
         },
         "1570870162": {
             "hk2sch130021852.wns.windows.com": "INACTIVE"
@@ -920,6 +901,25 @@
         },
         "1570953540": {
             "bn4sch101121407.wns.windows.com": "INACTIVE"
+        },
+        "1570956932": {
+            "cds483.lcy.llnw.net": "INACTIVE",
+            "teredo.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1570957062": {
+            "hk2wns1b.wns.windows.com": "INACTIVE"
+        },
+        "1570957194": {
+            "b.ads2.msads.net": "INACTIVE",
+            "bn3p-cor001.api.p001.1drv.com": "INACTIVE",
+            "cds489.lcy.llnw.net": "INACTIVE",
+            "hk2sch130021958.wns.windows.com": "INACTIVE"
+        },
+        "1570957325": {
+            "hk2sch130021730.wns.windows.com": "INACTIVE"
+        },
+        "1570957456": {
+            "hk2sch130021754.wns.windows.com": "INACTIVE"
         }
     }
 }
