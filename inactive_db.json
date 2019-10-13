@@ -214,9 +214,6 @@
         "1570836182": {
             "a.ads1.msn.com": "INACTIVE"
         },
-        "1570840257": {
-            "hk2sch130021322.wns.windows.com": "INACTIVE"
-        },
         "1570840388": {
             "bn3sch020010631.wns.windows.com": "INACTIVE",
             "cds405.lcy.llnw.net": "INACTIVE"
@@ -244,9 +241,6 @@
         },
         "1570855478": {
             "ac3.msn.com": "INACTIVE"
-        },
-        "1570855609": {
-            "bn3sch020011727.wns.windows.com": "INACTIVE"
         },
         "1570855741": {
             "cds310.lcy.llnw.net": "INACTIVE"
@@ -452,8 +446,7 @@
             "eu.vortex.data.microsoft.com": "INACTIVE"
         },
         "1570913282": {
-            "activity.windows.com": "INACTIVE",
-            "apac1.notify.windows.com.akadns.net": "INACTIVE"
+            "activity.windows.com": "INACTIVE"
         },
         "1570913283": {
             "cds1204.lon.llnw.net": "INACTIVE",
@@ -496,9 +489,6 @@
         },
         "1570920587": {
             "bn3sch020010618.wns.windows.com": "INACTIVE"
-        },
-        "1570920718": {
-            "bn4sch101121618.wns.windows.com": "INACTIVE"
         },
         "1570920849": {
             "settings-win-ppe.data.microsoft.com": "INACTIVE"
@@ -920,6 +910,18 @@
         },
         "1571005456": {
             "bn4sch101123108.wns.windows.com": "INACTIVE"
+        },
+        "1571008774": {
+            "bn3sch020011727.wns.windows.com": "INACTIVE"
+        },
+        "1571008905": {
+            "hk2sch130021322.wns.windows.com": "INACTIVE"
+        },
+        "1571009036": {
+            "apac1.notify.windows.com.akadns.net": "INACTIVE"
+        },
+        "1571009168": {
+            "bn4sch101121618.wns.windows.com": "INACTIVE"
         }
     }
 }
