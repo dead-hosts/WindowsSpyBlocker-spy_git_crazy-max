@@ -1,28 +1,32 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
         "ACTIVE": [
-            "hk2.settings.data.microsoft.com.akadns.net",
-            "lb1.www.ms.akadns.net",
-            "live.rads.msn.com",
-            "m.adnxs.com",
-            "pre.footprintpredict.com",
-            "rad.live.com",
-            "secure.adnxs.com",
-            "secure.flashtalking.com"
+            "adnexus.net",
+            "adnxs.com",
+            "ads1.msads.net",
+            "aidps.atdmt.com",
+            "aka-cdn-ns.adtech.de",
+            "bingads.microsoft.com",
+            "bs.serving-sys.com",
+            "c.atdmt.com",
+            "c.msn.com",
+            "corpext.msitadfs.glbdns2.microsoft.com",
+            "corp.sts.microsoft.com",
+            "flex.msn.com",
+            "g.msn.com",
+            "h1.msn.com",
+            "h2.msn.com",
+            "msedge.net",
+            "msntest.serving-sys.com",
+            "telemetry.appex.bing.net"
         ],
         "INACTIVE": [
-            "cds20424.lcy.llnw.net",
-            "cds20461.lcy.llnw.net",
-            "tele.trafficmanager.net",
-            "hk2sch130021440.wns.windows.com",
-            "nexusrules.officeapps.live.com",
-            "preview.msn.com",
-            "hk2sch130022041.wns.windows.com",
-            "cds1327.lon.llnw.net",
-            "hk2sch130021518.wns.windows.com",
-            "i-bn3p-cor001.api.p001.1drv.com",
-            "cds20425.lcy.llnw.net",
-            "eu-v20.events.data.microsoft.com"
+            "schemas.microsoft.akadns.net",
+            "bn3sch020022361.wns.windows.com",
+            "hk2sch130020843.wns.windows.com",
+            "hk2sch130021153.wns.windows.com",
+            "ch3301-c.1drv.com",
+            "modern.watson.data.microsoft.com.akadns.net"
         ]
     }
 }

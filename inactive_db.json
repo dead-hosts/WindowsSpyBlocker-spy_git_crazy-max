@@ -128,9 +128,6 @@
         "1570810527": {
             "cy2.vortex.data.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1570814966": {
-            "ch3301-c.1drv.com": "INACTIVE"
-        },
         "1570815095": {
             "hk2sch130021029.wns.windows.com": "INACTIVE"
         },
@@ -206,9 +203,6 @@
         "1570889243": {
             "hk2sch130021634.wns.windows.com": "INACTIVE"
         },
-        "1570889374": {
-            "modern.watson.data.microsoft.com.akadns.net": "INACTIVE"
-        },
         "1570889636": {
             "cds20475.lcy.llnw.net": "INACTIVE"
         },
@@ -247,9 +241,6 @@
         },
         "1570916893": {
             "hk2wns1.wns.windows.com": "INACTIVE"
-        },
-        "1570917287": {
-            "hk2sch130020843.wns.windows.com": "INACTIVE"
         },
         "1570924960": {
             "sn3301-c.1drv.com": "INACTIVE"
@@ -363,9 +354,6 @@
         "1570961679": {
             "cds20495.lcy.llnw.net": "INACTIVE"
         },
-        "1570961809": {
-            "bn3sch020022361.wns.windows.com": "INACTIVE"
-        },
         "1570965848": {
             "ch1-cor002.api.p001.1drv.com": "INACTIVE"
         },
@@ -380,8 +368,7 @@
             "compatexchange1.trafficmanager.net": "INACTIVE"
         },
         "1570966241": {
-            "hk2sch130020958.wns.windows.com": "INACTIVE",
-            "schemas.microsoft.akadns.net": "INACTIVE"
+            "hk2sch130020958.wns.windows.com": "INACTIVE"
         },
         "1570966242": {
             "cds1289.lon.llnw.net": "INACTIVE",
@@ -463,9 +450,6 @@
         "1570988063": {
             "hk2sch130021830.wns.windows.com": "INACTIVE",
             "services.wes.df.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1570988194": {
-            "hk2sch130021153.wns.windows.com": "INACTIVE"
         },
         "1570988325": {
             "cdn.atdmt.com": "INACTIVE",
@@ -950,6 +934,22 @@
         },
         "1571074681": {
             "eu-v20.events.data.microsoft.com": "INACTIVE"
+        },
+        "1571078420": {
+            "schemas.microsoft.akadns.net": "INACTIVE"
+        },
+        "1571078551": {
+            "bn3sch020022361.wns.windows.com": "INACTIVE"
+        },
+        "1571078682": {
+            "hk2sch130020843.wns.windows.com": "INACTIVE"
+        },
+        "1571078813": {
+            "ch3301-c.1drv.com": "INACTIVE",
+            "hk2sch130021153.wns.windows.com": "INACTIVE"
+        },
+        "1571078944": {
+            "modern.watson.data.microsoft.com.akadns.net": "INACTIVE"
         }
     }
 }
