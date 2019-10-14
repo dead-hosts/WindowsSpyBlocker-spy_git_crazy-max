@@ -133,8 +133,7 @@
         },
         "1570805872": {
             "cds20411.lcy.llnw.net": "INACTIVE",
-            "ch3301-e.1drv.com": "INACTIVE",
-            "hk2sch130020851.wns.windows.com": "INACTIVE"
+            "ch3301-e.1drv.com": "INACTIVE"
         },
         "1570805873": {
             "cds21309.lon.llnw.net": "INACTIVE",
@@ -166,9 +165,6 @@
         },
         "1570827897": {
             "b.rad.msn.com": "INACTIVE"
-        },
-        "1570828421": {
-            "hk2sch130021260.wns.windows.com": "INACTIVE"
         },
         "1570832126": {
             "cds20404.lcy.llnw.net": "INACTIVE"
@@ -211,9 +207,6 @@
         "1570855478": {
             "ac3.msn.com": "INACTIVE"
         },
-        "1570855741": {
-            "cds310.lcy.llnw.net": "INACTIVE"
-        },
         "1570855872": {
             "hk2sch130021017.wns.windows.com": "INACTIVE"
         },
@@ -243,9 +236,6 @@
         },
         "1570878382": {
             "v10.vortex-win.data.microsoft.com": "INACTIVE"
-        },
-        "1570881933": {
-            "i-ch1-cor002.api.p001.1drv.com": "INACTIVE"
         },
         "1570882063": {
             "hk2sch130022041.wns.windows.com": "INACTIVE"
@@ -295,9 +285,6 @@
         "1570901458": {
             "bn4sch101123202.wns.windows.com": "INACTIVE"
         },
-        "1570901459": {
-            "cds1228.lon.llnw.net": "INACTIVE"
-        },
         "1570901589": {
             "hk2sch130021727.wns.windows.com": "INACTIVE"
         },
@@ -313,7 +300,6 @@
         },
         "1570905819": {
             "hk2sch130021518.wns.windows.com": "INACTIVE",
-            "ieonlinews.trafficmanager.net": "INACTIVE",
             "ssw.live.com": "INACTIVE"
         },
         "1570905950": {
@@ -344,7 +330,6 @@
             "cds20435.lcy.llnw.net": "INACTIVE"
         },
         "1570913416": {
-            "i-bl6p-cor002.api.p001.1drv.com": "INACTIVE",
             "wes.df.telemetry.microsoft.com": "INACTIVE"
         },
         "1570913547": {
@@ -372,9 +357,6 @@
         "1570924961": {
             "sn3301-g.1drv.com": "INACTIVE"
         },
-        "1570925091": {
-            "bn4sch101123110.wns.windows.com": "INACTIVE"
-        },
         "1570925092": {
             "cds1287.lon.llnw.net": "INACTIVE",
             "cds21258.lon.llnw.net": "INACTIVE"
@@ -388,7 +370,6 @@
         },
         "1570929408": {
             "cds21233.lon.llnw.net": "INACTIVE",
-            "continuum.dds.microsoft.com": "INACTIVE",
             "telemetry.microsoft.com": "INACTIVE"
         },
         "1570929539": {
@@ -478,9 +459,6 @@
         "1570953016": {
             "survey.watson.microsoft.com": "INACTIVE"
         },
-        "1570953147": {
-            "hk2sch130021851.wns.windows.com": "INACTIVE"
-        },
         "1570953278": {
             "tele.trafficmanager.net": "INACTIVE",
             "win10.ipv6.microsoft.com": "INACTIVE"
@@ -502,7 +480,6 @@
         "1570957194": {
             "b.ads2.msads.net": "INACTIVE",
             "bn3p-cor001.api.p001.1drv.com": "INACTIVE",
-            "cds489.lcy.llnw.net": "INACTIVE",
             "hk2sch130021958.wns.windows.com": "INACTIVE"
         },
         "1570957325": {
@@ -932,6 +909,33 @@
         },
         "1571040421": {
             "eu.vortex-win.data.microsoft.com": "INACTIVE"
+        },
+        "1571043885": {
+            "hk2sch130021851.wns.windows.com": "INACTIVE"
+        },
+        "1571043886": {
+            "cds310.lcy.llnw.net": "INACTIVE"
+        },
+        "1571044016": {
+            "hk2sch130021260.wns.windows.com": "INACTIVE"
+        },
+        "1571044147": {
+            "bn4sch101123110.wns.windows.com": "INACTIVE"
+        },
+        "1571044278": {
+            "continuum.dds.microsoft.com": "INACTIVE"
+        },
+        "1571044279": {
+            "cds1228.lon.llnw.net": "INACTIVE",
+            "cds489.lcy.llnw.net": "INACTIVE",
+            "ieonlinews.trafficmanager.net": "INACTIVE"
+        },
+        "1571044280": {
+            "i-bl6p-cor002.api.p001.1drv.com": "INACTIVE",
+            "i-ch1-cor002.api.p001.1drv.com": "INACTIVE"
+        },
+        "1571044410": {
+            "hk2sch130020851.wns.windows.com": "INACTIVE"
         }
     }
 }
