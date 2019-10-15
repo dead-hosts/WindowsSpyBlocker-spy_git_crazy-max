@@ -94,9 +94,6 @@
         "1570117744": {
             "cds21257.lon.llnw.net": "INACTIVE"
         },
-        "1570663675": {
-            "reports.wes.df.telemetry.microsoft.com": "INACTIVE"
-        },
         "1570748662": {
             "hk2sch130021646.wns.windows.com": "INACTIVE"
         },
@@ -196,9 +193,6 @@
         "1570905951": {
             "cds38.ory.llnw.net": "INACTIVE"
         },
-        "1570908849": {
-            "cds426.lcy.llnw.net": "INACTIVE"
-        },
         "1570912889": {
             "cds1285.lon.llnw.net": "INACTIVE"
         },
@@ -240,7 +234,6 @@
             "bn4sch101121908.wns.windows.com": "INACTIVE"
         },
         "1570941894": {
-            "bn4sch101121704.wns.windows.com": "INACTIVE",
             "rad.msn.com": "INACTIVE"
         },
         "1570941895": {
@@ -255,9 +248,6 @@
         "1570953016": {
             "survey.watson.microsoft.com": "INACTIVE"
         },
-        "1570953278": {
-            "win10.ipv6.microsoft.com": "INACTIVE"
-        },
         "1570956932": {
             "teredo.ipv6.microsoft.com": "INACTIVE"
         },
@@ -266,9 +256,6 @@
         },
         "1570961155": {
             "by3301-c.1drv.com": "INACTIVE"
-        },
-        "1570961416": {
-            "hk2sch130021137.wns.windows.com": "INACTIVE"
         },
         "1570961417": {
             "bl3301-g.1drv.com": "INACTIVE",
@@ -435,7 +422,6 @@
             "hk2sch130021323.wns.windows.com": "INACTIVE"
         },
         "1571012883": {
-            "bn3sch020010636.wns.windows.com": "INACTIVE",
             "cds406.lcy.llnw.net": "INACTIVE"
         },
         "1571012884": {
@@ -952,6 +938,22 @@
         },
         "1571107538": {
             "hk2sch130021829.wns.windows.com": "INACTIVE"
+        },
+        "1571111020": {
+            "cds426.lcy.llnw.net": "INACTIVE",
+            "reports.wes.df.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1571111151": {
+            "bn4sch101121704.wns.windows.com": "INACTIVE"
+        },
+        "1571111282": {
+            "hk2sch130021137.wns.windows.com": "INACTIVE"
+        },
+        "1571111413": {
+            "bn3sch020010636.wns.windows.com": "INACTIVE"
+        },
+        "1571111544": {
+            "win10.ipv6.microsoft.com": "INACTIVE"
         }
     }
 }
