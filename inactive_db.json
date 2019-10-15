@@ -176,9 +176,6 @@
         "1570933071": {
             "db5.settings.data.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1570937384": {
-            "cds299.lcy.llnw.net": "INACTIVE"
-        },
         "1570937385": {
             "cds1273.lon.llnw.net": "INACTIVE"
         },
@@ -188,14 +185,8 @@
         "1570937777": {
             "v10.events.data.microsoft.com": "INACTIVE"
         },
-        "1570941894": {
-            "rad.msn.com": "INACTIVE"
-        },
         "1570953016": {
             "survey.watson.microsoft.com": "INACTIVE"
-        },
-        "1570956932": {
-            "teredo.ipv6.microsoft.com": "INACTIVE"
         },
         "1570961679": {
             "cds20495.lcy.llnw.net": "INACTIVE"
@@ -208,9 +199,6 @@
         },
         "1570970721": {
             "watson.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1570975740": {
-            "hk2sch130021246.wns.windows.com": "INACTIVE"
         },
         "1570979678": {
             "bn3sch020010558.wns.windows.com": "INACTIVE"
@@ -233,17 +221,11 @@
         "1570983969": {
             "hk2sch130021334.wns.windows.com": "INACTIVE"
         },
-        "1570984100": {
-            "hk2sch130020956.wns.windows.com": "INACTIVE"
-        },
         "1570988063": {
             "services.wes.df.telemetry.microsoft.com": "INACTIVE"
         },
         "1570988325": {
             "cdn.atdmt.com": "INACTIVE"
-        },
-        "1570988588": {
-            "sg2p.wns.windows.com": "INACTIVE"
         },
         "1570992763": {
             "hk2sch130021544.wns.windows.com": "INACTIVE"
@@ -286,9 +268,6 @@
         "1571008905": {
             "hk2sch130021322.wns.windows.com": "INACTIVE"
         },
-        "1571009036": {
-            "apac1.notify.windows.com.akadns.net": "INACTIVE"
-        },
         "1571009168": {
             "bn4sch101121618.wns.windows.com": "INACTIVE"
         },
@@ -300,9 +279,6 @@
         },
         "1571012883": {
             "cds406.lcy.llnw.net": "INACTIVE"
-        },
-        "1571012884": {
-            "api.cortana.ai": "INACTIVE"
         },
         "1571013014": {
             "events.data.microsoft.com": "INACTIVE"
@@ -324,7 +300,6 @@
             "bn3sch020010560.wns.windows.com": "INACTIVE"
         },
         "1571020400": {
-            "a.ads2.msads.net": "INACTIVE",
             "activity.windows.com": "INACTIVE",
             "test.activity.windows.com": "INACTIVE"
         },
@@ -347,8 +322,7 @@
             "cds832.lon.llnw.net": "INACTIVE"
         },
         "1571028503": {
-            "browser.pipe.aria.microsoft.com": "INACTIVE",
-            "cds840.lon.llnw.net": "INACTIVE"
+            "browser.pipe.aria.microsoft.com": "INACTIVE"
         },
         "1571028634": {
             "v20.vortex-win.data.microsoft.com": "INACTIVE"
@@ -364,7 +338,6 @@
         },
         "1571032169": {
             "bn4sch102110124.wns.windows.com": "INACTIVE",
-            "by3301-a.1drv.com": "INACTIVE",
             "cds469.lcy.llnw.net": "INACTIVE"
         },
         "1571032170": {
@@ -423,7 +396,6 @@
             "cds489.lcy.llnw.net": "INACTIVE"
         },
         "1571044280": {
-            "i-bl6p-cor002.api.p001.1drv.com": "INACTIVE",
             "i-ch1-cor002.api.p001.1drv.com": "INACTIVE"
         },
         "1571044410": {
@@ -446,8 +418,7 @@
             "wes.df.telemetry.microsoft.com": "INACTIVE"
         },
         "1571050720": {
-            "cds21267.lon.llnw.net": "INACTIVE",
-            "i-sn2-cor001.api.p001.1drv.com": "INACTIVE"
+            "cds21267.lon.llnw.net": "INACTIVE"
         },
         "1571050851": {
             "vortex-win.data.microsoft.com": "INACTIVE"
@@ -944,6 +915,31 @@
         },
         "1571143283": {
             "onecollector.cloudapp.aria.akadns.net": "INACTIVE"
+        },
+        "1571147351": {
+            "cds299.lcy.llnw.net": "INACTIVE",
+            "i-sn2-cor001.api.p001.1drv.com": "INACTIVE",
+            "rad.msn.com": "INACTIVE"
+        },
+        "1571147481": {
+            "api.cortana.ai": "INACTIVE",
+            "hk2sch130021246.wns.windows.com": "INACTIVE",
+            "i-bl6p-cor002.api.p001.1drv.com": "INACTIVE"
+        },
+        "1571147612": {
+            "a.ads2.msads.net": "INACTIVE",
+            "cds840.lon.llnw.net": "INACTIVE",
+            "sg2p.wns.windows.com": "INACTIVE"
+        },
+        "1571147613": {
+            "by3301-a.1drv.com": "INACTIVE"
+        },
+        "1571147743": {
+            "hk2sch130020956.wns.windows.com": "INACTIVE",
+            "teredo.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1571147874": {
+            "apac1.notify.windows.com.akadns.net": "INACTIVE"
         }
     }
 }
