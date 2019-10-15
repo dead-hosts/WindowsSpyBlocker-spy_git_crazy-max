@@ -1,32 +1,23 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
         "ACTIVE": [
-            "adnexus.net",
-            "adnxs.com",
-            "ads1.msads.net",
-            "aidps.atdmt.com",
-            "aka-cdn-ns.adtech.de",
-            "bingads.microsoft.com",
-            "bs.serving-sys.com",
-            "c.atdmt.com",
-            "c.msn.com",
-            "corpext.msitadfs.glbdns2.microsoft.com",
-            "corp.sts.microsoft.com",
-            "flex.msn.com",
-            "g.msn.com",
-            "h1.msn.com",
-            "h2.msn.com",
-            "msedge.net",
-            "msntest.serving-sys.com",
-            "telemetry.appex.bing.net"
+            "hk2.settings.data.microsoft.com.akadns.net",
+            "lb1.www.ms.akadns.net",
+            "live.rads.msn.com",
+            "m.adnxs.com",
+            "pre.footprintpredict.com",
+            "rad.live.com",
+            "secure.adnxs.com",
+            "secure.flashtalking.com"
         ],
         "INACTIVE": [
-            "cds426.lcy.llnw.net",
-            "reports.wes.df.telemetry.microsoft.com",
-            "bn4sch101121704.wns.windows.com",
-            "hk2sch130021137.wns.windows.com",
-            "bn3sch020010636.wns.windows.com",
-            "win10.ipv6.microsoft.com"
+            "cds21225.lon.llnw.net",
+            "hk2sch130020726.wns.windows.com",
+            "win1710.ipv6.microsoft.com",
+            "hk2sch130020958.wns.windows.com",
+            "hk2sch130021035.wns.windows.com",
+            "cds21229.lon.llnw.net",
+            "bn4sch101122117.wns.windows.com"
         ]
     }
 }
