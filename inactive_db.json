@@ -115,9 +115,6 @@
         "1570855478": {
             "ac3.msn.com": "INACTIVE"
         },
-        "1570862880": {
-            "hk2sch130021432.wns.windows.com": "INACTIVE"
-        },
         "1570863011": {
             "i-sn3p-cor001.api.p001.1drv.com": "INACTIVE"
         },
@@ -485,8 +482,7 @@
         },
         "1571070466": {
             "bn3sch020020322.wns.windows.com": "INACTIVE",
-            "cds20404.lcy.llnw.net": "INACTIVE",
-            "cds20469.lcy.llnw.net": "INACTIVE"
+            "cds20404.lcy.llnw.net": "INACTIVE"
         },
         "1571070467": {
             "cds177.dus.llnw.net": "INACTIVE",
@@ -573,7 +569,6 @@
             "bn3sch020022335.wns.windows.com": "INACTIVE"
         },
         "1571086928": {
-            "alpha.telemetry.microsoft.com": "INACTIVE",
             "hk2wns1.wns.windows.com": "INACTIVE"
         },
         "1571087059": {
@@ -606,17 +601,13 @@
             "cy2.vortex.data.microsoft.com.akadns.net": "INACTIVE"
         },
         "1571095083": {
-            "cds20450.lcy.llnw.net": "INACTIVE",
-            "hk2sch130020940.wns.windows.com": "INACTIVE"
+            "cds20450.lcy.llnw.net": "INACTIVE"
         },
         "1571095214": {
             "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE"
         },
         "1571095345": {
             "bn4sch101121109.wns.windows.com": "INACTIVE"
-        },
-        "1571098617": {
-            "hk2sch130021017.wns.windows.com": "INACTIVE"
         },
         "1571098748": {
             "bn4sch101120814.wns.windows.com": "INACTIVE"
@@ -820,7 +811,6 @@
             "bn3sch020010650.wns.windows.com": "INACTIVE"
         },
         "1571138233": {
-            "bn4sch101121908.wns.windows.com": "INACTIVE",
             "cds405.lcy.llnw.net": "INACTIVE"
         },
         "1571138364": {
@@ -872,7 +862,6 @@
         },
         "1571147481": {
             "api.cortana.ai": "INACTIVE",
-            "hk2sch130021246.wns.windows.com": "INACTIVE",
             "i-bl6p-cor002.api.p001.1drv.com": "INACTIVE"
         },
         "1571147612": {
@@ -934,6 +923,25 @@
         },
         "1571156405": {
             "hk2sch130020961.wns.windows.com": "INACTIVE"
+        },
+        "1571257867": {
+            "hk2sch130021432.wns.windows.com": "INACTIVE"
+        },
+        "1571257998": {
+            "hk2sch130021246.wns.windows.com": "INACTIVE"
+        },
+        "1571258129": {
+            "hk2sch130021017.wns.windows.com": "INACTIVE"
+        },
+        "1571258260": {
+            "alpha.telemetry.microsoft.com": "INACTIVE",
+            "bn4sch101121908.wns.windows.com": "INACTIVE"
+        },
+        "1571258261": {
+            "cds20469.lcy.llnw.net": "INACTIVE"
+        },
+        "1571258391": {
+            "hk2sch130020940.wns.windows.com": "INACTIVE"
         }
     }
 }
