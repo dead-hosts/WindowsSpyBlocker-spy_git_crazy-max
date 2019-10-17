@@ -133,9 +133,6 @@
         "1570905951": {
             "cds38.ory.llnw.net": "INACTIVE"
         },
-        "1570912889": {
-            "cds1285.lon.llnw.net": "INACTIVE"
-        },
         "1570913020": {
             "cds21207.lon.llnw.net": "INACTIVE"
         },
@@ -193,9 +190,6 @@
         "1570996929": {
             "cds458.lcy.llnw.net": "INACTIVE"
         },
-        "1570997059": {
-            "hk2sch130021618.wns.windows.com": "INACTIVE"
-        },
         "1571004933": {
             "cache.datamart.windows.com": "INACTIVE",
             "cds20416.lcy.llnw.net": "INACTIVE"
@@ -221,9 +215,6 @@
         "1571013145": {
             "bn3sch020020749.wns.windows.com": "INACTIVE"
         },
-        "1571016430": {
-            "geo.vortex.data.microsoft.com.akadns.net": "INACTIVE"
-        },
         "1571016823": {
             "hk2sch130021726.wns.windows.com": "INACTIVE"
         },
@@ -241,9 +232,6 @@
         },
         "1571028373": {
             "cds832.lon.llnw.net": "INACTIVE"
-        },
-        "1571028634": {
-            "v20.vortex-win.data.microsoft.com": "INACTIVE"
         },
         "1571028896": {
             "settings-sandbox.data.microsoft.com": "INACTIVE"
@@ -276,9 +264,6 @@
         "1571036422": {
             "settings-win-ppe.data.microsoft.com": "INACTIVE"
         },
-        "1571043886": {
-            "cds310.lcy.llnw.net": "INACTIVE"
-        },
         "1571044016": {
             "hk2sch130021260.wns.windows.com": "INACTIVE"
         },
@@ -305,9 +290,6 @@
         },
         "1571050851": {
             "vortex-win.data.microsoft.com": "INACTIVE"
-        },
-        "1571051113": {
-            "vortex.data.microsoft.com": "INACTIVE"
         },
         "1571051114": {
             "cds471.lcy.llnw.net": "INACTIVE"
@@ -339,7 +321,6 @@
             "hk2sch130020732.wns.windows.com": "INACTIVE"
         },
         "1571058346": {
-            "cds1265.lon.llnw.net": "INACTIVE",
             "vortex.data.glbdns2.microsoft.com": "INACTIVE"
         },
         "1571058477": {
@@ -570,9 +551,6 @@
         "1571119430": {
             "cds422.lcy.llnw.net": "INACTIVE"
         },
-        "1571119561": {
-            "cds308.lcy.llnw.net": "INACTIVE"
-        },
         "1571119823": {
             "hk2sch130021329.wns.windows.com": "INACTIVE"
         },
@@ -598,9 +576,6 @@
         "1571123744": {
             "bn2b-cor003.api.p001.1drv.com": "INACTIVE",
             "v10-win.vortex.data.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1571123875": {
-            "cds1257.lon.llnw.net": "INACTIVE"
         },
         "1571123876": {
             "cds461.lcy.llnw.net": "INACTIVE"
@@ -975,6 +950,29 @@
         },
         "1571311174": {
             "hk2sch130020924.wns.windows.com": "INACTIVE"
+        },
+        "1571319160": {
+            "cds1265.lon.llnw.net": "INACTIVE",
+            "cds1285.lon.llnw.net": "INACTIVE"
+        },
+        "1571319161": {
+            "cds308.lcy.llnw.net": "INACTIVE"
+        },
+        "1571319291": {
+            "vortex.data.microsoft.com": "INACTIVE"
+        },
+        "1571319422": {
+            "v20.vortex-win.data.microsoft.com": "INACTIVE"
+        },
+        "1571319423": {
+            "cds1257.lon.llnw.net": "INACTIVE"
+        },
+        "1571319554": {
+            "cds310.lcy.llnw.net": "INACTIVE",
+            "geo.vortex.data.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1571319685": {
+            "hk2sch130021618.wns.windows.com": "INACTIVE"
         }
     }
 }
