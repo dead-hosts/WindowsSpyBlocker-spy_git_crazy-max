@@ -127,9 +127,6 @@
         "1570885538": {
             "cds21321.lon.llnw.net": "INACTIVE"
         },
-        "1570894011": {
-            "watson.microsoft.com": "INACTIVE"
-        },
         "1570901590": {
             "cds1203.lon.llnw.net": "INACTIVE"
         },
@@ -307,9 +304,6 @@
         "1571036422": {
             "settings-win-ppe.data.microsoft.com": "INACTIVE"
         },
-        "1571040159": {
-            "hk2sch130021731.wns.windows.com": "INACTIVE"
-        },
         "1571040290": {
             "hk2sch130021840.wns.windows.com": "INACTIVE"
         },
@@ -348,9 +342,6 @@
         },
         "1571050851": {
             "vortex-win.data.microsoft.com": "INACTIVE"
-        },
-        "1571050982": {
-            "hk2sch130021958.wns.windows.com": "INACTIVE"
         },
         "1571051113": {
             "cds483.lcy.llnw.net": "INACTIVE",
@@ -398,9 +389,6 @@
         },
         "1571062075": {
             "ssw.live.com": "INACTIVE"
-        },
-        "1571062076": {
-            "cds869.lon.llnw.net": "INACTIVE"
         },
         "1571062206": {
             "telecommand.telemetry.microsoft.com": "INACTIVE",
@@ -651,8 +639,7 @@
             "cds422.lcy.llnw.net": "INACTIVE"
         },
         "1571119561": {
-            "cds308.lcy.llnw.net": "INACTIVE",
-            "mobile.pipe.aria.microsoft.com": "INACTIVE"
+            "cds308.lcy.llnw.net": "INACTIVE"
         },
         "1571119692": {
             "cds1244.lon.llnw.net": "INACTIVE"
@@ -959,6 +946,19 @@
         },
         "1571287318": {
             "df.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1571291036": {
+            "watson.microsoft.com": "INACTIVE"
+        },
+        "1571291167": {
+            "hk2sch130021958.wns.windows.com": "INACTIVE"
+        },
+        "1571291298": {
+            "cds869.lon.llnw.net": "INACTIVE",
+            "hk2sch130021731.wns.windows.com": "INACTIVE"
+        },
+        "1571291429": {
+            "mobile.pipe.aria.microsoft.com": "INACTIVE"
         }
     }
 }
