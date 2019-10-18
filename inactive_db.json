@@ -91,48 +91,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
-        "1570970721": {
-            "watson.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1570996666": {
-            "web.vortex.data.microsoft.com": "INACTIVE"
-        },
-        "1571036029": {
-            "watson.live.com": "INACTIVE"
-        },
-        "1571050719": {
-            "wes.df.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1571050851": {
-            "vortex-win.data.microsoft.com": "INACTIVE"
-        },
-        "1571055131": {
-            "win8.ipv6.microsoft.com": "INACTIVE"
-        },
-        "1571058346": {
-            "vortex.data.glbdns2.microsoft.com": "INACTIVE"
-        },
-        "1571062206": {
-            "watson.ppe.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1571083041": {
-            "vortex-win-sandbox.data.microsoft.com": "INACTIVE"
-        },
-        "1571106882": {
-            "view.atdmt.com": "INACTIVE"
-        },
-        "1571111544": {
-            "win10.ipv6.microsoft.com": "INACTIVE"
-        },
-        "1571123744": {
-            "v10-win.vortex.data.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1571156143": {
-            "v10.events.data.microsoft.com": "INACTIVE"
-        },
-        "1571262763": {
-            "www.msedge.net": "INACTIVE"
-        },
         "1571272998": {
             "cds416.lcy.llnw.net": "INACTIVE",
             "i-ch1-cor001.api.p001.1drv.com": "INACTIVE"
@@ -899,6 +857,44 @@
         },
         "1571357238": {
             "v10c.events.data.microsoft.com": "INACTIVE"
+        },
+        "1571359034": {
+            "v10.events.data.microsoft.com": "INACTIVE"
+        },
+        "1571359040": {
+            "v10-win.vortex.data.microsoft.com.akadns.net": "INACTIVE",
+            "view.atdmt.com": "INACTIVE"
+        },
+        "1571359041": {
+            "vortex.data.glbdns2.microsoft.com": "INACTIVE"
+        },
+        "1571359047": {
+            "vortex-win.data.microsoft.com": "INACTIVE"
+        },
+        "1571359053": {
+            "vortex-win-sandbox.data.microsoft.com": "INACTIVE"
+        },
+        "1571359059": {
+            "watson.live.com": "INACTIVE"
+        },
+        "1571359065": {
+            "watson.ppe.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1571359071": {
+            "watson.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1571359077": {
+            "web.vortex.data.microsoft.com": "INACTIVE",
+            "wes.df.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1571359083": {
+            "win10.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1571359084": {
+            "win8.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1571359090": {
+            "www.msedge.net": "INACTIVE"
         }
     }
 }
