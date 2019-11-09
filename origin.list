@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts spy rules
 ### License: MIT
-### Updated: 2019-08-03T15:48:00Z02:00
+### Updated: 2019-11-09T09:28:00Z01:00
 ### Donate: https://www.patreon.com/crazymax ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
@@ -297,6 +297,7 @@
 0.0.0.0 i-sn2-cor001.api.p001.1drv.com
 0.0.0.0 i-sn2-cor002.api.p001.1drv.com
 0.0.0.0 i-sn3p-cor001.api.p001.1drv.com
+0.0.0.0 i-sn3p-cor002.api.p001.1drv.com
 0.0.0.0 ieonlinews.microsoft.com
 0.0.0.0 ieonlinews.trafficmanager.net
 0.0.0.0 lb1.www.ms.akadns.net

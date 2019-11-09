@@ -1,11 +1,11 @@
 {
     "adnexus.net": {
-        "epoch": "1588550400",
+        "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
         "state": "future"
     },
     "adnxs.com": {
-        "epoch": "1590537600",
+        "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
         "state": "future"
     },
