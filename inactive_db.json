@@ -91,334 +91,63 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
-        "1574434849": {
-            "bn4sch101121118.wns.windows.com": "INACTIVE"
-        },
-        "1574434855": {
-            "bn4sch101121223.wns.windows.com": "INACTIVE"
-        },
-        "1574434861": {
-            "bn4sch101121407.wns.windows.com": "INACTIVE"
-        },
-        "1574434867": {
-            "bn4sch101121618.wns.windows.com": "INACTIVE"
-        },
-        "1574434873": {
-            "bn4sch101121704.wns.windows.com": "INACTIVE"
-        },
-        "1574434879": {
-            "bn4sch101121709.wns.windows.com": "INACTIVE"
-        },
-        "1574434885": {
-            "bn4sch101121714.wns.windows.com": "INACTIVE"
-        },
-        "1574434892": {
-            "bn4sch101121908.wns.windows.com": "INACTIVE"
-        },
-        "1574434898": {
-            "bn4sch101122117.wns.windows.com": "INACTIVE"
-        },
-        "1574434904": {
-            "bn4sch101122310.wns.windows.com": "INACTIVE"
-        },
-        "1574434910": {
-            "bn4sch101122312.wns.windows.com": "INACTIVE"
-        },
-        "1574434916": {
-            "bn4sch101122421.wns.windows.com": "INACTIVE"
-        },
-        "1574434922": {
-            "bn4sch101123108.wns.windows.com": "INACTIVE"
-        },
-        "1574434929": {
-            "bn4sch101123110.wns.windows.com": "INACTIVE"
-        },
-        "1574434935": {
-            "bn4sch101123202.wns.windows.com": "INACTIVE"
-        },
-        "1574434941": {
-            "bn4sch102110124.wns.windows.com": "INACTIVE",
-            "by3301-a.1drv.com": "INACTIVE"
-        },
-        "1574434942": {
+        "1574607799": {
+            "by3301-a.1drv.com": "INACTIVE",
             "by3301-c.1drv.com": "INACTIVE",
-            "by3301-e.1drv.com": "INACTIVE"
-        },
-        "1574434956": {
-            "cds20005.stn.llnw.net": "INACTIVE"
-        },
-        "1574434957": {
+            "by3301-e.1drv.com": "INACTIVE",
+            "cds20005.stn.llnw.net": "INACTIVE",
             "cds20404.lcy.llnw.net": "INACTIVE",
-            "cds20411.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434958": {
-            "cds20415.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434959": {
-            "cds20416.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434960": {
+            "cds20411.lcy.llnw.net": "INACTIVE",
+            "cds20415.lcy.llnw.net": "INACTIVE",
+            "cds20416.lcy.llnw.net": "INACTIVE",
             "cds20417.lcy.llnw.net": "INACTIVE",
-            "cds20424.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434961": {
-            "cds20425.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434962": {
-            "cds20431.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434963": {
-            "cds20435.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434964": {
+            "cds20424.lcy.llnw.net": "INACTIVE",
+            "cds20425.lcy.llnw.net": "INACTIVE",
+            "cds20431.lcy.llnw.net": "INACTIVE",
+            "cds20435.lcy.llnw.net": "INACTIVE",
             "cds20440.lcy.llnw.net": "INACTIVE",
-            "cds20443.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434965": {
-            "cds20445.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434966": {
-            "cds20450.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434967": {
+            "cds20443.lcy.llnw.net": "INACTIVE",
+            "cds20445.lcy.llnw.net": "INACTIVE",
+            "cds20450.lcy.llnw.net": "INACTIVE",
             "cds20452.lcy.llnw.net": "INACTIVE",
-            "cds20457.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434968": {
-            "cds20461.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434969": {
-            "cds20469.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434970": {
-            "cds20475.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434971": {
+            "cds20457.lcy.llnw.net": "INACTIVE",
+            "cds20461.lcy.llnw.net": "INACTIVE",
+            "cds20469.lcy.llnw.net": "INACTIVE",
+            "cds20475.lcy.llnw.net": "INACTIVE",
             "cds20482.lcy.llnw.net": "INACTIVE",
-            "cds20485.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434972": {
-            "cds20495.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434973": {
-            "cds21205.lon.llnw.net": "INACTIVE"
-        },
-        "1574434974": {
+            "cds20485.lcy.llnw.net": "INACTIVE",
+            "cds20495.lcy.llnw.net": "INACTIVE",
+            "cds21205.lon.llnw.net": "INACTIVE",
             "cds21207.lon.llnw.net": "INACTIVE",
-            "cds21225.lon.llnw.net": "INACTIVE"
-        },
-        "1574434975": {
-            "cds21229.lon.llnw.net": "INACTIVE"
-        },
-        "1574434976": {
-            "cds21233.lon.llnw.net": "INACTIVE"
-        },
-        "1574434977": {
-            "cds21244.lon.llnw.net": "INACTIVE"
-        },
-        "1574434978": {
-            "cds21249.lon.llnw.net": "INACTIVE"
-        },
-        "1574434979": {
-            "cds21256.lon.llnw.net": "INACTIVE"
-        },
-        "1574434980": {
+            "cds21225.lon.llnw.net": "INACTIVE",
+            "cds21229.lon.llnw.net": "INACTIVE",
+            "cds21233.lon.llnw.net": "INACTIVE",
+            "cds21244.lon.llnw.net": "INACTIVE",
+            "cds21249.lon.llnw.net": "INACTIVE",
+            "cds21256.lon.llnw.net": "INACTIVE",
             "cds21257.lon.llnw.net": "INACTIVE",
-            "cds21258.lon.llnw.net": "INACTIVE"
-        },
-        "1574434981": {
-            "cds21261.lon.llnw.net": "INACTIVE"
-        },
-        "1574434982": {
-            "cds21267.lon.llnw.net": "INACTIVE"
-        },
-        "1574434983": {
+            "cds21258.lon.llnw.net": "INACTIVE",
+            "cds21261.lon.llnw.net": "INACTIVE",
+            "cds21267.lon.llnw.net": "INACTIVE",
             "cds21278.lon.llnw.net": "INACTIVE",
-            "cds21281.lon.llnw.net": "INACTIVE"
-        },
-        "1574434984": {
-            "cds21293.lon.llnw.net": "INACTIVE"
-        },
-        "1574434985": {
-            "cds21309.lon.llnw.net": "INACTIVE"
-        },
-        "1574434986": {
+            "cds21281.lon.llnw.net": "INACTIVE",
+            "cds21293.lon.llnw.net": "INACTIVE",
+            "cds21309.lon.llnw.net": "INACTIVE",
             "cds21313.lon.llnw.net": "INACTIVE",
-            "cds21321.lon.llnw.net": "INACTIVE"
-        },
-        "1574434987": {
-            "cds299.lcy.llnw.net": "INACTIVE"
-        },
-        "1574434989": {
-            "cds30027.stn.llnw.net": "INACTIVE"
-        },
-        "1574435007": {
-            "cds843.lon.llnw.net": "INACTIVE"
-        },
-        "1574435009": {
-            "ch3301-c.1drv.com": "INACTIVE"
-        },
-        "1574435010": {
+            "cds21321.lon.llnw.net": "INACTIVE",
+            "cds299.lcy.llnw.net": "INACTIVE",
+            "cds30027.stn.llnw.net": "INACTIVE",
+            "cds843.lon.llnw.net": "INACTIVE",
+            "ch3301-c.1drv.com": "INACTIVE",
             "ch3301-e.1drv.com": "INACTIVE",
             "ch3301-g.1drv.com": "INACTIVE",
-            "ch3302-c.1drv.com": "INACTIVE"
-        },
-        "1574435011": {
+            "ch3302-c.1drv.com": "INACTIVE",
             "ch3302-e.1drv.com": "INACTIVE",
-            "compatexchange1.trafficmanager.net": "INACTIVE"
-        },
-        "1574435018": {
-            "cy2.vortex.data.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1574435024": {
-            "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "db5.settings.data.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1574435030": {
+            "compatexchange1.trafficmanager.net": "INACTIVE",
             "db5-eap.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "db5.vortex.data.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1574435036": {
-            "df.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1574435037": {
+            "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "eu-v10.events.data.microsoft.com": "INACTIVE",
-            "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1574435044": {
-            "hk2.settings.data.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1574435050": {
-            "hk2sch130020721.wns.windows.com": "INACTIVE"
-        },
-        "1574435056": {
-            "hk2sch130020723.wns.windows.com": "INACTIVE"
-        },
-        "1574435062": {
-            "hk2sch130020726.wns.windows.com": "INACTIVE"
-        },
-        "1574435068": {
-            "hk2sch130020729.wns.windows.com": "INACTIVE"
-        },
-        "1574435074": {
-            "hk2sch130020732.wns.windows.com": "INACTIVE"
-        },
-        "1574435081": {
-            "hk2sch130020824.wns.windows.com": "INACTIVE"
-        },
-        "1574435087": {
-            "hk2sch130020843.wns.windows.com": "INACTIVE"
-        },
-        "1574435093": {
-            "hk2sch130020851.wns.windows.com": "INACTIVE"
-        },
-        "1574435099": {
-            "hk2sch130020854.wns.windows.com": "INACTIVE"
-        },
-        "1574435105": {
-            "hk2sch130020855.wns.windows.com": "INACTIVE"
-        },
-        "1574435111": {
-            "hk2sch130020924.wns.windows.com": "INACTIVE"
-        },
-        "1574435118": {
-            "hk2sch130020936.wns.windows.com": "INACTIVE"
-        },
-        "1574435124": {
-            "hk2sch130020940.wns.windows.com": "INACTIVE"
-        },
-        "1574435130": {
-            "hk2sch130020956.wns.windows.com": "INACTIVE"
-        },
-        "1574435136": {
-            "hk2sch130020958.wns.windows.com": "INACTIVE"
-        },
-        "1574435142": {
-            "hk2sch130020961.wns.windows.com": "INACTIVE"
-        },
-        "1574435148": {
-            "hk2sch130021017.wns.windows.com": "INACTIVE"
-        },
-        "1574435155": {
-            "hk2sch130021029.wns.windows.com": "INACTIVE"
-        },
-        "1574435161": {
-            "hk2sch130021035.wns.windows.com": "INACTIVE"
-        },
-        "1574435167": {
-            "hk2sch130021137.wns.windows.com": "INACTIVE"
-        },
-        "1574435173": {
-            "hk2sch130021142.wns.windows.com": "INACTIVE"
-        },
-        "1574435179": {
-            "hk2sch130021153.wns.windows.com": "INACTIVE"
-        },
-        "1574435185": {
-            "hk2sch130021217.wns.windows.com": "INACTIVE"
-        },
-        "1574435191": {
-            "hk2sch130021246.wns.windows.com": "INACTIVE"
-        },
-        "1574435197": {
-            "hk2sch130021249.wns.windows.com": "INACTIVE"
-        },
-        "1574435204": {
-            "hk2sch130021260.wns.windows.com": "INACTIVE"
-        },
-        "1574435210": {
-            "hk2sch130021264.wns.windows.com": "INACTIVE"
-        },
-        "1574435216": {
-            "hk2sch130021322.wns.windows.com": "INACTIVE"
-        },
-        "1574435222": {
-            "hk2sch130021323.wns.windows.com": "INACTIVE"
-        },
-        "1574435228": {
-            "hk2sch130021329.wns.windows.com": "INACTIVE"
-        },
-        "1574435234": {
-            "hk2sch130021334.wns.windows.com": "INACTIVE"
-        },
-        "1574435241": {
-            "hk2sch130021360.wns.windows.com": "INACTIVE"
-        },
-        "1574435247": {
-            "hk2sch130021432.wns.windows.com": "INACTIVE"
-        },
-        "1574435253": {
-            "hk2sch130021433.wns.windows.com": "INACTIVE"
-        },
-        "1574435259": {
-            "hk2sch130021435.wns.windows.com": "INACTIVE"
-        },
-        "1574435265": {
-            "hk2sch130021437.wns.windows.com": "INACTIVE"
-        },
-        "1574435271": {
-            "hk2sch130021440.wns.windows.com": "INACTIVE"
-        },
-        "1574435278": {
-            "hk2sch130021450.wns.windows.com": "INACTIVE"
-        },
-        "1574435284": {
-            "hk2sch130021518.wns.windows.com": "INACTIVE"
-        },
-        "1574435290": {
-            "hk2sch130021523.wns.windows.com": "INACTIVE"
-        },
-        "1574435296": {
-            "hk2sch130021526.wns.windows.com": "INACTIVE"
-        },
-        "1574435302": {
-            "hk2sch130021527.wns.windows.com": "INACTIVE"
-        },
-        "1574521242": {
-            "alpha.telemetry.microsoft.com": "INACTIVE",
-            "bl3301-a.1drv.com": "INACTIVE",
-            "bl3301-c.1drv.com": "INACTIVE",
-            "bl3301-g.1drv.com": "INACTIVE",
+            "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "rad.msn.com": "INACTIVE",
             "sn3301-c.1drv.com": "INACTIVE",
             "sn3301-e.1drv.com": "INACTIVE",
@@ -426,9 +155,17 @@
             "spyneteurope.microsoft.akadns.net": "INACTIVE",
             "tele.trafficmanager.net": "INACTIVE",
             "telemetry.remoteapp.windowsazure.com": "INACTIVE",
-            "teredo.ipv6.microsoft.com": "INACTIVE",
+            "teredo.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1574607800": {
             "vortex.data.glbdns2.microsoft.com": "INACTIVE",
             "win8.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1574607802": {
+            "alpha.telemetry.microsoft.com": "INACTIVE",
+            "bl3301-a.1drv.com": "INACTIVE",
+            "bl3301-c.1drv.com": "INACTIVE",
+            "bl3301-g.1drv.com": "INACTIVE"
         }
     }
 }
