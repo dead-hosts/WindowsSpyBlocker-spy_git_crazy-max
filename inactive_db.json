@@ -92,6 +92,18 @@
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
         "1577374027": {
+            "sn3301-e.1drv.com": "INACTIVE",
+            "sn3301-g.1drv.com": "INACTIVE"
+        },
+        "1577374391": {
+            "spyneteurope.microsoft.akadns.net": "INACTIVE",
+            "tele.trafficmanager.net": "INACTIVE",
+            "telemetry.remoteapp.windowsazure.com": "INACTIVE",
+            "teredo.ipv6.microsoft.com": "INACTIVE",
+            "vortex.data.glbdns2.microsoft.com": "INACTIVE",
+            "win8.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1577546871": {
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "bl3301-a.1drv.com": "INACTIVE",
             "bl3301-c.1drv.com": "INACTIVE",
@@ -127,7 +139,9 @@
             "cds21225.lon.llnw.net": "INACTIVE",
             "cds21229.lon.llnw.net": "INACTIVE",
             "cds21233.lon.llnw.net": "INACTIVE",
-            "cds21244.lon.llnw.net": "INACTIVE",
+            "cds21244.lon.llnw.net": "INACTIVE"
+        },
+        "1577546872": {
             "cds21249.lon.llnw.net": "INACTIVE",
             "cds21256.lon.llnw.net": "INACTIVE",
             "cds21257.lon.llnw.net": "INACTIVE",
@@ -154,17 +168,7 @@
             "eu-v10.events.data.microsoft.com": "INACTIVE",
             "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "rad.msn.com": "INACTIVE",
-            "sn3301-c.1drv.com": "INACTIVE",
-            "sn3301-e.1drv.com": "INACTIVE",
-            "sn3301-g.1drv.com": "INACTIVE"
-        },
-        "1577374391": {
-            "spyneteurope.microsoft.akadns.net": "INACTIVE",
-            "tele.trafficmanager.net": "INACTIVE",
-            "telemetry.remoteapp.windowsazure.com": "INACTIVE",
-            "teredo.ipv6.microsoft.com": "INACTIVE",
-            "vortex.data.glbdns2.microsoft.com": "INACTIVE",
-            "win8.ipv6.microsoft.com": "INACTIVE"
+            "sn3301-c.1drv.com": "INACTIVE"
         }
     }
 }
