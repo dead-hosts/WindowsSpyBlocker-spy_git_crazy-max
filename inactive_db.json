@@ -91,7 +91,17 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
-        "1577892659": {
+        "1577893187": {
+            "sn3301-e.1drv.com": "INACTIVE",
+            "sn3301-g.1drv.com": "INACTIVE",
+            "spyneteurope.microsoft.akadns.net": "INACTIVE",
+            "tele.trafficmanager.net": "INACTIVE",
+            "telemetry.remoteapp.windowsazure.com": "INACTIVE",
+            "teredo.ipv6.microsoft.com": "INACTIVE",
+            "vortex.data.glbdns2.microsoft.com": "INACTIVE",
+            "win8.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1578065459": {
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "bl3301-a.1drv.com": "INACTIVE",
             "bl3301-c.1drv.com": "INACTIVE",
@@ -134,7 +144,9 @@
             "cds21258.lon.llnw.net": "INACTIVE",
             "cds21261.lon.llnw.net": "INACTIVE",
             "cds21267.lon.llnw.net": "INACTIVE",
-            "cds21278.lon.llnw.net": "INACTIVE",
+            "cds21278.lon.llnw.net": "INACTIVE"
+        },
+        "1578065460": {
             "cds21281.lon.llnw.net": "INACTIVE",
             "cds21293.lon.llnw.net": "INACTIVE",
             "cds21309.lon.llnw.net": "INACTIVE",
@@ -152,19 +164,9 @@
             "db5-eap.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "eu-v10.events.data.microsoft.com": "INACTIVE",
-            "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1577893187": {
+            "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "rad.msn.com": "INACTIVE",
-            "sn3301-c.1drv.com": "INACTIVE",
-            "sn3301-e.1drv.com": "INACTIVE",
-            "sn3301-g.1drv.com": "INACTIVE",
-            "spyneteurope.microsoft.akadns.net": "INACTIVE",
-            "tele.trafficmanager.net": "INACTIVE",
-            "telemetry.remoteapp.windowsazure.com": "INACTIVE",
-            "teredo.ipv6.microsoft.com": "INACTIVE",
-            "vortex.data.glbdns2.microsoft.com": "INACTIVE",
-            "win8.ipv6.microsoft.com": "INACTIVE"
+            "sn3301-c.1drv.com": "INACTIVE"
         }
     }
 }
