@@ -95,12 +95,7 @@
             "vortex.data.glbdns2.microsoft.com": "INACTIVE",
             "win8.ipv6.microsoft.com": "INACTIVE"
         },
-        "1579710628": {
-            "sn3301-g.1drv.com": "INACTIVE",
-            "spyneteurope.microsoft.akadns.net": "INACTIVE"
-        },
         "1579714990": {
-            "tele.trafficmanager.net": "INACTIVE",
             "telemetry.remoteapp.windowsazure.com": "INACTIVE",
             "teredo.ipv6.microsoft.com": "INACTIVE"
         },
@@ -169,6 +164,12 @@
             "rad.msn.com": "INACTIVE",
             "sn3301-c.1drv.com": "INACTIVE",
             "sn3301-e.1drv.com": "INACTIVE"
+        },
+        "1579804930": {
+            "pre.footprintpredict.com": "INACTIVE",
+            "sn3301-g.1drv.com": "INACTIVE",
+            "spyneteurope.microsoft.akadns.net": "INACTIVE",
+            "tele.trafficmanager.net": "INACTIVE"
         }
     }
 }
