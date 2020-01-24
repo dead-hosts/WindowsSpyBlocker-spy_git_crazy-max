@@ -94,12 +94,6 @@
         "1579518898": {
             "win8.ipv6.microsoft.com": "INACTIVE"
         },
-        "1579804930": {
-            "pre.footprintpredict.com": "INACTIVE",
-            "sn3301-g.1drv.com": "INACTIVE",
-            "spyneteurope.microsoft.akadns.net": "INACTIVE",
-            "tele.trafficmanager.net": "INACTIVE"
-        },
         "1579809154": {
             "telemetry.remoteapp.windowsazure.com": "INACTIVE",
             "teredo.ipv6.microsoft.com": "INACTIVE"
@@ -174,6 +168,11 @@
             "eu-v10.events.data.microsoft.com": "INACTIVE",
             "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "rad.msn.com": "INACTIVE"
+        },
+        "1579895467": {
+            "sn3301-g.1drv.com": "INACTIVE",
+            "spyneteurope.microsoft.akadns.net": "INACTIVE",
+            "tele.trafficmanager.net": "INACTIVE"
         }
     }
 }
