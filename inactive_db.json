@@ -94,7 +94,24 @@
         "1579518898": {
             "win8.ipv6.microsoft.com": "INACTIVE"
         },
-        "1579801074": {
+        "1579804930": {
+            "pre.footprintpredict.com": "INACTIVE",
+            "sn3301-g.1drv.com": "INACTIVE",
+            "spyneteurope.microsoft.akadns.net": "INACTIVE",
+            "tele.trafficmanager.net": "INACTIVE"
+        },
+        "1579809154": {
+            "telemetry.remoteapp.windowsazure.com": "INACTIVE",
+            "teredo.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1579863539": {
+            "vortex.data.glbdns2.microsoft.com": "INACTIVE"
+        },
+        "1579887549": {
+            "sn3301-c.1drv.com": "INACTIVE",
+            "sn3301-e.1drv.com": "INACTIVE"
+        },
+        "1579891158": {
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "bl3301-a.1drv.com": "INACTIVE",
             "bl3301-c.1drv.com": "INACTIVE",
@@ -157,23 +174,6 @@
             "eu-v10.events.data.microsoft.com": "INACTIVE",
             "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "rad.msn.com": "INACTIVE"
-        },
-        "1579804930": {
-            "pre.footprintpredict.com": "INACTIVE",
-            "sn3301-g.1drv.com": "INACTIVE",
-            "spyneteurope.microsoft.akadns.net": "INACTIVE",
-            "tele.trafficmanager.net": "INACTIVE"
-        },
-        "1579809154": {
-            "telemetry.remoteapp.windowsazure.com": "INACTIVE",
-            "teredo.ipv6.microsoft.com": "INACTIVE"
-        },
-        "1579863539": {
-            "vortex.data.glbdns2.microsoft.com": "INACTIVE"
-        },
-        "1579887549": {
-            "sn3301-c.1drv.com": "INACTIVE",
-            "sn3301-e.1drv.com": "INACTIVE"
         }
     }
 }
