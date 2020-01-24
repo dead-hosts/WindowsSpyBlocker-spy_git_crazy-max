@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts spy rules
 ### License: MIT
-### Updated: 2019-12-09T21:54:00Z01:00
+### Updated: 2020-01-23T23:43:00Z01:00
 ### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
@@ -200,8 +200,6 @@
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 ec.atdmt.com
-0.0.0.0 eu.vortex.data.microsoft.com
-0.0.0.0 eu.vortex-win.data.microsoft.com
 0.0.0.0 eu-v10.events.data.microsoft.com
 0.0.0.0 eu-v20.events.data.microsoft.com
 0.0.0.0 events.data.microsoft.com
@@ -291,6 +289,7 @@
 0.0.0.0 i-bl6p-cor001.api.p001.1drv.com
 0.0.0.0 i-bl6p-cor002.api.p001.1drv.com
 0.0.0.0 i-bn3p-cor001.api.p001.1drv.com
+0.0.0.0 i-bn3p-cor090.api.p001.1drv.com
 0.0.0.0 i-by3p-cor001.api.p001.1drv.com
 0.0.0.0 i-by3p-cor002.api.p001.1drv.com
 0.0.0.0 i-ch1-cor001.api.p001.1drv.com
@@ -350,7 +349,6 @@
 0.0.0.0 umwatsonc.events.data.microsoft.com
 0.0.0.0 us-v10.events.data.microsoft.com
 0.0.0.0 us-v20.events.data.microsoft.com
-0.0.0.0 us.vortex-win.data.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v10c.events.data.microsoft.com
 0.0.0.0 v20.events.data.microsoft.com
@@ -359,8 +357,6 @@
 0.0.0.0 v20.vortex-win.data.microsoft.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 vortex-sandbox.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 vortex-win-sandbox.data.microsoft.com
 0.0.0.0 vortex.data.glbdns2.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 watson.live.com
