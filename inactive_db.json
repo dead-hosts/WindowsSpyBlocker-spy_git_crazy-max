@@ -94,10 +94,6 @@
         "1579518898": {
             "win8.ipv6.microsoft.com": "INACTIVE"
         },
-        "1579809154": {
-            "telemetry.remoteapp.windowsazure.com": "INACTIVE",
-            "teredo.ipv6.microsoft.com": "INACTIVE"
-        },
         "1579863539": {
             "vortex.data.glbdns2.microsoft.com": "INACTIVE"
         },
@@ -173,6 +169,10 @@
             "sn3301-g.1drv.com": "INACTIVE",
             "spyneteurope.microsoft.akadns.net": "INACTIVE",
             "tele.trafficmanager.net": "INACTIVE"
+        },
+        "1579899655": {
+            "telemetry.remoteapp.windowsazure.com": "INACTIVE",
+            "teredo.ipv6.microsoft.com": "INACTIVE"
         }
     }
 }
