@@ -156,9 +156,7 @@
             "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "eu-v10.events.data.microsoft.com": "INACTIVE",
             "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "rad.msn.com": "INACTIVE",
-            "sn3301-c.1drv.com": "INACTIVE",
-            "sn3301-e.1drv.com": "INACTIVE"
+            "rad.msn.com": "INACTIVE"
         },
         "1579804930": {
             "pre.footprintpredict.com": "INACTIVE",
@@ -172,6 +170,10 @@
         },
         "1579863539": {
             "vortex.data.glbdns2.microsoft.com": "INACTIVE"
+        },
+        "1579887549": {
+            "sn3301-c.1drv.com": "INACTIVE",
+            "sn3301-e.1drv.com": "INACTIVE"
         }
     }
 }
