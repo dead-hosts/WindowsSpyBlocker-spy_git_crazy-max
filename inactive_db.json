@@ -97,10 +97,6 @@
         "1579863539": {
             "vortex.data.glbdns2.microsoft.com": "INACTIVE"
         },
-        "1579977039": {
-            "sn3301-c.1drv.com": "INACTIVE",
-            "sn3301-e.1drv.com": "INACTIVE"
-        },
         "1579981043": {
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "bl3301-a.1drv.com": "INACTIVE",
@@ -175,6 +171,10 @@
         "1579989223": {
             "telemetry.remoteapp.windowsazure.com": "INACTIVE",
             "teredo.ipv6.microsoft.com": "INACTIVE"
+        },
+        "1580064202": {
+            "sn3301-c.1drv.com": "INACTIVE",
+            "sn3301-e.1drv.com": "INACTIVE"
         }
     }
 }
