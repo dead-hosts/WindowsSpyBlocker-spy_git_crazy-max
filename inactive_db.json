@@ -91,7 +91,7 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
-        "1582995325": {
+        "1583168274": {
             "alpha.telemetry.microsoft.com": "INACTIVE",
             "bl3301-a.1drv.com": "INACTIVE",
             "bl3301-c.1drv.com": "INACTIVE",
@@ -147,13 +147,13 @@
             "ch3301-e.1drv.com": "INACTIVE",
             "ch3301-g.1drv.com": "INACTIVE",
             "ch3302-c.1drv.com": "INACTIVE",
-            "ch3302-e.1drv.com": "INACTIVE",
+            "ch3302-e.1drv.com": "INACTIVE"
+        },
+        "1583168275": {
             "compatexchange1.trafficmanager.net": "INACTIVE",
             "db5-eap.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1582995326": {
+            "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
             "rad.msn.com": "INACTIVE",
             "sn3301-c.1drv.com": "INACTIVE",
             "sn3301-e.1drv.com": "INACTIVE",
