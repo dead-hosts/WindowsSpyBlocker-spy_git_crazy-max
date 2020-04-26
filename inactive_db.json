@@ -1,169 +1,944 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker_spy.list": {
-        "1560778403": {},
-        "1560864660": {},
-        "1560951320": {},
-        "1561124300": {},
-        "1561298237": {},
-        "1561469949": {},
-        "1561556555": {},
-        "1561729810": {},
-        "1561903109": {},
-        "1562076452": {},
-        "1562248359": {},
-        "1562421130": {},
-        "1562594279": {},
-        "1562767232": {},
-        "1562939705": {},
-        "1563199535": {},
-        "1563371994": {},
-        "1563544695": {},
-        "1563803992": {},
-        "1564062866": {},
-        "1564235738": {},
-        "1564409026": {},
-        "1564581904": {},
-        "1564668443": {},
-        "1565532046": {
-            "a.rad.msn.com": "INACTIVE",
-            "alpha.telemetry.microsoft.com": "INACTIVE",
-            "b.rad.msn.com": "INACTIVE",
-            "bl3301-a.1drv.com": "INACTIVE",
-            "bl3301-c.1drv.com": "INACTIVE",
-            "bl3301-g.1drv.com": "INACTIVE",
-            "by3301-a.1drv.com": "INACTIVE",
-            "by3301-c.1drv.com": "INACTIVE",
-            "by3301-e.1drv.com": "INACTIVE",
-            "cdn.atdmt.com": "INACTIVE",
-            "cds20005.stn.llnw.net": "INACTIVE",
-            "cds20404.lcy.llnw.net": "INACTIVE",
-            "cds20411.lcy.llnw.net": "INACTIVE",
-            "cds20415.lcy.llnw.net": "INACTIVE",
-            "cds20416.lcy.llnw.net": "INACTIVE",
-            "cds20417.lcy.llnw.net": "INACTIVE",
-            "cds20424.lcy.llnw.net": "INACTIVE",
-            "cds20425.lcy.llnw.net": "INACTIVE",
-            "cds20431.lcy.llnw.net": "INACTIVE",
-            "cds20435.lcy.llnw.net": "INACTIVE",
-            "cds20440.lcy.llnw.net": "INACTIVE",
-            "cds21205.lon.llnw.net": "INACTIVE",
-            "cds21207.lon.llnw.net": "INACTIVE",
-            "cds21225.lon.llnw.net": "INACTIVE",
-            "cds21229.lon.llnw.net": "INACTIVE",
-            "cds21233.lon.llnw.net": "INACTIVE",
-            "cds21244.lon.llnw.net": "INACTIVE",
-            "cds21249.lon.llnw.net": "INACTIVE",
-            "cds21256.lon.llnw.net": "INACTIVE",
-            "cds21257.lon.llnw.net": "INACTIVE",
-            "cds21258.lon.llnw.net": "INACTIVE",
-            "cds21261.lon.llnw.net": "INACTIVE",
-            "cds21267.lon.llnw.net": "INACTIVE",
-            "cds21278.lon.llnw.net": "INACTIVE",
-            "cds21281.lon.llnw.net": "INACTIVE",
-            "cds21293.lon.llnw.net": "INACTIVE",
-            "cds21309.lon.llnw.net": "INACTIVE",
-            "cds21313.lon.llnw.net": "INACTIVE",
-            "cds21321.lon.llnw.net": "INACTIVE",
-            "cds299.lcy.llnw.net": "INACTIVE",
-            "cds30027.stn.llnw.net": "INACTIVE",
-            "ch3301-c.1drv.com": "INACTIVE",
-            "ch3301-e.1drv.com": "INACTIVE",
-            "ch3301-g.1drv.com": "INACTIVE",
-            "ch3302-c.1drv.com": "INACTIVE",
-            "ch3302-e.1drv.com": "INACTIVE",
-            "compatexchange1.trafficmanager.net": "INACTIVE",
-            "db5-eap.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "eu-v10.events.data.microsoft.com": "INACTIVE",
-            "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "rad.live.com": "INACTIVE",
-            "rad.msn.com": "INACTIVE",
-            "settings.data.glbdns2.microsoft.com": "INACTIVE",
-            "sn3301-c.1drv.com": "INACTIVE",
-            "sn3301-e.1drv.com": "INACTIVE",
-            "sn3301-g.1drv.com": "INACTIVE",
-            "spyneteurope.microsoft.akadns.net": "INACTIVE",
-            "tele.trafficmanager.net": "INACTIVE",
-            "telemetry.remoteapp.windowsazure.com": "INACTIVE",
-            "teredo.ipv6.microsoft.com": "INACTIVE",
-            "vortex.data.glbdns2.microsoft.com": "INACTIVE",
-            "win8.ipv6.microsoft.com": "INACTIVE"
+        "a.rad.msn.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "alpha.telemetry.microsoft.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "b.rad.msn.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "bl3301-a.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "bl3301-c.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "bl3301-g.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "by3301-a.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "by3301-c.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "by3301-e.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cdn.atdmt.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20005.stn.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20404.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20411.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20415.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20416.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20417.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20424.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20425.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20431.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20435.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds20440.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21205.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21207.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21225.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21229.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21233.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21244.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21249.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21256.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21257.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21258.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21261.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21267.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21278.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21281.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21293.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21309.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21313.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds21321.lon.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds299.lcy.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "cds30027.stn.llnw.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "ch3301-c.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "ch3301-e.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "ch3301-g.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "ch3302-c.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "ch3302-e.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "compatexchange1.trafficmanager.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "db5-eap.settings-win.data.microsoft.com.akadns.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "db5.settings-win.data.microsoft.com.akadns.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "eu-v10.events.data.microsoft.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "geo.settings-win.data.microsoft.com.akadns.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "rad.live.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "rad.msn.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "settings.data.glbdns2.microsoft.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "sn3301-c.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "sn3301-e.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "sn3301-g.1drv.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "spyneteurope.microsoft.akadns.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "tele.trafficmanager.net": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "telemetry.remoteapp.windowsazure.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "teredo.ipv6.microsoft.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "vortex.data.glbdns2.microsoft.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
+        },
+        "win8.ipv6.microsoft.com": {
+            "included_at_epoch": 1565532046.0,
+            "included_at_iso": "2019-08-11T14:00:46",
+            "last_retested_at_epoch": 1565532046.0,
+            "last_retested_at_iso": "2019-08-11T14:00:46",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-spy_git_crazy-max/domains.list": {
-        "1587144700": {
-            "alpha.telemetry.microsoft.com": "INACTIVE",
-            "bl3301-a.1drv.com": "INACTIVE",
-            "bl3301-c.1drv.com": "INACTIVE",
-            "bl3301-g.1drv.com": "INACTIVE",
-            "by3301-a.1drv.com": "INACTIVE",
-            "by3301-c.1drv.com": "INACTIVE",
-            "by3301-e.1drv.com": "INACTIVE"
+        "alpha.telemetry.microsoft.com": {
+            "included_at_epoch": 1587144700.0,
+            "included_at_iso": "2020-04-17T17:31:40",
+            "last_retested_at_epoch": 1587919521.702971,
+            "last_retested_at_iso": "2020-04-26T16:45:21.702971",
+            "status": "INACTIVE"
         },
-        "1587144701": {
-            "ca.telemetry.microsoft.com": "INACTIVE",
-            "cds20005.stn.llnw.net": "INACTIVE",
-            "cds20404.lcy.llnw.net": "INACTIVE",
-            "cds20411.lcy.llnw.net": "INACTIVE",
-            "cds20415.lcy.llnw.net": "INACTIVE",
-            "cds20416.lcy.llnw.net": "INACTIVE",
-            "cds20417.lcy.llnw.net": "INACTIVE",
-            "cds20424.lcy.llnw.net": "INACTIVE",
-            "cds20425.lcy.llnw.net": "INACTIVE",
-            "cds20431.lcy.llnw.net": "INACTIVE",
-            "cds20435.lcy.llnw.net": "INACTIVE",
-            "cds20440.lcy.llnw.net": "INACTIVE",
-            "cds20443.lcy.llnw.net": "INACTIVE",
-            "cds20445.lcy.llnw.net": "INACTIVE",
-            "cds20450.lcy.llnw.net": "INACTIVE",
-            "cds20452.lcy.llnw.net": "INACTIVE",
-            "cds20457.lcy.llnw.net": "INACTIVE",
-            "cds20461.lcy.llnw.net": "INACTIVE",
-            "cds20469.lcy.llnw.net": "INACTIVE",
-            "cds20475.lcy.llnw.net": "INACTIVE",
-            "cds20482.lcy.llnw.net": "INACTIVE",
-            "cds20485.lcy.llnw.net": "INACTIVE",
-            "cds20495.lcy.llnw.net": "INACTIVE",
-            "cds21205.lon.llnw.net": "INACTIVE",
-            "cds21207.lon.llnw.net": "INACTIVE",
-            "cds21225.lon.llnw.net": "INACTIVE",
-            "cds21229.lon.llnw.net": "INACTIVE",
-            "cds21233.lon.llnw.net": "INACTIVE",
-            "cds21244.lon.llnw.net": "INACTIVE",
-            "cds21249.lon.llnw.net": "INACTIVE",
-            "cds21256.lon.llnw.net": "INACTIVE",
-            "cds21257.lon.llnw.net": "INACTIVE",
-            "cds21258.lon.llnw.net": "INACTIVE",
-            "cds21261.lon.llnw.net": "INACTIVE",
-            "cds21267.lon.llnw.net": "INACTIVE",
-            "cds21278.lon.llnw.net": "INACTIVE",
-            "cds21281.lon.llnw.net": "INACTIVE",
-            "cds21293.lon.llnw.net": "INACTIVE",
-            "cds21309.lon.llnw.net": "INACTIVE",
-            "cds21313.lon.llnw.net": "INACTIVE",
-            "cds21321.lon.llnw.net": "INACTIVE",
-            "cds299.lcy.llnw.net": "INACTIVE",
-            "cds30027.stn.llnw.net": "INACTIVE",
-            "cds843.lon.llnw.net": "INACTIVE",
-            "ch3301-c.1drv.com": "INACTIVE",
-            "ch3301-e.1drv.com": "INACTIVE",
-            "ch3301-g.1drv.com": "INACTIVE",
-            "ch3302-c.1drv.com": "INACTIVE",
-            "ch3302-e.1drv.com": "INACTIVE",
-            "compatexchange1.trafficmanager.net": "INACTIVE",
-            "db5-eap.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "db5.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "geo.settings-win.data.microsoft.com.akadns.net": "INACTIVE",
-            "rad.msn.com": "INACTIVE",
-            "sn3301-c.1drv.com": "INACTIVE",
-            "sn3301-e.1drv.com": "INACTIVE",
-            "sn3301-g.1drv.com": "INACTIVE",
-            "spyneteurope.microsoft.akadns.net": "INACTIVE",
-            "tele.trafficmanager.net": "INACTIVE",
-            "telemetry.remoteapp.windowsazure.com": "INACTIVE",
-            "teredo.ipv6.microsoft.com": "INACTIVE",
-            "vortex.data.glbdns2.microsoft.com": "INACTIVE",
-            "win8.ipv6.microsoft.com": "INACTIVE"
+        "bl3301-a.1drv.com": {
+            "included_at_epoch": 1587144700.0,
+            "included_at_iso": "2020-04-17T17:31:40",
+            "last_retested_at_epoch": 1587919521.714118,
+            "last_retested_at_iso": "2020-04-26T16:45:21.714118",
+            "status": "INACTIVE"
+        },
+        "bl3301-c.1drv.com": {
+            "included_at_epoch": 1587144700.0,
+            "included_at_iso": "2020-04-17T17:31:40",
+            "last_retested_at_epoch": 1587919521.71688,
+            "last_retested_at_iso": "2020-04-26T16:45:21.716880",
+            "status": "INACTIVE"
+        },
+        "bl3301-g.1drv.com": {
+            "included_at_epoch": 1587144700.0,
+            "included_at_iso": "2020-04-17T17:31:40",
+            "last_retested_at_epoch": 1587919521.719716,
+            "last_retested_at_iso": "2020-04-26T16:45:21.719716",
+            "status": "INACTIVE"
+        },
+        "by3301-a.1drv.com": {
+            "included_at_epoch": 1587144700.0,
+            "included_at_iso": "2020-04-17T17:31:40",
+            "last_retested_at_epoch": 1587919521.779105,
+            "last_retested_at_iso": "2020-04-26T16:45:21.779105",
+            "status": "INACTIVE"
+        },
+        "by3301-c.1drv.com": {
+            "included_at_epoch": 1587144700.0,
+            "included_at_iso": "2020-04-17T17:31:40",
+            "last_retested_at_epoch": 1587919521.775889,
+            "last_retested_at_iso": "2020-04-26T16:45:21.775889",
+            "status": "INACTIVE"
+        },
+        "by3301-e.1drv.com": {
+            "included_at_epoch": 1587144700.0,
+            "included_at_iso": "2020-04-17T17:31:40",
+            "last_retested_at_epoch": 1587919521.782968,
+            "last_retested_at_iso": "2020-04-26T16:45:21.782968",
+            "status": "INACTIVE"
+        },
+        "ca.telemetry.microsoft.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.787155,
+            "last_retested_at_iso": "2020-04-26T16:45:21.787155",
+            "status": "INACTIVE"
+        },
+        "cds20005.stn.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.815312,
+            "last_retested_at_iso": "2020-04-26T16:45:21.815312",
+            "status": "INACTIVE"
+        },
+        "cds20404.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.818236,
+            "last_retested_at_iso": "2020-04-26T16:45:21.818236",
+            "status": "INACTIVE"
+        },
+        "cds20411.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.824491,
+            "last_retested_at_iso": "2020-04-26T16:45:21.824491",
+            "status": "INACTIVE"
+        },
+        "cds20415.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.821369,
+            "last_retested_at_iso": "2020-04-26T16:45:21.821369",
+            "status": "INACTIVE"
+        },
+        "cds20416.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.830495,
+            "last_retested_at_iso": "2020-04-26T16:45:21.830495",
+            "status": "INACTIVE"
+        },
+        "cds20417.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.827471,
+            "last_retested_at_iso": "2020-04-26T16:45:21.827471",
+            "status": "INACTIVE"
+        },
+        "cds20424.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.836445,
+            "last_retested_at_iso": "2020-04-26T16:45:21.836445",
+            "status": "INACTIVE"
+        },
+        "cds20425.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.833217,
+            "last_retested_at_iso": "2020-04-26T16:45:21.833217",
+            "status": "INACTIVE"
+        },
+        "cds20431.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.839183,
+            "last_retested_at_iso": "2020-04-26T16:45:21.839183",
+            "status": "INACTIVE"
+        },
+        "cds20435.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.842364,
+            "last_retested_at_iso": "2020-04-26T16:45:21.842364",
+            "status": "INACTIVE"
+        },
+        "cds20440.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.8453,
+            "last_retested_at_iso": "2020-04-26T16:45:21.845300",
+            "status": "INACTIVE"
+        },
+        "cds20443.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.848316,
+            "last_retested_at_iso": "2020-04-26T16:45:21.848316",
+            "status": "INACTIVE"
+        },
+        "cds20445.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.851238,
+            "last_retested_at_iso": "2020-04-26T16:45:21.851238",
+            "status": "INACTIVE"
+        },
+        "cds20450.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.854123,
+            "last_retested_at_iso": "2020-04-26T16:45:21.854123",
+            "status": "INACTIVE"
+        },
+        "cds20452.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.857219,
+            "last_retested_at_iso": "2020-04-26T16:45:21.857219",
+            "status": "INACTIVE"
+        },
+        "cds20457.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.860185,
+            "last_retested_at_iso": "2020-04-26T16:45:21.860185",
+            "status": "INACTIVE"
+        },
+        "cds20461.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.865959,
+            "last_retested_at_iso": "2020-04-26T16:45:21.865959",
+            "status": "INACTIVE"
+        },
+        "cds20469.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.86294,
+            "last_retested_at_iso": "2020-04-26T16:45:21.862940",
+            "status": "INACTIVE"
+        },
+        "cds20475.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.871819,
+            "last_retested_at_iso": "2020-04-26T16:45:21.871819",
+            "status": "INACTIVE"
+        },
+        "cds20482.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.868857,
+            "last_retested_at_iso": "2020-04-26T16:45:21.868857",
+            "status": "INACTIVE"
+        },
+        "cds20485.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.877855,
+            "last_retested_at_iso": "2020-04-26T16:45:21.877855",
+            "status": "INACTIVE"
+        },
+        "cds20495.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.874683,
+            "last_retested_at_iso": "2020-04-26T16:45:21.874683",
+            "status": "INACTIVE"
+        },
+        "cds21205.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.884058,
+            "last_retested_at_iso": "2020-04-26T16:45:21.884058",
+            "status": "INACTIVE"
+        },
+        "cds21207.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.880779,
+            "last_retested_at_iso": "2020-04-26T16:45:21.880779",
+            "status": "INACTIVE"
+        },
+        "cds21225.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.890137,
+            "last_retested_at_iso": "2020-04-26T16:45:21.890137",
+            "status": "INACTIVE"
+        },
+        "cds21229.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.887184,
+            "last_retested_at_iso": "2020-04-26T16:45:21.887184",
+            "status": "INACTIVE"
+        },
+        "cds21233.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.894019,
+            "last_retested_at_iso": "2020-04-26T16:45:21.894019",
+            "status": "INACTIVE"
+        },
+        "cds21244.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.897002,
+            "last_retested_at_iso": "2020-04-26T16:45:21.897002",
+            "status": "INACTIVE"
+        },
+        "cds21249.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.899894,
+            "last_retested_at_iso": "2020-04-26T16:45:21.899894",
+            "status": "INACTIVE"
+        },
+        "cds21256.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.903321,
+            "last_retested_at_iso": "2020-04-26T16:45:21.903321",
+            "status": "INACTIVE"
+        },
+        "cds21257.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.906101,
+            "last_retested_at_iso": "2020-04-26T16:45:21.906101",
+            "status": "INACTIVE"
+        },
+        "cds21258.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.909175,
+            "last_retested_at_iso": "2020-04-26T16:45:21.909175",
+            "status": "INACTIVE"
+        },
+        "cds21261.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.912183,
+            "last_retested_at_iso": "2020-04-26T16:45:21.912183",
+            "status": "INACTIVE"
+        },
+        "cds21267.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.915343,
+            "last_retested_at_iso": "2020-04-26T16:45:21.915343",
+            "status": "INACTIVE"
+        },
+        "cds21278.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.918152,
+            "last_retested_at_iso": "2020-04-26T16:45:21.918152",
+            "status": "INACTIVE"
+        },
+        "cds21281.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.920996,
+            "last_retested_at_iso": "2020-04-26T16:45:21.920996",
+            "status": "INACTIVE"
+        },
+        "cds21293.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.924048,
+            "last_retested_at_iso": "2020-04-26T16:45:21.924048",
+            "status": "INACTIVE"
+        },
+        "cds21309.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.926995,
+            "last_retested_at_iso": "2020-04-26T16:45:21.926995",
+            "status": "INACTIVE"
+        },
+        "cds21313.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.93004,
+            "last_retested_at_iso": "2020-04-26T16:45:21.930040",
+            "status": "INACTIVE"
+        },
+        "cds21321.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.935852,
+            "last_retested_at_iso": "2020-04-26T16:45:21.935852",
+            "status": "INACTIVE"
+        },
+        "cds299.lcy.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.932858,
+            "last_retested_at_iso": "2020-04-26T16:45:21.932858",
+            "status": "INACTIVE"
+        },
+        "cds30027.stn.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.939722,
+            "last_retested_at_iso": "2020-04-26T16:45:21.939722",
+            "status": "INACTIVE"
+        },
+        "cds843.lon.llnw.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.969859,
+            "last_retested_at_iso": "2020-04-26T16:45:21.969859",
+            "status": "INACTIVE"
+        },
+        "ch3301-c.1drv.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.978734,
+            "last_retested_at_iso": "2020-04-26T16:45:21.978734",
+            "status": "INACTIVE"
+        },
+        "ch3301-e.1drv.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.981703,
+            "last_retested_at_iso": "2020-04-26T16:45:21.981703",
+            "status": "INACTIVE"
+        },
+        "ch3301-g.1drv.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.984709,
+            "last_retested_at_iso": "2020-04-26T16:45:21.984709",
+            "status": "INACTIVE"
+        },
+        "ch3302-c.1drv.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.987625,
+            "last_retested_at_iso": "2020-04-26T16:45:21.987625",
+            "status": "INACTIVE"
+        },
+        "ch3302-e.1drv.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.990411,
+            "last_retested_at_iso": "2020-04-26T16:45:21.990411",
+            "status": "INACTIVE"
+        },
+        "compatexchange1.trafficmanager.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919521.993584,
+            "last_retested_at_iso": "2020-04-26T16:45:21.993584",
+            "status": "INACTIVE"
+        },
+        "db5-eap.settings-win.data.microsoft.com.akadns.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.008256,
+            "last_retested_at_iso": "2020-04-26T16:45:22.008256",
+            "status": "INACTIVE"
+        },
+        "db5.settings-win.data.microsoft.com.akadns.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.003901,
+            "last_retested_at_iso": "2020-04-26T16:45:22.003901",
+            "status": "INACTIVE"
+        },
+        "geo.settings-win.data.microsoft.com.akadns.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.020044,
+            "last_retested_at_iso": "2020-04-26T16:45:22.020044",
+            "status": "INACTIVE"
+        },
+        "lb1.www.ms.akadns.net": {
+            "included_at_epoch": 1587919522.128454,
+            "included_at_iso": "2020-04-26T16:45:22.128454",
+            "last_retested_at_epoch": 1587919522.128454,
+            "last_retested_at_iso": "2020-04-26T16:45:22.128454",
+            "status": "INACTIVE"
+        },
+        "rad.msn.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.149669,
+            "last_retested_at_iso": "2020-04-26T16:45:22.149669",
+            "status": "INACTIVE"
+        },
+        "sn3301-c.1drv.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.167007,
+            "last_retested_at_iso": "2020-04-26T16:45:22.167007",
+            "status": "INACTIVE"
+        },
+        "sn3301-e.1drv.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.171577,
+            "last_retested_at_iso": "2020-04-26T16:45:22.171577",
+            "status": "INACTIVE"
+        },
+        "sn3301-g.1drv.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.175147,
+            "last_retested_at_iso": "2020-04-26T16:45:22.175147",
+            "status": "INACTIVE"
+        },
+        "spyneteurope.microsoft.akadns.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.182243,
+            "last_retested_at_iso": "2020-04-26T16:45:22.182243",
+            "status": "INACTIVE"
+        },
+        "tele.trafficmanager.net": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.190068,
+            "last_retested_at_iso": "2020-04-26T16:45:22.190068",
+            "status": "INACTIVE"
+        },
+        "telemetry.remoteapp.windowsazure.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.196505,
+            "last_retested_at_iso": "2020-04-26T16:45:22.196505",
+            "status": "INACTIVE"
+        },
+        "teredo.ipv6.microsoft.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.200757,
+            "last_retested_at_iso": "2020-04-26T16:45:22.200757",
+            "status": "INACTIVE"
+        },
+        "vortex.data.glbdns2.microsoft.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.216072,
+            "last_retested_at_iso": "2020-04-26T16:45:22.216072",
+            "status": "INACTIVE"
+        },
+        "win8.ipv6.microsoft.com": {
+            "included_at_epoch": 1587144701.0,
+            "included_at_iso": "2020-04-17T17:31:41",
+            "last_retested_at_epoch": 1587919522.229352,
+            "last_retested_at_iso": "2020-04-26T16:45:22.229352",
+            "status": "INACTIVE"
         }
     }
 }
