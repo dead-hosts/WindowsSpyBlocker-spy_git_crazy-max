@@ -471,6 +471,13 @@
             "last_retested_at_iso": "2020-09-06T17:29:08.022349",
             "status": "INACTIVE"
         },
+        "bn2-ris-prod-atm.trafficmanager.net": {
+            "included_at_epoch": 1600969021.333347,
+            "included_at_iso": "2020-09-24T17:37:01.333347",
+            "last_retested_at_epoch": 1600969021.333347,
+            "last_retested_at_iso": "2020-09-24T17:37:01.333347",
+            "status": "INACTIVE"
+        },
         "by3301-a.1drv.com": {
             "included_at_epoch": 1599413348.070462,
             "included_at_iso": "2020-09-06T17:29:08.070462",
