@@ -619,10 +619,10 @@
             "status": "ACTIVE"
         },
         "bn2-ris-prod-atm.trafficmanager.net": {
-            "included_at_epoch": 1600969021.333347,
-            "included_at_iso": "2020-09-24T17:37:01.333347",
-            "last_retested_at_epoch": 1603216437.611398,
-            "last_retested_at_iso": "2020-10-20T17:53:57.611398",
+            "included_at_epoch": 1603395061.49931,
+            "included_at_iso": "2020-10-22T19:31:01.499310",
+            "last_retested_at_epoch": 1603395061.49931,
+            "last_retested_at_iso": "2020-10-22T19:31:01.499310",
             "status": "INACTIVE"
         },
         "bn2b-cor001.api.p001.1drv.com": {
