@@ -65,3 +65,15 @@ corp.sts.microsoft.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBloc
 db5.settings-win.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-13 20:45:13.836565
 db5-eap.settings-win.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-13 20:45:24.133305
 geo.settings-win.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-13 20:46:01.290321
+lb1.www.ms.akadns.net,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:51:55.632314
+rad.msn.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:52:58.954205
+settings.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:53:38.272955
+sn3301-c.1drv.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:53:51.914508
+sn3301-e.1drv.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:53:58.077021
+sn3301-g.1drv.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:54:04.157913
+spyneteurope.microsoft.akadns.net,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:54:18.446253
+tele.trafficmanager.net,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:54:47.109271
+telemetry.remoteapp.windowsazure.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:55:06.828277
+teredo.ipv6.microsoft.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:55:16.735386
+vortex.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:55:50.757882
+win8.ipv6.microsoft.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list,2021-01-19 12:56:41.897513
