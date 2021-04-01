@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
-    "hash": "11786f7bfd5b922b445b745950f55ce203e7051eb3bf676f6cbdaf1b",
-    "line_number": 385,
+    "hash": "2b25c89c4a7072c2dcd038c3367d6a3f8e61ba8797e9ff9cb8304907",
+    "line_number": 383,
     "output_dir": "/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/output/origin.list",
-    "previous_hash": "11786f7bfd5b922b445b745950f55ce203e7051eb3bf676f6cbdaf1b",
-    "rel_source": "origin.list",
-    "session_id": "f32d9525a4a1890938693318",
-    "source": "/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list",
-    "subject": "/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/origin.list",
+    "previous_hash": "2b25c89c4a7072c2dcd038c3367d6a3f8e61ba8797e9ff9cb8304907",
+    "session_id": "1385a5c4ec98fb386f75fbdb",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
