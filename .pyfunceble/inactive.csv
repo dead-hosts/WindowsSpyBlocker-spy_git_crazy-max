@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cds21229.lon.llnw.net,AVAILABILITY,origin.list,2021-04-21 00:56:20.782259
-cds21233.lon.llnw.net,AVAILABILITY,origin.list,2021-04-21 00:56:27.019293
-cds21238.lon.llnw.net,AVAILABILITY,origin.list,2021-04-21 00:56:33.321768
-cds21244.lon.llnw.net,AVAILABILITY,origin.list,2021-04-21 00:56:39.545665
 cds21249.lon.llnw.net,AVAILABILITY,origin.list,2021-04-21 00:56:45.777901
 cds21256.lon.llnw.net,AVAILABILITY,origin.list,2021-04-21 00:56:52.009367
 cds21257.lon.llnw.net,AVAILABILITY,origin.list,2021-04-21 00:56:58.321198
@@ -78,3 +74,7 @@ cds20495.lcy.llnw.net,AVAILABILITY,origin.list,2021-04-22 00:59:53.265518
 cds21205.lon.llnw.net,AVAILABILITY,origin.list,2021-04-22 00:59:59.341926
 cds21207.lon.llnw.net,AVAILABILITY,origin.list,2021-04-22 01:00:05.396988
 cds21225.lon.llnw.net,AVAILABILITY,origin.list,2021-04-22 01:00:11.436613
+cds21229.lon.llnw.net,AVAILABILITY,origin.list,2021-04-22 04:50:06.528362
+cds21233.lon.llnw.net,AVAILABILITY,origin.list,2021-04-22 04:50:12.729121
+cds21238.lon.llnw.net,AVAILABILITY,origin.list,2021-04-22 04:50:18.806990
+cds21244.lon.llnw.net,AVAILABILITY,origin.list,2021-04-22 04:50:24.921999
