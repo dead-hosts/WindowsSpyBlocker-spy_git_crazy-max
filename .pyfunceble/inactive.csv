@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-02 08:55:21.641276
-bl3301-g.1drv.com,AVAILABILITY,origin.list,2021-05-02 08:55:27.598264
-bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-05-02 08:55:33.406767
-by3301-a.1drv.com,AVAILABILITY,origin.list,2021-05-02 08:55:39.382593
-by3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-02 08:55:45.342145
-by3301-e.1drv.com,AVAILABILITY,origin.list,2021-05-02 08:55:51.254798
-ca.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-05-02 12:55:40.912350
-cds1327.lon.llnw.net,AVAILABILITY,origin.list,2021-05-02 12:55:47.070615
-cds20005.stn.llnw.net,AVAILABILITY,origin.list,2021-05-02 12:55:53.331687
-cds20404.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-02 12:55:59.350650
-cds20411.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-02 12:56:05.611336
 cds20415.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-02 13:01:10.797200
 cds20416.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-02 13:01:16.728597
 cds20417.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-02 13:01:22.871838
@@ -78,3 +67,14 @@ win8.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-05-02 13:07:35.233362
 azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-05-03 01:07:22.989813
 alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-05-03 01:07:29.150022
 bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-05-03 01:07:34.677328
+bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-03 12:59:40.820048
+bl3301-g.1drv.com,AVAILABILITY,origin.list,2021-05-03 12:59:46.726939
+bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-05-03 12:59:52.397700
+by3301-a.1drv.com,AVAILABILITY,origin.list,2021-05-03 12:59:58.326506
+by3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-03 13:00:04.288990
+by3301-e.1drv.com,AVAILABILITY,origin.list,2021-05-03 13:00:10.203713
+ca.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-05-03 13:00:17.202403
+cds1327.lon.llnw.net,AVAILABILITY,origin.list,2021-05-03 13:00:23.268573
+cds20005.stn.llnw.net,AVAILABILITY,origin.list,2021-05-03 13:00:29.388151
+cds20404.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-03 13:00:35.402180
+cds20411.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-03 13:00:41.398419
