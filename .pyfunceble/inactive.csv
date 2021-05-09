@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cds483.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-08 04:55:26.722655
-cds815.lon.llnw.net,AVAILABILITY,origin.list,2021-05-08 04:55:32.850877
-cds843.lon.llnw.net,AVAILABILITY,origin.list,2021-05-08 04:55:39.211670
-ch3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-08 04:55:44.797932
-ch3301-e.1drv.com,AVAILABILITY,origin.list,2021-05-08 04:55:50.401148
 ch3301-g.1drv.com,AVAILABILITY,origin.list,2021-05-08 04:57:13.542483
 ch3302-c.1drv.com,AVAILABILITY,origin.list,2021-05-08 04:57:19.659770
 ch3302-e.1drv.com,AVAILABILITY,origin.list,2021-05-08 04:57:25.622956
@@ -78,3 +73,8 @@ cds21313.lon.llnw.net,AVAILABILITY,origin.list,2021-05-09 05:00:18.218516
 cds21321.lon.llnw.net,AVAILABILITY,origin.list,2021-05-09 05:00:24.220677
 cds299.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-09 05:00:30.228897
 cds30027.stn.llnw.net,AVAILABILITY,origin.list,2021-05-09 05:00:36.260123
+cds483.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-09 08:44:44.818017
+cds815.lon.llnw.net,AVAILABILITY,origin.list,2021-05-09 08:44:50.892033
+cds843.lon.llnw.net,AVAILABILITY,origin.list,2021-05-09 08:44:57.004368
+ch3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-09 08:45:02.550715
+ch3301-e.1drv.com,AVAILABILITY,origin.list,2021-05-09 08:45:08.129743
