@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-13 20:52:32.934502
-bl3301-g.1drv.com,AVAILABILITY,origin.list,2021-05-13 20:52:38.377621
-bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-05-13 20:52:43.735363
-by3301-a.1drv.com,AVAILABILITY,origin.list,2021-05-13 20:52:49.270282
-by3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-13 20:52:54.823070
-by3301-e.1drv.com,AVAILABILITY,origin.list,2021-05-13 20:53:00.328794
 ca.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-05-13 20:59:48.752063
 cds1327.lon.llnw.net,AVAILABILITY,origin.list,2021-05-13 20:59:55.069649
 cds20005.stn.llnw.net,AVAILABILITY,origin.list,2021-05-13 21:00:06.272028
@@ -78,3 +72,9 @@ win8.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-05-13 21:06:58.957383
 azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-05-14 05:05:25.374360
 alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-05-14 05:05:32.140724
 bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-05-14 05:05:38.361265
+bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-14 20:55:39.349601
+bl3301-g.1drv.com,AVAILABILITY,origin.list,2021-05-14 20:55:44.932353
+bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-05-14 20:55:50.434336
+by3301-a.1drv.com,AVAILABILITY,origin.list,2021-05-14 20:55:55.978874
+by3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-14 20:56:01.554133
+by3301-e.1drv.com,AVAILABILITY,origin.list,2021-05-14 20:56:07.122335
