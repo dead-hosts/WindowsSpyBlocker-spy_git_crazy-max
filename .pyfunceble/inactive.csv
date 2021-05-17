@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ca.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-05-16 05:06:02.194912
-cds1327.lon.llnw.net,AVAILABILITY,origin.list,2021-05-16 05:06:08.193739
-cds20005.stn.llnw.net,AVAILABILITY,origin.list,2021-05-16 05:06:14.304961
-cds20404.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-16 05:06:20.297130
-cds20411.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-16 05:06:26.375654
-cds20415.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-16 05:06:32.435723
 cds20416.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-16 05:06:38.506456
 cds20417.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-16 05:06:44.488450
 cds20424.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-16 05:06:50.595832
@@ -78,3 +72,9 @@ bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-05-17 01:06:00
 by3301-a.1drv.com,AVAILABILITY,origin.list,2021-05-17 01:06:06.339242
 by3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-17 01:06:11.859334
 by3301-e.1drv.com,AVAILABILITY,origin.list,2021-05-17 01:06:17.370798
+ca.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-05-17 08:49:18.368583
+cds1327.lon.llnw.net,AVAILABILITY,origin.list,2021-05-17 08:49:24.418071
+cds20005.stn.llnw.net,AVAILABILITY,origin.list,2021-05-17 08:49:30.504459
+cds20404.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-17 08:49:36.628342
+cds20411.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-17 08:49:42.881169
+cds20415.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-17 08:49:48.981747
