@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cds299.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-20 17:08:11.842666
-cds30027.stn.llnw.net,AVAILABILITY,origin.list,2021-05-20 17:08:18.191886
-cds483.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-20 17:08:24.459053
-cds815.lon.llnw.net,AVAILABILITY,origin.list,2021-05-20 17:08:30.849282
-cds843.lon.llnw.net,AVAILABILITY,origin.list,2021-05-20 17:08:37.137793
 telemetry.appex.bing.net,AVAILABILITY,origin.list,2021-05-20 20:50:45.406377
 ch3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-20 20:53:05.572258
 ch3301-e.1drv.com,AVAILABILITY,origin.list,2021-05-20 20:53:11.539904
@@ -79,3 +74,8 @@ cds21293.lon.llnw.net,AVAILABILITY,origin.list,2021-05-21 17:12:26.085452
 cds21309.lon.llnw.net,AVAILABILITY,origin.list,2021-05-21 17:12:32.171781
 cds21313.lon.llnw.net,AVAILABILITY,origin.list,2021-05-21 17:12:38.223087
 cds21321.lon.llnw.net,AVAILABILITY,origin.list,2021-05-21 17:12:44.305955
+cds299.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-21 20:54:25.431731
+cds30027.stn.llnw.net,AVAILABILITY,origin.list,2021-05-21 20:54:31.443809
+cds483.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-21 20:54:37.440943
+cds815.lon.llnw.net,AVAILABILITY,origin.list,2021-05-21 20:54:43.458733
+cds843.lon.llnw.net,AVAILABILITY,origin.list,2021-05-21 20:54:49.405090
