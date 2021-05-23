@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ca.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-05-22 20:51:56.610573
-cds1327.lon.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:52:02.632656
-cds20005.stn.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:52:08.966454
-cds20404.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:52:14.951877
-cds20411.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:52:21.116612
-cds20415.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:52:27.195710
-cds20416.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:52:33.423426
-cds20417.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:56:30.176807
-cds20424.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:56:36.272096
-cds20425.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:56:42.389725
 cds20431.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:56:48.449445
 cds20435.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:56:54.479783
 cds20440.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-22 20:57:00.509285
@@ -79,3 +69,13 @@ bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-05-23 17:04:23
 by3301-a.1drv.com,AVAILABILITY,origin.list,2021-05-23 17:04:28.780819
 by3301-c.1drv.com,AVAILABILITY,origin.list,2021-05-23 17:04:34.252983
 by3301-e.1drv.com,AVAILABILITY,origin.list,2021-05-23 17:04:39.864292
+ca.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-05-23 20:56:55.945387
+cds1327.lon.llnw.net,AVAILABILITY,origin.list,2021-05-23 20:57:01.944456
+cds20005.stn.llnw.net,AVAILABILITY,origin.list,2021-05-23 20:57:08.079120
+cds20404.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-23 20:57:14.023910
+cds20411.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-23 20:57:20.045676
+cds20415.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-23 20:57:26.136579
+cds20416.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-23 20:57:32.166090
+cds20417.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-23 20:57:38.307041
+cds20424.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-23 20:57:44.445089
+cds20425.lcy.llnw.net,AVAILABILITY,origin.list,2021-05-23 20:57:50.506214
