@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ch3302-e.1drv.com,AVAILABILITY,origin.list,2021-06-08 05:32:28.642026
-compatexchange1.trafficmanager.net,AVAILABILITY,origin.list,2021-06-08 05:32:35.169737
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2021-06-08 05:32:41.399463
-db5.settings-win.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-06-08 05:32:47.190564
-db5-eap.settings-win.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-06-08 05:32:52.861391
-geo.settings-win.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-06-08 05:32:58.547920
-lb1.www.ms.akadns.net,AVAILABILITY,origin.list,2021-06-08 05:33:04.765555
-rad.msn.com,AVAILABILITY,origin.list,2021-06-08 05:33:10.865856
 settings.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,2021-06-08 05:33:17.738107
 sn3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-08 05:33:23.626202
 sn3301-e.1drv.com,AVAILABILITY,origin.list,2021-06-08 05:33:29.623804
@@ -81,3 +73,12 @@ ch3301-e.1drv.com,AVAILABILITY,origin.list,2021-06-09 01:09:47.773417
 ch3301-g.1drv.com,AVAILABILITY,origin.list,2021-06-09 01:09:53.902875
 ch3302-c.1drv.com,AVAILABILITY,origin.list,2021-06-09 01:09:59.911723
 cds1307.lon.llnw.net,AVAILABILITY,origin.list,2021-06-09 04:54:59.733708
+cds1310.lon.llnw.net,AVAILABILITY,origin.list,2021-06-09 08:30:27.871486
+ch3302-e.1drv.com,AVAILABILITY,origin.list,2021-06-09 08:44:14.048535
+compatexchange1.trafficmanager.net,AVAILABILITY,origin.list,2021-06-09 08:44:20.020342
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2021-06-09 08:44:26.015622
+db5.settings-win.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-06-09 08:44:31.567025
+db5-eap.settings-win.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-06-09 08:44:36.956728
+geo.settings-win.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-06-09 08:44:42.446649
+lb1.www.ms.akadns.net,AVAILABILITY,origin.list,2021-06-09 08:44:48.462324
+rad.msn.com,AVAILABILITY,origin.list,2021-06-09 08:44:54.266853
