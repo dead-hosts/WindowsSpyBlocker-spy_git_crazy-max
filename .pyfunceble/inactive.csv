@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bl3301-g.1drv.com,AVAILABILITY,origin.list,2021-06-11 20:48:20.028777
-bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-06-11 20:48:25.785185
-by3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-11 20:48:31.725520
-by3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-11 20:48:37.796652
-by3301-e.1drv.com,AVAILABILITY,origin.list,2021-06-11 20:54:30.534313
-ca.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-06-11 20:54:37.214129
-cds1327.lon.llnw.net,AVAILABILITY,origin.list,2021-06-11 20:54:43.231582
-cds20005.stn.llnw.net,AVAILABILITY,origin.list,2021-06-11 20:54:49.361950
-cds20404.lcy.llnw.net,AVAILABILITY,origin.list,2021-06-11 20:54:55.351102
-cds20411.lcy.llnw.net,AVAILABILITY,origin.list,2021-06-11 20:55:01.409870
 cds20415.lcy.llnw.net,AVAILABILITY,origin.list,2021-06-11 20:55:07.382040
 cds20416.lcy.llnw.net,AVAILABILITY,origin.list,2021-06-11 20:55:13.454119
 cds20417.lcy.llnw.net,AVAILABILITY,origin.list,2021-06-11 20:55:19.431325
@@ -83,3 +73,13 @@ azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-06-12 17:05:37.455465
 alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-06-12 17:05:43.803140
 bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-12 17:05:49.790568
 bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-12 17:05:55.842131
+bl3301-g.1drv.com,AVAILABILITY,origin.list,2021-06-13 01:03:01.355617
+bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-06-13 01:03:06.802687
+by3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-13 01:03:12.482937
+by3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-13 01:03:18.088363
+by3301-e.1drv.com,AVAILABILITY,origin.list,2021-06-13 01:03:23.696402
+ca.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-06-13 01:03:30.193344
+cds1327.lon.llnw.net,AVAILABILITY,origin.list,2021-06-13 01:03:36.331060
+cds20005.stn.llnw.net,AVAILABILITY,origin.list,2021-06-13 01:03:42.581716
+cds20404.lcy.llnw.net,AVAILABILITY,origin.list,2021-06-13 01:03:48.732483
+cds20411.lcy.llnw.net,AVAILABILITY,origin.list,2021-06-13 01:03:54.889381
