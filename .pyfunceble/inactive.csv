@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-telemetry.remoteapp.windowsazure.com,AVAILABILITY,origin.list,2021-06-20 18:11:45.765125
-teredo.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-20 18:11:52.288951
-vortex.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,2021-06-20 18:11:59.241545
-win8.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-20 18:20:53.436011
-azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-06-20 18:20:59.911097
-alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-06-20 18:21:06.926802
-bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-20 18:21:12.966090
-bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-20 18:21:18.980534
 bl3301-g.1drv.com,AVAILABILITY,origin.list,2021-06-21 02:13:15.375040
 bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-06-21 02:13:21.093889
 by3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-21 02:13:26.956946
@@ -83,3 +75,11 @@ sn3301-e.1drv.com,AVAILABILITY,origin.list,2021-06-21 22:05:35.111621
 sn3301-g.1drv.com,AVAILABILITY,origin.list,2021-06-21 22:05:41.056278
 spyneteurope.microsoft.akadns.net,AVAILABILITY,origin.list,2021-06-21 22:05:47.596139
 tele.trafficmanager.net,AVAILABILITY,origin.list,2021-06-21 22:05:54.234123
+telemetry.remoteapp.windowsazure.com,AVAILABILITY,origin.list,2021-06-21 22:20:43.658799
+teredo.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-21 22:20:50.151033
+vortex.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,2021-06-21 22:20:57.066154
+win8.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-21 22:21:03.536810
+azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-06-21 22:21:10.239607
+alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-06-21 22:21:17.125549
+bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-21 22:21:23.188387
+bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-21 22:21:29.201827
