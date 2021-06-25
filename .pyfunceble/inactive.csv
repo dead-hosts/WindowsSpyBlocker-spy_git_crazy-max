@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-win8.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-24 06:22:33.337037
-azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-06-24 06:22:39.692605
-alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-06-24 06:22:46.147894
-bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-24 06:22:51.592429
-bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-24 06:22:57.081521
 bl3301-g.1drv.com,AVAILABILITY,origin.list,2021-06-24 14:04:59.673478
 bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-06-24 14:05:05.257474
 by3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-24 14:05:11.204198
@@ -83,3 +78,8 @@ tele.trafficmanager.net,AVAILABILITY,origin.list,2021-06-25 10:18:13.997763
 telemetry.remoteapp.windowsazure.com,AVAILABILITY,origin.list,2021-06-25 10:18:20.771974
 teredo.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-25 10:18:27.405838
 vortex.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,2021-06-25 10:18:34.420772
+win8.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-25 10:29:36.855526
+azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-06-25 10:29:43.539753
+alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-06-25 10:29:50.604909
+bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-25 10:29:56.544128
+bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-25 10:30:02.522515
