@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-tele.trafficmanager.net,AVAILABILITY,origin.list,2021-06-26 14:21:23.540303
-telemetry.remoteapp.windowsazure.com,AVAILABILITY,origin.list,2021-06-26 14:21:30.211329
-teredo.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-26 14:21:36.610487
-vortex.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,2021-06-26 14:21:43.221033
-win8.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-26 14:21:49.696934
-azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-06-26 14:21:56.257504
-alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-06-26 14:36:18.516145
-bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-26 14:36:24.517988
-bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-26 14:36:30.511471
 bl3301-g.1drv.com,AVAILABILITY,origin.list,2021-06-26 22:12:39.038774
 bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-06-26 22:12:44.737066
 by3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-26 22:12:50.725299
@@ -83,3 +74,12 @@ sn3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-27 18:18:26.846200
 sn3301-e.1drv.com,AVAILABILITY,origin.list,2021-06-27 18:18:32.411233
 sn3301-g.1drv.com,AVAILABILITY,origin.list,2021-06-27 18:18:38.010866
 spyneteurope.microsoft.akadns.net,AVAILABILITY,origin.list,2021-06-27 18:18:44.831960
+tele.trafficmanager.net,AVAILABILITY,origin.list,2021-06-27 18:33:10.360188
+telemetry.remoteapp.windowsazure.com,AVAILABILITY,origin.list,2021-06-27 18:33:17.069943
+teredo.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-27 18:33:23.734304
+vortex.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,2021-06-27 18:33:30.679279
+win8.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-27 18:33:37.407977
+azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-06-27 18:33:43.959311
+alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-06-27 18:33:50.813046
+bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-27 18:33:56.856620
+bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-27 18:34:02.867776
