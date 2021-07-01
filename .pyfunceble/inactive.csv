@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sn3301-e.1drv.com,AVAILABILITY,origin.list,2021-06-30 05:41:20.998680
-sn3301-g.1drv.com,AVAILABILITY,origin.list,2021-06-30 05:41:26.966526
-spyneteurope.microsoft.akadns.net,AVAILABILITY,origin.list,2021-06-30 05:41:33.554326
-tele.trafficmanager.net,AVAILABILITY,origin.list,2021-06-30 05:41:40.154973
-telemetry.remoteapp.windowsazure.com,AVAILABILITY,origin.list,2021-06-30 05:41:46.887483
-teredo.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-30 05:41:53.509012
-vortex.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,2021-06-30 05:42:00.504109
-win8.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-06-30 05:42:07.094436
-azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-06-30 05:42:13.674505
-alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-06-30 05:54:38.567955
-bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-30 05:54:44.502866
-bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-06-30 05:54:50.471316
 bl3301-g.1drv.com,AVAILABILITY,origin.list,2021-06-30 10:11:19.838092
 bn2-ris-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-06-30 10:11:25.673437
 by3301-a.1drv.com,AVAILABILITY,origin.list,2021-06-30 10:11:31.827079
@@ -83,3 +71,15 @@ lb1.www.ms.akadns.net,AVAILABILITY,origin.list,2021-07-01 06:22:29.005573
 rad.msn.com,AVAILABILITY,origin.list,2021-07-01 06:22:35.547801
 settings.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,2021-07-01 06:22:42.347056
 sn3301-c.1drv.com,AVAILABILITY,origin.list,2021-07-01 06:22:48.413089
+sn3301-e.1drv.com,AVAILABILITY,origin.list,2021-07-01 06:34:39.961960
+sn3301-g.1drv.com,AVAILABILITY,origin.list,2021-07-01 06:34:45.966405
+spyneteurope.microsoft.akadns.net,AVAILABILITY,origin.list,2021-07-01 06:34:52.465564
+tele.trafficmanager.net,AVAILABILITY,origin.list,2021-07-01 06:34:59.079716
+telemetry.remoteapp.windowsazure.com,AVAILABILITY,origin.list,2021-07-01 06:35:05.781501
+teredo.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-07-01 06:35:12.407237
+vortex.data.glbdns2.microsoft.com,AVAILABILITY,origin.list,2021-07-01 06:35:19.438604
+win8.ipv6.microsoft.com,AVAILABILITY,origin.list,2021-07-01 06:35:25.870678
+azwancan.trafficmanager.net,AVAILABILITY,origin.list,2021-07-01 06:35:32.276030
+alpha.telemetry.microsoft.com,AVAILABILITY,origin.list,2021-07-01 06:35:39.100500
+bl3301-a.1drv.com,AVAILABILITY,origin.list,2021-07-01 06:35:45.033885
+bl3301-c.1drv.com,AVAILABILITY,origin.list,2021-07-01 06:35:50.978759
