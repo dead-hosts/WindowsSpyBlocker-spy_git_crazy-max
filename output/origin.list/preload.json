@@ -1,0 +1,15 @@
+[
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "dcf2967d8f970c5936bc85d899bb403c73cac7c5d02c0584138c2cc0",
+        "line_number": 382,
+        "output_dir": "/home/runner/work/WindowsSpyBlocker-spy_git_crazy-max/WindowsSpyBlocker-spy_git_crazy-max/output/origin.list",
+        "previous_hash": "dcf2967d8f970c5936bc85d899bb403c73cac7c5d02c0584138c2cc0",
+        "session_id": "d6c894d8a35c3158163d05b2",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
