@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ch1-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2021-09-12 09:45:42.891866
-ch1-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2021-09-12 09:45:48.814253
 bn2-ris-ap-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-09-12 17:50:17.381304
 cds20452.lcy.llnw.net,AVAILABILITY,origin.list,2021-09-12 17:50:23.622263
 cds20457.lcy.llnw.net,AVAILABILITY,origin.list,2021-09-12 17:50:29.870065
@@ -85,3 +83,5 @@ cds20443.lcy.llnw.net,AVAILABILITY,origin.list,2021-09-12 18:00:02.016487
 cds20445.lcy.llnw.net,AVAILABILITY,origin.list,2021-09-12 18:00:08.615553
 cds20450.lcy.llnw.net,AVAILABILITY,origin.list,2021-09-12 18:00:15.206262
 cds1325.lon.llnw.net,AVAILABILITY,origin.list,2021-09-12 18:00:21.809299
+ch1-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2021-09-13 13:52:02.668999
+ch1-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2021-09-13 13:52:08.215183
