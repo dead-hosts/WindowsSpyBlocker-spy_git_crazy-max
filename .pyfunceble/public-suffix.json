@@ -1871,7 +1871,8 @@
     ],
     "goog": [
         "cloud.goog",
-        "translate.goog"
+        "translate.goog",
+        "usercontent.goog"
     ],
     "gp": [
         "app.gp",
@@ -5635,7 +5636,6 @@
         "cdn77-ssl.net",
         "centralus.azurestaticapps.net",
         "channelsdvr.net",
-        "clic2000.net",
         "clickrising.net",
         "cloudaccess.net",
         "cloudapp.net",
@@ -7914,6 +7914,9 @@
         "rdv.to",
         "vpnplus.to"
     ],
+    "today": [
+        "prequalifyme.today"
+    ],
     "top": [
         "now-dns.top",
         "ntdll.top"
@@ -8529,7 +8532,6 @@
     ],
     "zm": [
         "ac.zm",
-        "biz.zm",
         "co.zm",
         "com.zm",
         "edu.zm",
@@ -8548,6 +8550,7 @@
     ],
     "zw": [
         "ac.zw",
+        "biz.zm",
         "co.zw",
         "gov.zw",
         "mil.zw",
