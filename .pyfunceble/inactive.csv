@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cds20415.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-02 06:44:13.129599
-cds20416.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-02 06:44:14.152668
-cds20417.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-02 06:44:15.220840
-cds20424.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-02 06:44:16.295079
-cds20425.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-02 06:44:17.306065
-cds20431.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-02 06:44:18.383098
-cds20435.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-03 06:36:58.855345
-cds20440.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-03 06:36:59.912564
-cds20443.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-03 06:37:00.959407
-cds20445.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-03 06:37:02.030285
-cds20450.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-03 06:37:03.047013
-cds1325.lon.llnw.net,AVAILABILITY,origin.list,2021-10-03 06:37:04.153814
 ch1-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2021-10-04 06:41:56.836166
 ch1-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2021-10-04 06:41:57.518931
 bn2-ris-ap-prod-atm.trafficmanager.net,AVAILABILITY,origin.list,2021-10-04 06:41:58.230285
@@ -85,3 +73,15 @@ cds1327.lon.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:42:51.891313
 cds20005.stn.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:42:52.729156
 cds20404.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:42:53.506225
 cds20411.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:42:54.345536
+cds20415.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:41.281298
+cds20416.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:42.129312
+cds20417.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:42.946396
+cds20424.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:43.717465
+cds20425.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:44.488053
+cds20431.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:45.282483
+cds20435.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:46.099991
+cds20440.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:46.874999
+cds20443.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:47.701268
+cds20445.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:48.489445
+cds20450.lcy.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:49.301775
+cds1325.lon.llnw.net,AVAILABILITY,origin.list,2021-10-04 06:49:50.081637
