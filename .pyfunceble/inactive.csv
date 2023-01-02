@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2022-12-31 05:26:28.866082
 cds1.stn.llnw.net,AVAILABILITY,origin.list,2023-01-01 05:26:07.829416
 cds1203.lon.llnw.net,AVAILABILITY,origin.list,2023-01-01 05:26:08.308231
 cds10.stn.llnw.net,AVAILABILITY,origin.list,2023-01-01 05:26:08.766565
@@ -111,3 +110,4 @@ cds20417.lcy.llnw.net,AVAILABILITY,origin.list,2023-01-01 05:26:22.805968
 cds20424.lcy.llnw.net,AVAILABILITY,origin.list,2023-01-01 05:26:22.823855
 cds20443.lcy.llnw.net,AVAILABILITY,origin.list,2023-01-01 05:26:22.979737
 cds20431.lcy.llnw.net,AVAILABILITY,origin.list,2023-01-01 05:26:23.031342
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-01-02 05:25:27.372008
