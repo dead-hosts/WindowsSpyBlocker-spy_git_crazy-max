@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-aidps.atdmt.com,AVAILABILITY,origin.list,2023-02-15 05:27:14.333925
-c.atdmt.com,AVAILABILITY,origin.list,2023-02-15 05:27:14.903312
-ec.atdmt.com,AVAILABILITY,origin.list,2023-02-15 05:27:15.427684
 cdn.atdmt.com,AVAILABILITY,origin.list,2023-02-16 05:24:09.440625
 db3aqu.atdmt.com,AVAILABILITY,origin.list,2023-02-16 05:24:09.930772
 view.atdmt.com,AVAILABILITY,origin.list,2023-02-16 05:24:10.418765
@@ -117,3 +114,6 @@ cds20424.lcy.llnw.net,AVAILABILITY,origin.list,2023-02-16 05:24:24.994300
 cds20443.lcy.llnw.net,AVAILABILITY,origin.list,2023-02-16 05:24:24.999860
 lb1.www.ms.akadns.net,AVAILABILITY,origin.list,2023-02-16 05:24:25.415865
 spyneteurope.microsoft.akadns.net,AVAILABILITY,origin.list,2023-02-16 05:24:25.741834
+aidps.atdmt.com,AVAILABILITY,origin.list,2023-02-17 05:25:32.156205
+c.atdmt.com,AVAILABILITY,origin.list,2023-02-17 05:25:32.657475
+ec.atdmt.com,AVAILABILITY,origin.list,2023-02-17 05:25:33.187017
