@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cds468.lcy.llnw.net,AVAILABILITY,origin.list,2023-09-05 05:16:46.303876
-cds469.lcy.llnw.net,AVAILABILITY,origin.list,2023-09-05 05:16:46.509924
 ch1-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-09-06 05:16:34.834256
 ch1-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2023-09-06 05:16:35.088553
 web.vortex.data.microsoft.com,AVAILABILITY,origin.list,2023-09-06 05:16:35.269207
@@ -120,3 +118,5 @@ ca.telemetry.microsoft.com,AVAILABILITY,origin.list,2023-09-06 05:16:47.543730
 spyneteurope.microsoft.akadns.net,AVAILABILITY,origin.list,2023-09-06 05:16:47.646401
 schemas.microsoft.akadns.net,AVAILABILITY,origin.list,2023-09-06 05:16:47.832559
 lb1.www.ms.akadns.net,AVAILABILITY,origin.list,2023-09-06 05:16:47.944931
+cds468.lcy.llnw.net,AVAILABILITY,origin.list,2023-09-07 05:16:45.491056
+cds469.lcy.llnw.net,AVAILABILITY,origin.list,2023-09-07 05:16:45.699073
