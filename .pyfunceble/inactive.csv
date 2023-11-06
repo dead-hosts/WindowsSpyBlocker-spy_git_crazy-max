@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cds468.lcy.llnw.net,AVAILABILITY,origin.list,2023-11-04 05:16:37.486887
-cds469.lcy.llnw.net,AVAILABILITY,origin.list,2023-11-04 05:16:38.160110
 ch1-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-11-05 05:16:56.708711
 ch1-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2023-11-05 05:16:56.863494
 sn3301-c.1drv.com,AVAILABILITY,origin.list,2023-11-05 05:16:57.271579
@@ -120,3 +118,5 @@ cds1327.lon.llnw.net,AVAILABILITY,origin.list,2023-11-05 05:17:17.456475
 schemas.microsoft.akadns.net,AVAILABILITY,origin.list,2023-11-05 05:17:17.527888
 spyneteurope.microsoft.akadns.net,AVAILABILITY,origin.list,2023-11-05 05:17:17.836106
 lb1.www.ms.akadns.net,AVAILABILITY,origin.list,2023-11-05 05:17:17.926312
+cds468.lcy.llnw.net,AVAILABILITY,origin.list,2023-11-06 05:17:56.341446
+cds469.lcy.llnw.net,AVAILABILITY,origin.list,2023-11-06 05:17:57.001268
